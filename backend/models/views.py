@@ -13,7 +13,7 @@ import os
 load_dotenv()
 
 
-ANTHROPIC_API_KEY = "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"
+ANTHROPIC_API_KEY = ""
 @csrf_exempt
 @require_http_methods(["GET"])
 def get_properties(request):
