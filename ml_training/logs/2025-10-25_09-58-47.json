@@ -1,0 +1,1419 @@
+[
+    {
+        "timestamp": "09:58:37.302",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:37.358",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:37.418",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:37.472",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:37.527",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:37.590",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:37.647",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:37.709",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:38.049",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:38.128",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:38.190",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:38.252",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:38.309",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:38.359",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:38.412",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:38.467",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:38.522",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:38.579",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:38.631",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:38.680",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:38.731",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:38.785",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:38.844",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:38.893",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:38.947",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:38.997",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:39.055",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:39.112",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:39.164",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:39.213",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:39.263",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:39.312",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:39.364",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:39.414",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:39.469",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:39.524",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:39.586",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:39.635",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:39.685",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:39.741",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:39.877",
+        "detections": [
+            {
+                "xmin": 381.94158935546875,
+                "ymin": 1.8389511108398438,
+                "xmax": 407.3353576660156,
+                "ymax": 42.78857421875,
+                "confidence": 0.2514120638370514,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:39.937",
+        "detections": [
+            {
+                "xmin": 364.8103332519531,
+                "ymin": 0.5698479413986206,
+                "xmax": 392.2595520019531,
+                "ymax": 46.067230224609375,
+                "confidence": 0.3908011019229889,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:39.988",
+        "detections": [
+            {
+                "xmin": 361.9296875,
+                "ymin": 0.7926165461540222,
+                "xmax": 389.2386779785156,
+                "ymax": 46.763465881347656,
+                "confidence": 0.37806540727615356,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:40.039",
+        "detections": [
+            {
+                "xmin": 361.4425964355469,
+                "ymin": 1.6103944778442383,
+                "xmax": 387.979736328125,
+                "ymax": 43.24226379394531,
+                "confidence": 0.25621291995048523,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:40.100",
+        "detections": [
+            {
+                "xmin": 353.02838134765625,
+                "ymin": 0.0,
+                "xmax": 380.7763977050781,
+                "ymax": 44.94738006591797,
+                "confidence": 0.3128974139690399,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:40.155",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:40.207",
+        "detections": [
+            {
+                "xmin": 341.178466796875,
+                "ymin": 0.13769537210464478,
+                "xmax": 369.0828552246094,
+                "ymax": 48.77955627441406,
+                "confidence": 0.4949726164340973,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:40.269",
+        "detections": [
+            {
+                "xmin": 339.969970703125,
+                "ymin": 0.7583814859390259,
+                "xmax": 367.0452880859375,
+                "ymax": 45.69165802001953,
+                "confidence": 0.5002676844596863,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:40.320",
+        "detections": [
+            {
+                "xmin": 332.44775390625,
+                "ymin": 0.0,
+                "xmax": 361.26055908203125,
+                "ymax": 47.795562744140625,
+                "confidence": 0.6807799935340881,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:40.380",
+        "detections": [
+            {
+                "xmin": 329.7785339355469,
+                "ymin": 0.0,
+                "xmax": 356.1278381347656,
+                "ymax": 46.07833480834961,
+                "confidence": 0.5339743494987488,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:40.439",
+        "detections": [
+            {
+                "xmin": 327.1983337402344,
+                "ymin": 0.16108977794647217,
+                "xmax": 353.2518615722656,
+                "ymax": 45.53681945800781,
+                "confidence": 0.3273516595363617,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:40.491",
+        "detections": [
+            {
+                "xmin": 322.575927734375,
+                "ymin": 0.5959256291389465,
+                "xmax": 348.8883361816406,
+                "ymax": 45.88248062133789,
+                "confidence": 0.43381404876708984,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:40.548",
+        "detections": [
+            {
+                "xmin": 322.28546142578125,
+                "ymin": 2.029546022415161,
+                "xmax": 346.2546081542969,
+                "ymax": 43.84015655517578,
+                "confidence": 0.3055505156517029,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:40.614",
+        "detections": [
+            {
+                "xmin": 320.20733642578125,
+                "ymin": 1.1341875791549683,
+                "xmax": 344.6972351074219,
+                "ymax": 44.26046371459961,
+                "confidence": 0.3449133336544037,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:40.666",
+        "detections": [
+            {
+                "xmin": 319.4046325683594,
+                "ymin": 1.2061303853988647,
+                "xmax": 343.5809631347656,
+                "ymax": 44.04383087158203,
+                "confidence": 0.28921377658843994,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:40.727",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:40.788",
+        "detections": [
+            {
+                "xmin": 318.18798828125,
+                "ymin": 0.6609768867492676,
+                "xmax": 341.50634765625,
+                "ymax": 43.12166213989258,
+                "confidence": 0.31251588463783264,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:40.842",
+        "detections": [
+            {
+                "xmin": 318.0140075683594,
+                "ymin": 0.5919251441955566,
+                "xmax": 341.8052062988281,
+                "ymax": 42.714290618896484,
+                "confidence": 0.30656322836875916,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:40.892",
+        "detections": [
+            {
+                "xmin": 318.54327392578125,
+                "ymin": 0.6617393493652344,
+                "xmax": 342.2613525390625,
+                "ymax": 42.610713958740234,
+                "confidence": 0.3199036121368408,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:40.945",
+        "detections": [
+            {
+                "xmin": 318.9613037109375,
+                "ymin": 0.798056423664093,
+                "xmax": 342.8231201171875,
+                "ymax": 42.243831634521484,
+                "confidence": 0.31878921389579773,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:40.999",
+        "detections": [
+            {
+                "xmin": 319.3297424316406,
+                "ymin": 0.6689851880073547,
+                "xmax": 342.9374084472656,
+                "ymax": 42.16901397705078,
+                "confidence": 0.3628641963005066,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:41.054",
+        "detections": [
+            {
+                "xmin": 319.84320068359375,
+                "ymin": 0.3872503638267517,
+                "xmax": 344.3565673828125,
+                "ymax": 41.95476150512695,
+                "confidence": 0.4352618157863617,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:41.110",
+        "detections": [
+            {
+                "xmin": 320.77313232421875,
+                "ymin": 0.8618271946907043,
+                "xmax": 344.8233642578125,
+                "ymax": 41.53691864013672,
+                "confidence": 0.5114442706108093,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:41.161",
+        "detections": [
+            {
+                "xmin": 320.70245361328125,
+                "ymin": 0.8294591903686523,
+                "xmax": 345.3272705078125,
+                "ymax": 41.21841812133789,
+                "confidence": 0.5480427145957947,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:41.220",
+        "detections": [
+            {
+                "xmin": 321.3348693847656,
+                "ymin": 0.8805233836174011,
+                "xmax": 345.5010986328125,
+                "ymax": 41.03578186035156,
+                "confidence": 0.6254668831825256,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:41.271",
+        "detections": [
+            {
+                "xmin": 321.3749694824219,
+                "ymin": 0.39852723479270935,
+                "xmax": 345.8165283203125,
+                "ymax": 40.91861343383789,
+                "confidence": 0.6570864915847778,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:41.321",
+        "detections": [
+            {
+                "xmin": 321.5417175292969,
+                "ymin": 0.6130138635635376,
+                "xmax": 346.0041809082031,
+                "ymax": 40.69521713256836,
+                "confidence": 0.6166793704032898,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:41.391",
+        "detections": [
+            {
+                "xmin": 321.9328918457031,
+                "ymin": 0.7210916876792908,
+                "xmax": 345.72015380859375,
+                "ymax": 40.5230827331543,
+                "confidence": 0.6204597353935242,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:41.440",
+        "detections": [
+            {
+                "xmin": 321.8819274902344,
+                "ymin": 0.7090535759925842,
+                "xmax": 345.8694763183594,
+                "ymax": 40.37263870239258,
+                "confidence": 0.6244068145751953,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:41.490",
+        "detections": [
+            {
+                "xmin": 321.80010986328125,
+                "ymin": 0.7322097420692444,
+                "xmax": 345.99432373046875,
+                "ymax": 40.38642120361328,
+                "confidence": 0.6222124099731445,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:41.539",
+        "detections": [
+            {
+                "xmin": 321.9944152832031,
+                "ymin": 0.8020752668380737,
+                "xmax": 345.714599609375,
+                "ymax": 40.29656982421875,
+                "confidence": 0.6170210838317871,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:41.592",
+        "detections": [
+            {
+                "xmin": 321.78265380859375,
+                "ymin": 0.9866181015968323,
+                "xmax": 345.7158508300781,
+                "ymax": 40.5410270690918,
+                "confidence": 0.6063390374183655,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:41.645",
+        "detections": [
+            {
+                "xmin": 321.64947509765625,
+                "ymin": 0.7287395596504211,
+                "xmax": 345.69842529296875,
+                "ymax": 41.005367279052734,
+                "confidence": 0.6429420113563538,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:41.693",
+        "detections": [
+            {
+                "xmin": 321.9714050292969,
+                "ymin": 1.0283581018447876,
+                "xmax": 345.69635009765625,
+                "ymax": 41.075721740722656,
+                "confidence": 0.5882613658905029,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:41.744",
+        "detections": [
+            {
+                "xmin": 322.0389709472656,
+                "ymin": 1.3235985040664673,
+                "xmax": 346.2606506347656,
+                "ymax": 41.3128662109375,
+                "confidence": 0.5339109897613525,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:41.792",
+        "detections": [
+            {
+                "xmin": 321.8647766113281,
+                "ymin": 1.1508750915527344,
+                "xmax": 346.6015625,
+                "ymax": 42.13367462158203,
+                "confidence": 0.5514816641807556,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:41.846",
+        "detections": [
+            {
+                "xmin": 321.8099060058594,
+                "ymin": 0.7492050528526306,
+                "xmax": 347.0338134765625,
+                "ymax": 43.61949920654297,
+                "confidence": 0.6119474172592163,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:41.898",
+        "detections": [
+            {
+                "xmin": 321.7705383300781,
+                "ymin": 0.7130393981933594,
+                "xmax": 347.6296081542969,
+                "ymax": 44.36244201660156,
+                "confidence": 0.5699275135993958,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:41.947",
+        "detections": [
+            {
+                "xmin": 321.6219787597656,
+                "ymin": 1.3435715436935425,
+                "xmax": 346.8782653808594,
+                "ymax": 44.972896575927734,
+                "confidence": 0.340554803609848,
+                "class": 3,
+                "name": "crack"
+            },
+            {
+                "xmin": 409.5096130371094,
+                "ymin": 228.0094451904297,
+                "xmax": 461.888916015625,
+                "ymax": 336.78619384765625,
+                "confidence": 0.2627066969871521,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:41.998",
+        "detections": [
+            {
+                "xmin": 321.5644226074219,
+                "ymin": 1.5047492980957031,
+                "xmax": 347.5636291503906,
+                "ymax": 45.76407241821289,
+                "confidence": 0.28578680753707886,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:42.047",
+        "detections": [
+            {
+                "xmin": 321.12548828125,
+                "ymin": 1.0089775323867798,
+                "xmax": 348.5816650390625,
+                "ymax": 47.589969635009766,
+                "confidence": 0.2646562159061432,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:42.102",
+        "detections": [
+            {
+                "xmin": 320.9843444824219,
+                "ymin": 0.4944790303707123,
+                "xmax": 348.9939270019531,
+                "ymax": 48.41987609863281,
+                "confidence": 0.3415153920650482,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:42.160",
+        "detections": [
+            {
+                "xmin": 320.8189392089844,
+                "ymin": 0.0,
+                "xmax": 349.76483154296875,
+                "ymax": 51.46157455444336,
+                "confidence": 0.5137712359428406,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:42.210",
+        "detections": [
+            {
+                "xmin": 319.451904296875,
+                "ymin": 0.0,
+                "xmax": 350.52142333984375,
+                "ymax": 54.98085021972656,
+                "confidence": 0.5158751606941223,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:42.259",
+        "detections": [
+            {
+                "xmin": 319.23358154296875,
+                "ymin": 0.0,
+                "xmax": 349.6474609375,
+                "ymax": 57.34060287475586,
+                "confidence": 0.6135339736938477,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:42.307",
+        "detections": [
+            {
+                "xmin": 319.689453125,
+                "ymin": 0.0,
+                "xmax": 348.5488586425781,
+                "ymax": 59.121402740478516,
+                "confidence": 0.58997642993927,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:42.358",
+        "detections": [
+            {
+                "xmin": 319.3349914550781,
+                "ymin": 0.0,
+                "xmax": 347.735595703125,
+                "ymax": 58.7657585144043,
+                "confidence": 0.5856918096542358,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:42.410",
+        "detections": [
+            {
+                "xmin": 317.1263427734375,
+                "ymin": 0.0,
+                "xmax": 346.7095947265625,
+                "ymax": 60.908203125,
+                "confidence": 0.4327770173549652,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:42.459",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:42.507",
+        "detections": [
+            {
+                "xmin": 310.12969970703125,
+                "ymin": 0.0,
+                "xmax": 344.11993408203125,
+                "ymax": 66.62150573730469,
+                "confidence": 0.4541368782520294,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:42.561",
+        "detections": [
+            {
+                "xmin": 307.45989990234375,
+                "ymin": 0.0,
+                "xmax": 341.94110107421875,
+                "ymax": 70.35601806640625,
+                "confidence": 0.3260171115398407,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:42.617",
+        "detections": [
+            {
+                "xmin": 306.16650390625,
+                "ymin": 0.0,
+                "xmax": 338.5772399902344,
+                "ymax": 72.70516967773438,
+                "confidence": 0.4589803218841553,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:42.678",
+        "detections": [
+            {
+                "xmin": 302.3821105957031,
+                "ymin": 0.35729193687438965,
+                "xmax": 335.65936279296875,
+                "ymax": 73.597412109375,
+                "confidence": 0.28451594710350037,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:42.732",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:42.785",
+        "detections": [
+            {
+                "xmin": 299.7568664550781,
+                "ymin": 0.14196711778640747,
+                "xmax": 330.3554992675781,
+                "ymax": 80.32966613769531,
+                "confidence": 0.3034287393093109,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:42.835",
+        "detections": [
+            {
+                "xmin": 295.4927978515625,
+                "ymin": 1.464348554611206,
+                "xmax": 328.2314147949219,
+                "ymax": 84.38401794433594,
+                "confidence": 0.4376279413700104,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:42.889",
+        "detections": [
+            {
+                "xmin": 293.0279235839844,
+                "ymin": 1.4436936378479004,
+                "xmax": 327.9219970703125,
+                "ymax": 85.22866821289062,
+                "confidence": 0.3539202809333801,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:42.945",
+        "detections": [
+            {
+                "xmin": 290.7114562988281,
+                "ymin": 0.0,
+                "xmax": 324.4828186035156,
+                "ymax": 86.39457702636719,
+                "confidence": 0.743958055973053,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:43.001",
+        "detections": [
+            {
+                "xmin": 287.08905029296875,
+                "ymin": 0.0,
+                "xmax": 322.9193420410156,
+                "ymax": 85.98263549804688,
+                "confidence": 0.7404903173446655,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:43.061",
+        "detections": [
+            {
+                "xmin": 283.9094543457031,
+                "ymin": 0.0,
+                "xmax": 319.1488037109375,
+                "ymax": 89.075927734375,
+                "confidence": 0.7914103269577026,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:43.113",
+        "detections": [
+            {
+                "xmin": 280.1037292480469,
+                "ymin": 0.0,
+                "xmax": 315.92919921875,
+                "ymax": 91.42384338378906,
+                "confidence": 0.6893801689147949,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:43.174",
+        "detections": [
+            {
+                "xmin": 279.1414794921875,
+                "ymin": 0.0,
+                "xmax": 314.4462585449219,
+                "ymax": 91.80636596679688,
+                "confidence": 0.5371779799461365,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:43.230",
+        "detections": [
+            {
+                "xmin": 278.5487365722656,
+                "ymin": 0.0,
+                "xmax": 309.47760009765625,
+                "ymax": 92.44392395019531,
+                "confidence": 0.4216243326663971,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:43.288",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:43.340",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:43.392",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:43.441",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:43.491",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:43.545",
+        "detections": [
+            {
+                "xmin": 266.0698547363281,
+                "ymin": 0.0,
+                "xmax": 300.7704162597656,
+                "ymax": 98.75648498535156,
+                "confidence": 0.47101160883903503,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:43.598",
+        "detections": [
+            {
+                "xmin": 265.2951965332031,
+                "ymin": 0.0,
+                "xmax": 299.5669860839844,
+                "ymax": 99.12492370605469,
+                "confidence": 0.4275897741317749,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:43.650",
+        "detections": [
+            {
+                "xmin": 265.4349670410156,
+                "ymin": 1.0085278749465942,
+                "xmax": 298.3373718261719,
+                "ymax": 99.69515991210938,
+                "confidence": 0.40789535641670227,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:43.708",
+        "detections": [
+            {
+                "xmin": 264.4039611816406,
+                "ymin": 1.17182195186615,
+                "xmax": 297.5262756347656,
+                "ymax": 100.41521453857422,
+                "confidence": 0.3873896300792694,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:43.760",
+        "detections": [
+            {
+                "xmin": 263.3535461425781,
+                "ymin": 0.5731666088104248,
+                "xmax": 295.599365234375,
+                "ymax": 100.18089294433594,
+                "confidence": 0.2542688846588135,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:43.817",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:43.870",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:43.925",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:43.979",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:44.029",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:44.084",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:44.140",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:44.199",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:44.254",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:44.310",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:44.364",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:44.418",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:44.468",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:44.517",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:44.573",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:44.630",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:44.687",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:44.741",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:44.790",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:44.846",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:44.898",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:44.947",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:44.996",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:45.049",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:45.104",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:45.160",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:45.212",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:45.263",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:45.317",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:45.366",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:45.414",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:45.464",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:45.513",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:45.566",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:45.615",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:45.666",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:45.723",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:45.778",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:45.826",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:45.884",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:45.939",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:45.991",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:46.041",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:46.097",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:46.161",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:46.218",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:46.274",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:46.326",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:46.374",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:46.423",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:46.472",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:46.526",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:46.574",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:46.623",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:46.677",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:46.748",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:46.798",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:46.850",
+        "detections": []
+    },
+    {
+        "timestamp": "09:58:46.899",
+        "detections": [
+            {
+                "xmin": 348.84234619140625,
+                "ymin": 274.8767395019531,
+                "xmax": 399.256591796875,
+                "ymax": 368.9388122558594,
+                "confidence": 0.30104902386665344,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:46.947",
+        "detections": [
+            {
+                "xmin": 348.0796813964844,
+                "ymin": 276.447265625,
+                "xmax": 398.2680969238281,
+                "ymax": 368.712158203125,
+                "confidence": 0.3645265996456146,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:46.995",
+        "detections": [
+            {
+                "xmin": 347.7669982910156,
+                "ymin": 277.5562744140625,
+                "xmax": 398.1298828125,
+                "ymax": 368.56927490234375,
+                "confidence": 0.3785955607891083,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:47.045",
+        "detections": [
+            {
+                "xmin": 348.2945861816406,
+                "ymin": 276.8368835449219,
+                "xmax": 399.0572204589844,
+                "ymax": 367.6550598144531,
+                "confidence": 0.3337244689464569,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:47.093",
+        "detections": [
+            {
+                "xmin": 348.0571594238281,
+                "ymin": 276.683349609375,
+                "xmax": 399.52032470703125,
+                "ymax": 367.4969177246094,
+                "confidence": 0.3321295976638794,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    },
+    {
+        "timestamp": "09:58:47.146",
+        "detections": [
+            {
+                "xmin": 349.1918640136719,
+                "ymin": 278.330078125,
+                "xmax": 399.8788757324219,
+                "ymax": 366.344482421875,
+                "confidence": 0.2827819883823395,
+                "class": 3,
+                "name": "crack"
+            }
+        ]
+    }
+]

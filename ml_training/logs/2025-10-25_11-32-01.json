@@ -1,0 +1,5017 @@
+[
+    {
+        "timestamp": "11:32:02.089",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000001.jpg"
+    },
+    {
+        "timestamp": "11:32:02.156",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000002.jpg"
+    },
+    {
+        "timestamp": "11:32:02.216",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000003.jpg"
+    },
+    {
+        "timestamp": "11:32:02.282",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000004.jpg"
+    },
+    {
+        "timestamp": "11:32:02.336",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000005.jpg"
+    },
+    {
+        "timestamp": "11:32:02.392",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000006.jpg"
+    },
+    {
+        "timestamp": "11:32:02.448",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000007.jpg"
+    },
+    {
+        "timestamp": "11:32:02.506",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000008.jpg"
+    },
+    {
+        "timestamp": "11:32:02.558",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000009.jpg"
+    },
+    {
+        "timestamp": "11:32:02.617",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000010.jpg"
+    },
+    {
+        "timestamp": "11:32:02.667",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000011.jpg"
+    },
+    {
+        "timestamp": "11:32:02.723",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000012.jpg"
+    },
+    {
+        "timestamp": "11:32:02.774",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000013.jpg"
+    },
+    {
+        "timestamp": "11:32:02.824",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000014.jpg"
+    },
+    {
+        "timestamp": "11:32:02.877",
+        "detections": [
+            {
+                "xmin": 21.56833267211914,
+                "ymin": 358.0481872558594,
+                "xmax": 456.0673522949219,
+                "ymax": 820.0,
+                "confidence": 0.2787894308567047,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000015.jpg"
+    },
+    {
+        "timestamp": "11:32:02.930",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000016.jpg"
+    },
+    {
+        "timestamp": "11:32:02.986",
+        "detections": [
+            {
+                "xmin": 6.753958702087402,
+                "ymin": 353.5980224609375,
+                "xmax": 455.1703796386719,
+                "ymax": 820.0,
+                "confidence": 0.3465003967285156,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000017.jpg"
+    },
+    {
+        "timestamp": "11:32:03.033",
+        "detections": [
+            {
+                "xmin": 7.795384883880615,
+                "ymin": 356.98577880859375,
+                "xmax": 455.3140563964844,
+                "ymax": 820.0,
+                "confidence": 0.28344079852104187,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000018.jpg"
+    },
+    {
+        "timestamp": "11:32:03.101",
+        "detections": [
+            {
+                "xmin": 2.609954833984375,
+                "ymin": 364.24560546875,
+                "xmax": 462.7104797363281,
+                "ymax": 820.0,
+                "confidence": 0.34966450929641724,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000019.jpg"
+    },
+    {
+        "timestamp": "11:32:03.176",
+        "detections": [
+            {
+                "xmin": 2.751948833465576,
+                "ymin": 305.5143737792969,
+                "xmax": 462.7452392578125,
+                "ymax": 819.7899169921875,
+                "confidence": 0.33378806710243225,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000020.jpg"
+    },
+    {
+        "timestamp": "11:32:03.240",
+        "detections": [
+            {
+                "xmin": 8.214719772338867,
+                "ymin": 297.4013671875,
+                "xmax": 465.0,
+                "ymax": 814.1422729492188,
+                "confidence": 0.2995283901691437,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000021.jpg"
+    },
+    {
+        "timestamp": "11:32:03.296",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 294.8035888671875,
+                "xmax": 465.0,
+                "ymax": 820.0,
+                "confidence": 0.2964656949043274,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000022.jpg"
+    },
+    {
+        "timestamp": "11:32:03.348",
+        "detections": [
+            {
+                "xmin": 0.2560175955295563,
+                "ymin": 236.91665649414062,
+                "xmax": 463.44970703125,
+                "ymax": 806.9913940429688,
+                "confidence": 0.3019317090511322,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000023.jpg"
+    },
+    {
+        "timestamp": "11:32:03.406",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 238.97789001464844,
+                "xmax": 464.957763671875,
+                "ymax": 806.9629516601562,
+                "confidence": 0.33745813369750977,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000024.jpg"
+    },
+    {
+        "timestamp": "11:32:03.461",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 239.14410400390625,
+                "xmax": 463.2200622558594,
+                "ymax": 807.1653442382812,
+                "confidence": 0.31935426592826843,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000025.jpg"
+    },
+    {
+        "timestamp": "11:32:03.527",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 233.79364013671875,
+                "xmax": 465.0,
+                "ymax": 808.404052734375,
+                "confidence": 0.329177588224411,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000026.jpg"
+    },
+    {
+        "timestamp": "11:32:03.578",
+        "detections": [
+            {
+                "xmin": 9.910475730895996,
+                "ymin": 235.3974609375,
+                "xmax": 464.4196472167969,
+                "ymax": 787.5426025390625,
+                "confidence": 0.3732585906982422,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000027.jpg"
+    },
+    {
+        "timestamp": "11:32:03.626",
+        "detections": [
+            {
+                "xmin": 2.9018020629882812,
+                "ymin": 369.0589904785156,
+                "xmax": 457.9703674316406,
+                "ymax": 820.0,
+                "confidence": 0.2940894365310669,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000028.jpg"
+    },
+    {
+        "timestamp": "11:32:03.673",
+        "detections": [
+            {
+                "xmin": 4.768056392669678,
+                "ymin": 373.8760681152344,
+                "xmax": 454.6665344238281,
+                "ymax": 820.0,
+                "confidence": 0.34690234065055847,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000029.jpg"
+    },
+    {
+        "timestamp": "11:32:03.728",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 427.4924621582031,
+                "xmax": 456.0012512207031,
+                "ymax": 820.0,
+                "confidence": 0.41070684790611267,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000030.jpg"
+    },
+    {
+        "timestamp": "11:32:03.775",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 379.1927185058594,
+                "xmax": 461.4331970214844,
+                "ymax": 820.0,
+                "confidence": 0.3579085171222687,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000031.jpg"
+    },
+    {
+        "timestamp": "11:32:03.827",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 379.20709228515625,
+                "xmax": 461.15191650390625,
+                "ymax": 820.0,
+                "confidence": 0.39053457975387573,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000032.jpg"
+    },
+    {
+        "timestamp": "11:32:03.877",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 375.6636962890625,
+                "xmax": 462.1492919921875,
+                "ymax": 820.0,
+                "confidence": 0.4918738305568695,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000033.jpg"
+    },
+    {
+        "timestamp": "11:32:03.925",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 373.5289611816406,
+                "xmax": 463.23828125,
+                "ymax": 820.0,
+                "confidence": 0.5011023879051208,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000034.jpg"
+    },
+    {
+        "timestamp": "11:32:03.977",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 285.0591735839844,
+                "xmax": 460.53619384765625,
+                "ymax": 820.0,
+                "confidence": 0.39834341406822205,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000035.jpg"
+    },
+    {
+        "timestamp": "11:32:04.026",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 284.1888122558594,
+                "xmax": 458.1588439941406,
+                "ymax": 820.0,
+                "confidence": 0.4158606231212616,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000036.jpg"
+    },
+    {
+        "timestamp": "11:32:04.072",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 215.73924255371094,
+                "xmax": 458.5617370605469,
+                "ymax": 819.69287109375,
+                "confidence": 0.3561466634273529,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000037.jpg"
+    },
+    {
+        "timestamp": "11:32:04.122",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 211.31752014160156,
+                "xmax": 452.4437255859375,
+                "ymax": 820.0,
+                "confidence": 0.40365368127822876,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000038.jpg"
+    },
+    {
+        "timestamp": "11:32:04.169",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 208.12533569335938,
+                "xmax": 448.1882629394531,
+                "ymax": 820.0,
+                "confidence": 0.28719961643218994,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000039.jpg"
+    },
+    {
+        "timestamp": "11:32:04.217",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 213.94076538085938,
+                "xmax": 447.6148681640625,
+                "ymax": 817.2642211914062,
+                "confidence": 0.2601848840713501,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000040.jpg"
+    },
+    {
+        "timestamp": "11:32:04.265",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 210.81430053710938,
+                "xmax": 442.7703857421875,
+                "ymax": 816.8137817382812,
+                "confidence": 0.26981762051582336,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000041.jpg"
+    },
+    {
+        "timestamp": "11:32:04.314",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000042.jpg"
+    },
+    {
+        "timestamp": "11:32:04.362",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000043.jpg"
+    },
+    {
+        "timestamp": "11:32:04.410",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000044.jpg"
+    },
+    {
+        "timestamp": "11:32:04.475",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000045.jpg"
+    },
+    {
+        "timestamp": "11:32:04.527",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000046.jpg"
+    },
+    {
+        "timestamp": "11:32:04.575",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000047.jpg"
+    },
+    {
+        "timestamp": "11:32:04.625",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000048.jpg"
+    },
+    {
+        "timestamp": "11:32:04.674",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000049.jpg"
+    },
+    {
+        "timestamp": "11:32:04.723",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000050.jpg"
+    },
+    {
+        "timestamp": "11:32:04.774",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000051.jpg"
+    },
+    {
+        "timestamp": "11:32:04.822",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000052.jpg"
+    },
+    {
+        "timestamp": "11:32:04.869",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000053.jpg"
+    },
+    {
+        "timestamp": "11:32:04.919",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000054.jpg"
+    },
+    {
+        "timestamp": "11:32:04.974",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000055.jpg"
+    },
+    {
+        "timestamp": "11:32:05.026",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000056.jpg"
+    },
+    {
+        "timestamp": "11:32:05.081",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000057.jpg"
+    },
+    {
+        "timestamp": "11:32:05.132",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 135.26751708984375,
+                "xmax": 435.630615234375,
+                "ymax": 820.0,
+                "confidence": 0.2638140618801117,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000058.jpg"
+    },
+    {
+        "timestamp": "11:32:05.197",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000059.jpg"
+    },
+    {
+        "timestamp": "11:32:05.249",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000060.jpg"
+    },
+    {
+        "timestamp": "11:32:05.303",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000061.jpg"
+    },
+    {
+        "timestamp": "11:32:05.354",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000062.jpg"
+    },
+    {
+        "timestamp": "11:32:05.403",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000063.jpg"
+    },
+    {
+        "timestamp": "11:32:05.464",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000064.jpg"
+    },
+    {
+        "timestamp": "11:32:05.520",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000065.jpg"
+    },
+    {
+        "timestamp": "11:32:05.569",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000066.jpg"
+    },
+    {
+        "timestamp": "11:32:05.619",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000067.jpg"
+    },
+    {
+        "timestamp": "11:32:05.670",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000068.jpg"
+    },
+    {
+        "timestamp": "11:32:05.723",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000069.jpg"
+    },
+    {
+        "timestamp": "11:32:05.770",
+        "detections": [
+            {
+                "xmin": 0.8807091116905212,
+                "ymin": 348.4417419433594,
+                "xmax": 357.9723815917969,
+                "ymax": 753.0262451171875,
+                "confidence": 0.3218974769115448,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000070.jpg"
+    },
+    {
+        "timestamp": "11:32:05.817",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 269.783447265625,
+                "xmax": 369.59228515625,
+                "ymax": 682.5992431640625,
+                "confidence": 0.31414103507995605,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000071.jpg"
+    },
+    {
+        "timestamp": "11:32:05.868",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 266.52691650390625,
+                "xmax": 374.3597717285156,
+                "ymax": 677.8787841796875,
+                "confidence": 0.2526271939277649,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000072.jpg"
+    },
+    {
+        "timestamp": "11:32:05.915",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 262.0125427246094,
+                "xmax": 383.3594055175781,
+                "ymax": 676.2632446289062,
+                "confidence": 0.4370337724685669,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000073.jpg"
+    },
+    {
+        "timestamp": "11:32:05.968",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 257.1607666015625,
+                "xmax": 392.6057434082031,
+                "ymax": 672.704345703125,
+                "confidence": 0.347902774810791,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000074.jpg"
+    },
+    {
+        "timestamp": "11:32:06.016",
+        "detections": [
+            {
+                "xmin": 5.908993721008301,
+                "ymin": 245.39808654785156,
+                "xmax": 412.0074768066406,
+                "ymax": 629.8857421875,
+                "confidence": 0.5320386290550232,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000075.jpg"
+    },
+    {
+        "timestamp": "11:32:06.066",
+        "detections": [
+            {
+                "xmin": 6.107820510864258,
+                "ymin": 244.0114288330078,
+                "xmax": 421.1394348144531,
+                "ymax": 632.2755737304688,
+                "confidence": 0.524922788143158,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000076.jpg"
+    },
+    {
+        "timestamp": "11:32:06.114",
+        "detections": [
+            {
+                "xmin": 0.6818041205406189,
+                "ymin": 238.6185302734375,
+                "xmax": 419.17608642578125,
+                "ymax": 642.715087890625,
+                "confidence": 0.41047120094299316,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000077.jpg"
+    },
+    {
+        "timestamp": "11:32:06.162",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 238.21371459960938,
+                "xmax": 424.88763427734375,
+                "ymax": 642.1641845703125,
+                "confidence": 0.3970094919204712,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000078.jpg"
+    },
+    {
+        "timestamp": "11:32:06.218",
+        "detections": [
+            {
+                "xmin": 1.2794380187988281,
+                "ymin": 243.19482421875,
+                "xmax": 440.919921875,
+                "ymax": 634.6065063476562,
+                "confidence": 0.3929496705532074,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000079.jpg"
+    },
+    {
+        "timestamp": "11:32:06.270",
+        "detections": [
+            {
+                "xmin": 1.818166732788086,
+                "ymin": 222.7027130126953,
+                "xmax": 447.84759521484375,
+                "ymax": 637.771728515625,
+                "confidence": 0.3869188129901886,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000080.jpg"
+    },
+    {
+        "timestamp": "11:32:06.317",
+        "detections": [
+            {
+                "xmin": 6.7847113609313965,
+                "ymin": 197.45318603515625,
+                "xmax": 454.3951721191406,
+                "ymax": 604.6795654296875,
+                "confidence": 0.29578009247779846,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000081.jpg"
+    },
+    {
+        "timestamp": "11:32:06.364",
+        "detections": [
+            {
+                "xmin": 3.0956826210021973,
+                "ymin": 243.4193115234375,
+                "xmax": 450.8724060058594,
+                "ymax": 614.0333862304688,
+                "confidence": 0.304000586271286,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000082.jpg"
+    },
+    {
+        "timestamp": "11:32:06.415",
+        "detections": [
+            {
+                "xmin": 2.918400287628174,
+                "ymin": 186.6045379638672,
+                "xmax": 460.3679504394531,
+                "ymax": 598.280029296875,
+                "confidence": 0.4345911741256714,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000083.jpg"
+    },
+    {
+        "timestamp": "11:32:06.462",
+        "detections": [
+            {
+                "xmin": 0.17066088318824768,
+                "ymin": 190.35984802246094,
+                "xmax": 465.0,
+                "ymax": 596.4888916015625,
+                "confidence": 0.3159481883049011,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000084.jpg"
+    },
+    {
+        "timestamp": "11:32:06.511",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000085.jpg"
+    },
+    {
+        "timestamp": "11:32:06.559",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000086.jpg"
+    },
+    {
+        "timestamp": "11:32:06.611",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000087.jpg"
+    },
+    {
+        "timestamp": "11:32:06.660",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000088.jpg"
+    },
+    {
+        "timestamp": "11:32:06.708",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000089.jpg"
+    },
+    {
+        "timestamp": "11:32:06.755",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000090.jpg"
+    },
+    {
+        "timestamp": "11:32:06.804",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000091.jpg"
+    },
+    {
+        "timestamp": "11:32:06.850",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000092.jpg"
+    },
+    {
+        "timestamp": "11:32:06.900",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000093.jpg"
+    },
+    {
+        "timestamp": "11:32:06.948",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000094.jpg"
+    },
+    {
+        "timestamp": "11:32:06.999",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000095.jpg"
+    },
+    {
+        "timestamp": "11:32:07.049",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000096.jpg"
+    },
+    {
+        "timestamp": "11:32:07.097",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000097.jpg"
+    },
+    {
+        "timestamp": "11:32:07.147",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000098.jpg"
+    },
+    {
+        "timestamp": "11:32:07.194",
+        "detections": [
+            {
+                "xmin": 10.11411190032959,
+                "ymin": 22.896381378173828,
+                "xmax": 452.05084228515625,
+                "ymax": 440.27276611328125,
+                "confidence": 0.28085073828697205,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000099.jpg"
+    },
+    {
+        "timestamp": "11:32:07.241",
+        "detections": [
+            {
+                "xmin": 7.476440906524658,
+                "ymin": 26.14873504638672,
+                "xmax": 461.76715087890625,
+                "ymax": 427.6685791015625,
+                "confidence": 0.4621552526950836,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000100.jpg"
+    },
+    {
+        "timestamp": "11:32:07.290",
+        "detections": [
+            {
+                "xmin": 7.226314067840576,
+                "ymin": 26.022459030151367,
+                "xmax": 461.72637939453125,
+                "ymax": 424.453125,
+                "confidence": 0.5587885975837708,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000101.jpg"
+    },
+    {
+        "timestamp": "11:32:07.343",
+        "detections": [
+            {
+                "xmin": 13.680599212646484,
+                "ymin": 25.30652618408203,
+                "xmax": 453.83892822265625,
+                "ymax": 423.00531005859375,
+                "confidence": 0.5049163103103638,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000102.jpg"
+    },
+    {
+        "timestamp": "11:32:07.394",
+        "detections": [
+            {
+                "xmin": 16.825660705566406,
+                "ymin": 10.242883682250977,
+                "xmax": 449.96209716796875,
+                "ymax": 378.0882568359375,
+                "confidence": 0.40298032760620117,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 24.289953231811523,
+                "ymin": 250.0907440185547,
+                "xmax": 461.7578125,
+                "ymax": 594.99365234375,
+                "confidence": 0.27330511808395386,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000103.jpg"
+    },
+    {
+        "timestamp": "11:32:07.441",
+        "detections": [
+            {
+                "xmin": 22.73798942565918,
+                "ymin": 267.2257995605469,
+                "xmax": 465.0,
+                "ymax": 590.2261352539062,
+                "confidence": 0.40074968338012695,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 14.484606742858887,
+                "ymin": 7.910452365875244,
+                "xmax": 448.49267578125,
+                "ymax": 362.57781982421875,
+                "confidence": 0.334670752286911,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000104.jpg"
+    },
+    {
+        "timestamp": "11:32:07.489",
+        "detections": [
+            {
+                "xmin": 9.465022087097168,
+                "ymin": 21.81240463256836,
+                "xmax": 455.1837158203125,
+                "ymax": 344.4671325683594,
+                "confidence": 0.3349180519580841,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000105.jpg"
+    },
+    {
+        "timestamp": "11:32:07.539",
+        "detections": [
+            {
+                "xmin": 32.28468704223633,
+                "ymin": 225.20391845703125,
+                "xmax": 465.0,
+                "ymax": 569.738525390625,
+                "confidence": 0.4392038881778717,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000106.jpg"
+    },
+    {
+        "timestamp": "11:32:07.589",
+        "detections": [
+            {
+                "xmin": 2.115175247192383,
+                "ymin": 16.543582916259766,
+                "xmax": 461.9264221191406,
+                "ymax": 268.3238830566406,
+                "confidence": 0.3727642893791199,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 12.44015121459961,
+                "ymin": 202.59315490722656,
+                "xmax": 465.0,
+                "ymax": 551.2145385742188,
+                "confidence": 0.2817591726779938,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000107.jpg"
+    },
+    {
+        "timestamp": "11:32:07.636",
+        "detections": [
+            {
+                "xmin": 21.495038986206055,
+                "ymin": 161.14212036132812,
+                "xmax": 465.0,
+                "ymax": 538.7305297851562,
+                "confidence": 0.2998056411743164,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000108.jpg"
+    },
+    {
+        "timestamp": "11:32:07.683",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 3.593672275543213,
+                "xmax": 465.0,
+                "ymax": 205.78506469726562,
+                "confidence": 0.26772063970565796,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000109.jpg"
+    },
+    {
+        "timestamp": "11:32:07.733",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 2.9407498836517334,
+                "xmax": 465.0,
+                "ymax": 188.99688720703125,
+                "confidence": 0.3218706250190735,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000110.jpg"
+    },
+    {
+        "timestamp": "11:32:07.781",
+        "detections": [
+            {
+                "xmin": 1.4986557960510254,
+                "ymin": 0.4402342140674591,
+                "xmax": 456.510986328125,
+                "ymax": 153.7499237060547,
+                "confidence": 0.3459204435348511,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000111.jpg"
+    },
+    {
+        "timestamp": "11:32:07.847",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000112.jpg"
+    },
+    {
+        "timestamp": "11:32:07.901",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000113.jpg"
+    },
+    {
+        "timestamp": "11:32:07.950",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000114.jpg"
+    },
+    {
+        "timestamp": "11:32:08.007",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000115.jpg"
+    },
+    {
+        "timestamp": "11:32:08.059",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000116.jpg"
+    },
+    {
+        "timestamp": "11:32:08.109",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000117.jpg"
+    },
+    {
+        "timestamp": "11:32:08.158",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000118.jpg"
+    },
+    {
+        "timestamp": "11:32:08.212",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000119.jpg"
+    },
+    {
+        "timestamp": "11:32:08.260",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000120.jpg"
+    },
+    {
+        "timestamp": "11:32:08.309",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000121.jpg"
+    },
+    {
+        "timestamp": "11:32:08.356",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000122.jpg"
+    },
+    {
+        "timestamp": "11:32:08.405",
+        "detections": [
+            {
+                "xmin": 59.810760498046875,
+                "ymin": 696.4012451171875,
+                "xmax": 336.8768310546875,
+                "ymax": 818.2297973632812,
+                "confidence": 0.2647726237773895,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000123.jpg"
+    },
+    {
+        "timestamp": "11:32:08.458",
+        "detections": [
+            {
+                "xmin": 72.04456329345703,
+                "ymin": 719.2299194335938,
+                "xmax": 323.71624755859375,
+                "ymax": 819.734375,
+                "confidence": 0.5730140805244446,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000124.jpg"
+    },
+    {
+        "timestamp": "11:32:08.506",
+        "detections": [
+            {
+                "xmin": 77.27108001708984,
+                "ymin": 715.4190673828125,
+                "xmax": 333.4696960449219,
+                "ymax": 820.0,
+                "confidence": 0.6153586506843567,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000125.jpg"
+    },
+    {
+        "timestamp": "11:32:08.553",
+        "detections": [
+            {
+                "xmin": 67.69400024414062,
+                "ymin": 702.7150268554688,
+                "xmax": 422.93548583984375,
+                "ymax": 820.0,
+                "confidence": 0.4614226222038269,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000126.jpg"
+    },
+    {
+        "timestamp": "11:32:08.601",
+        "detections": [
+            {
+                "xmin": 72.91053771972656,
+                "ymin": 689.7400512695312,
+                "xmax": 415.67724609375,
+                "ymax": 820.0,
+                "confidence": 0.5531376600265503,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000127.jpg"
+    },
+    {
+        "timestamp": "11:32:08.650",
+        "detections": [
+            {
+                "xmin": 86.87960052490234,
+                "ymin": 692.8517456054688,
+                "xmax": 377.8909912109375,
+                "ymax": 820.0,
+                "confidence": 0.57445228099823,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000128.jpg"
+    },
+    {
+        "timestamp": "11:32:08.697",
+        "detections": [
+            {
+                "xmin": 83.86116790771484,
+                "ymin": 685.4869384765625,
+                "xmax": 377.67718505859375,
+                "ymax": 820.0,
+                "confidence": 0.6252498626708984,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000129.jpg"
+    },
+    {
+        "timestamp": "11:32:08.754",
+        "detections": [
+            {
+                "xmin": 74.32088470458984,
+                "ymin": 694.7640991210938,
+                "xmax": 388.1376953125,
+                "ymax": 820.0,
+                "confidence": 0.45680925250053406,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000130.jpg"
+    },
+    {
+        "timestamp": "11:32:08.801",
+        "detections": [
+            {
+                "xmin": 71.86310577392578,
+                "ymin": 692.4659423828125,
+                "xmax": 398.16265869140625,
+                "ymax": 820.0,
+                "confidence": 0.4352385699748993,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000131.jpg"
+    },
+    {
+        "timestamp": "11:32:08.847",
+        "detections": [
+            {
+                "xmin": 32.23643493652344,
+                "ymin": 697.0906372070312,
+                "xmax": 390.32061767578125,
+                "ymax": 820.0,
+                "confidence": 0.49731314182281494,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000132.jpg"
+    },
+    {
+        "timestamp": "11:32:08.894",
+        "detections": [
+            {
+                "xmin": 18.236862182617188,
+                "ymin": 654.8214721679688,
+                "xmax": 414.84173583984375,
+                "ymax": 820.0,
+                "confidence": 0.55305415391922,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000133.jpg"
+    },
+    {
+        "timestamp": "11:32:08.941",
+        "detections": [
+            {
+                "xmin": 13.44560432434082,
+                "ymin": 674.3856811523438,
+                "xmax": 398.3185729980469,
+                "ymax": 820.0,
+                "confidence": 0.5215986967086792,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000134.jpg"
+    },
+    {
+        "timestamp": "11:32:08.990",
+        "detections": [
+            {
+                "xmin": 11.932174682617188,
+                "ymin": 676.4967651367188,
+                "xmax": 398.6889343261719,
+                "ymax": 820.0,
+                "confidence": 0.395160436630249,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000135.jpg"
+    },
+    {
+        "timestamp": "11:32:09.062",
+        "detections": [
+            {
+                "xmin": 17.417097091674805,
+                "ymin": 673.3197631835938,
+                "xmax": 387.3681945800781,
+                "ymax": 820.0,
+                "confidence": 0.4152542054653168,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 8.700286865234375,
+                "ymin": 720.4251708984375,
+                "xmax": 148.40757751464844,
+                "ymax": 820.0,
+                "confidence": 0.277990460395813,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000136.jpg"
+    },
+    {
+        "timestamp": "11:32:09.116",
+        "detections": [
+            {
+                "xmin": 8.12976360321045,
+                "ymin": 717.6439208984375,
+                "xmax": 154.58453369140625,
+                "ymax": 820.0,
+                "confidence": 0.3635408580303192,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 8.06310749053955,
+                "ymin": 630.1768798828125,
+                "xmax": 404.55181884765625,
+                "ymax": 820.0,
+                "confidence": 0.3331337869167328,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000137.jpg"
+    },
+    {
+        "timestamp": "11:32:09.166",
+        "detections": [
+            {
+                "xmin": 9.877318382263184,
+                "ymin": 632.6612548828125,
+                "xmax": 407.60528564453125,
+                "ymax": 820.0,
+                "confidence": 0.37090355157852173,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000138.jpg"
+    },
+    {
+        "timestamp": "11:32:09.213",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000139.jpg"
+    },
+    {
+        "timestamp": "11:32:09.261",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000140.jpg"
+    },
+    {
+        "timestamp": "11:32:09.308",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000141.jpg"
+    },
+    {
+        "timestamp": "11:32:09.358",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000142.jpg"
+    },
+    {
+        "timestamp": "11:32:09.406",
+        "detections": [
+            {
+                "xmin": 102.01567077636719,
+                "ymin": 628.0067749023438,
+                "xmax": 465.0,
+                "ymax": 819.9873657226562,
+                "confidence": 0.26902031898498535,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000143.jpg"
+    },
+    {
+        "timestamp": "11:32:09.457",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000144.jpg"
+    },
+    {
+        "timestamp": "11:32:09.506",
+        "detections": [
+            {
+                "xmin": 24.005281448364258,
+                "ymin": 14.289273262023926,
+                "xmax": 452.24078369140625,
+                "ymax": 359.7964172363281,
+                "confidence": 0.25879499316215515,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000145.jpg"
+    },
+    {
+        "timestamp": "11:32:09.553",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000146.jpg"
+    },
+    {
+        "timestamp": "11:32:09.608",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000147.jpg"
+    },
+    {
+        "timestamp": "11:32:09.656",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000148.jpg"
+    },
+    {
+        "timestamp": "11:32:09.705",
+        "detections": [
+            {
+                "xmin": 200.23289489746094,
+                "ymin": 615.6073608398438,
+                "xmax": 438.76788330078125,
+                "ymax": 814.3840942382812,
+                "confidence": 0.37598884105682373,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000149.jpg"
+    },
+    {
+        "timestamp": "11:32:09.752",
+        "detections": [
+            {
+                "xmin": 42.640472412109375,
+                "ymin": 560.235107421875,
+                "xmax": 458.6385498046875,
+                "ymax": 815.1201782226562,
+                "confidence": 0.3018273413181305,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000150.jpg"
+    },
+    {
+        "timestamp": "11:32:09.799",
+        "detections": [
+            {
+                "xmin": 124.85592651367188,
+                "ymin": 564.5426025390625,
+                "xmax": 465.0,
+                "ymax": 815.5193481445312,
+                "confidence": 0.35753899812698364,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000151.jpg"
+    },
+    {
+        "timestamp": "11:32:09.848",
+        "detections": [
+            {
+                "xmin": 119.5259017944336,
+                "ymin": 560.9064331054688,
+                "xmax": 465.0,
+                "ymax": 817.316162109375,
+                "confidence": 0.4553661644458771,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000152.jpg"
+    },
+    {
+        "timestamp": "11:32:09.897",
+        "detections": [
+            {
+                "xmin": 139.5745086669922,
+                "ymin": 563.1986083984375,
+                "xmax": 463.18865966796875,
+                "ymax": 816.7928466796875,
+                "confidence": 0.4635162353515625,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000153.jpg"
+    },
+    {
+        "timestamp": "11:32:09.944",
+        "detections": [
+            {
+                "xmin": 126.3967056274414,
+                "ymin": 556.9981689453125,
+                "xmax": 458.6690368652344,
+                "ymax": 812.6084594726562,
+                "confidence": 0.40540194511413574,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000154.jpg"
+    },
+    {
+        "timestamp": "11:32:09.993",
+        "detections": [
+            {
+                "xmin": 119.35454559326172,
+                "ymin": 557.9949340820312,
+                "xmax": 465.0,
+                "ymax": 812.9887084960938,
+                "confidence": 0.5921213626861572,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000155.jpg"
+    },
+    {
+        "timestamp": "11:32:10.050",
+        "detections": [
+            {
+                "xmin": 114.98109436035156,
+                "ymin": 545.4320068359375,
+                "xmax": 465.0,
+                "ymax": 818.3739013671875,
+                "confidence": 0.5694680213928223,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000156.jpg"
+    },
+    {
+        "timestamp": "11:32:10.100",
+        "detections": [
+            {
+                "xmin": 101.96210479736328,
+                "ymin": 560.7138671875,
+                "xmax": 457.1138610839844,
+                "ymax": 820.0,
+                "confidence": 0.5579480528831482,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000157.jpg"
+    },
+    {
+        "timestamp": "11:32:10.148",
+        "detections": [
+            {
+                "xmin": 88.68573760986328,
+                "ymin": 536.9959106445312,
+                "xmax": 453.1634216308594,
+                "ymax": 820.0,
+                "confidence": 0.5811315774917603,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000158.jpg"
+    },
+    {
+        "timestamp": "11:32:10.196",
+        "detections": [
+            {
+                "xmin": 83.98401641845703,
+                "ymin": 525.6030883789062,
+                "xmax": 452.03515625,
+                "ymax": 820.0,
+                "confidence": 0.61696857213974,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000159.jpg"
+    },
+    {
+        "timestamp": "11:32:10.243",
+        "detections": [
+            {
+                "xmin": 87.88092803955078,
+                "ymin": 517.4286499023438,
+                "xmax": 452.9265441894531,
+                "ymax": 817.7047729492188,
+                "confidence": 0.5633581876754761,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000160.jpg"
+    },
+    {
+        "timestamp": "11:32:10.290",
+        "detections": [
+            {
+                "xmin": 83.88300323486328,
+                "ymin": 531.4691772460938,
+                "xmax": 458.5383605957031,
+                "ymax": 814.24658203125,
+                "confidence": 0.6010082960128784,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000161.jpg"
+    },
+    {
+        "timestamp": "11:32:10.345",
+        "detections": [
+            {
+                "xmin": 80.11148834228516,
+                "ymin": 480.39013671875,
+                "xmax": 456.01678466796875,
+                "ymax": 813.6361694335938,
+                "confidence": 0.5547811388969421,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000162.jpg"
+    },
+    {
+        "timestamp": "11:32:10.394",
+        "detections": [
+            {
+                "xmin": 100.28701782226562,
+                "ymin": 491.94403076171875,
+                "xmax": 453.2601623535156,
+                "ymax": 808.9898071289062,
+                "confidence": 0.519366443157196,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000163.jpg"
+    },
+    {
+        "timestamp": "11:32:10.441",
+        "detections": [
+            {
+                "xmin": 99.30728912353516,
+                "ymin": 484.9622802734375,
+                "xmax": 452.8483581542969,
+                "ymax": 809.3609619140625,
+                "confidence": 0.5813607573509216,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000164.jpg"
+    },
+    {
+        "timestamp": "11:32:10.489",
+        "detections": [
+            {
+                "xmin": 106.91856384277344,
+                "ymin": 475.8432922363281,
+                "xmax": 460.08807373046875,
+                "ymax": 802.2353515625,
+                "confidence": 0.6595674157142639,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000165.jpg"
+    },
+    {
+        "timestamp": "11:32:10.540",
+        "detections": [
+            {
+                "xmin": 106.06769561767578,
+                "ymin": 469.8940734863281,
+                "xmax": 459.054931640625,
+                "ymax": 801.8718872070312,
+                "confidence": 0.6552040576934814,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000166.jpg"
+    },
+    {
+        "timestamp": "11:32:10.588",
+        "detections": [
+            {
+                "xmin": 105.14628601074219,
+                "ymin": 464.4736633300781,
+                "xmax": 459.7418518066406,
+                "ymax": 809.9951171875,
+                "confidence": 0.6182845830917358,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000167.jpg"
+    },
+    {
+        "timestamp": "11:32:10.636",
+        "detections": [
+            {
+                "xmin": 101.5648422241211,
+                "ymin": 455.5732421875,
+                "xmax": 463.9503479003906,
+                "ymax": 802.83642578125,
+                "confidence": 0.6979140043258667,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000168.jpg"
+    },
+    {
+        "timestamp": "11:32:10.684",
+        "detections": [
+            {
+                "xmin": 106.20075225830078,
+                "ymin": 455.4783020019531,
+                "xmax": 456.6996154785156,
+                "ymax": 793.6464233398438,
+                "confidence": 0.5971998572349548,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000169.jpg"
+    },
+    {
+        "timestamp": "11:32:10.732",
+        "detections": [
+            {
+                "xmin": 109.72203826904297,
+                "ymin": 450.5999450683594,
+                "xmax": 451.0981140136719,
+                "ymax": 787.205322265625,
+                "confidence": 0.6941975355148315,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000170.jpg"
+    },
+    {
+        "timestamp": "11:32:10.781",
+        "detections": [
+            {
+                "xmin": 108.85506439208984,
+                "ymin": 438.7970275878906,
+                "xmax": 449.21051025390625,
+                "ymax": 789.0245971679688,
+                "confidence": 0.5430102944374084,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000171.jpg"
+    },
+    {
+        "timestamp": "11:32:10.831",
+        "detections": [
+            {
+                "xmin": 108.24583435058594,
+                "ymin": 432.20159912109375,
+                "xmax": 460.837158203125,
+                "ymax": 790.9765625,
+                "confidence": 0.7275810241699219,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000172.jpg"
+    },
+    {
+        "timestamp": "11:32:10.883",
+        "detections": [
+            {
+                "xmin": 107.5992431640625,
+                "ymin": 422.7608947753906,
+                "xmax": 458.8829345703125,
+                "ymax": 793.6986083984375,
+                "confidence": 0.7029461860656738,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000173.jpg"
+    },
+    {
+        "timestamp": "11:32:10.932",
+        "detections": [
+            {
+                "xmin": 108.93304443359375,
+                "ymin": 421.6240234375,
+                "xmax": 459.0096740722656,
+                "ymax": 792.2047119140625,
+                "confidence": 0.7514355778694153,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000174.jpg"
+    },
+    {
+        "timestamp": "11:32:10.982",
+        "detections": [
+            {
+                "xmin": 101.94906616210938,
+                "ymin": 419.3625183105469,
+                "xmax": 446.51068115234375,
+                "ymax": 789.7670288085938,
+                "confidence": 0.7163612246513367,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000175.jpg"
+    },
+    {
+        "timestamp": "11:32:11.030",
+        "detections": [
+            {
+                "xmin": 110.70215606689453,
+                "ymin": 417.4452209472656,
+                "xmax": 452.4871826171875,
+                "ymax": 785.2112426757812,
+                "confidence": 0.7521950006484985,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 22.11173439025879,
+                "ymin": 5.856631755828857,
+                "xmax": 460.94427490234375,
+                "ymax": 344.5103454589844,
+                "confidence": 0.27077069878578186,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000176.jpg"
+    },
+    {
+        "timestamp": "11:32:11.079",
+        "detections": [
+            {
+                "xmin": 122.85206604003906,
+                "ymin": 416.138427734375,
+                "xmax": 439.9915771484375,
+                "ymax": 780.5171508789062,
+                "confidence": 0.7905099391937256,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 14.717490196228027,
+                "ymin": 7.8498854637146,
+                "xmax": 465.0,
+                "ymax": 345.7672424316406,
+                "confidence": 0.27359408140182495,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000177.jpg"
+    },
+    {
+        "timestamp": "11:32:11.126",
+        "detections": [
+            {
+                "xmin": 112.89474487304688,
+                "ymin": 413.599609375,
+                "xmax": 439.215576171875,
+                "ymax": 781.1476440429688,
+                "confidence": 0.7988731861114502,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000178.jpg"
+    },
+    {
+        "timestamp": "11:32:11.173",
+        "detections": [
+            {
+                "xmin": 110.3704833984375,
+                "ymin": 408.184326171875,
+                "xmax": 438.4454650878906,
+                "ymax": 781.2268676757812,
+                "confidence": 0.7788638472557068,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000179.jpg"
+    },
+    {
+        "timestamp": "11:32:11.222",
+        "detections": [
+            {
+                "xmin": 112.81501770019531,
+                "ymin": 404.9888610839844,
+                "xmax": 432.0157470703125,
+                "ymax": 784.7025756835938,
+                "confidence": 0.8374395966529846,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000180.jpg"
+    },
+    {
+        "timestamp": "11:32:11.271",
+        "detections": [
+            {
+                "xmin": 110.6043472290039,
+                "ymin": 394.4640808105469,
+                "xmax": 433.1929016113281,
+                "ymax": 786.478515625,
+                "confidence": 0.7631088495254517,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000181.jpg"
+    },
+    {
+        "timestamp": "11:32:11.319",
+        "detections": [
+            {
+                "xmin": 113.12117004394531,
+                "ymin": 398.1346130371094,
+                "xmax": 429.115234375,
+                "ymax": 786.8301391601562,
+                "confidence": 0.7895702719688416,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000182.jpg"
+    },
+    {
+        "timestamp": "11:32:11.367",
+        "detections": [
+            {
+                "xmin": 110.35873413085938,
+                "ymin": 400.0009765625,
+                "xmax": 424.7973937988281,
+                "ymax": 788.3553466796875,
+                "confidence": 0.781647264957428,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000183.jpg"
+    },
+    {
+        "timestamp": "11:32:11.414",
+        "detections": [
+            {
+                "xmin": 102.33451080322266,
+                "ymin": 419.3720397949219,
+                "xmax": 421.76751708984375,
+                "ymax": 784.1148071289062,
+                "confidence": 0.7795572876930237,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000184.jpg"
+    },
+    {
+        "timestamp": "11:32:11.464",
+        "detections": [
+            {
+                "xmin": 102.08340454101562,
+                "ymin": 418.75848388671875,
+                "xmax": 426.2330322265625,
+                "ymax": 786.3610229492188,
+                "confidence": 0.8067684769630432,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000185.jpg"
+    },
+    {
+        "timestamp": "11:32:11.512",
+        "detections": [
+            {
+                "xmin": 108.7300796508789,
+                "ymin": 422.8448791503906,
+                "xmax": 425.5924987792969,
+                "ymax": 789.6617431640625,
+                "confidence": 0.7643677592277527,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000186.jpg"
+    },
+    {
+        "timestamp": "11:32:11.560",
+        "detections": [
+            {
+                "xmin": 111.74422454833984,
+                "ymin": 472.6070251464844,
+                "xmax": 423.9490966796875,
+                "ymax": 769.0853271484375,
+                "confidence": 0.7534830570220947,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000187.jpg"
+    },
+    {
+        "timestamp": "11:32:11.608",
+        "detections": [
+            {
+                "xmin": 96.929443359375,
+                "ymin": 467.96380615234375,
+                "xmax": 433.9227600097656,
+                "ymax": 778.0105590820312,
+                "confidence": 0.5205046534538269,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000188.jpg"
+    },
+    {
+        "timestamp": "11:32:11.659",
+        "detections": [
+            {
+                "xmin": 76.13457489013672,
+                "ymin": 470.7903747558594,
+                "xmax": 436.28155517578125,
+                "ymax": 783.5106811523438,
+                "confidence": 0.5641214847564697,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000189.jpg"
+    },
+    {
+        "timestamp": "11:32:11.706",
+        "detections": [
+            {
+                "xmin": 94.07816314697266,
+                "ymin": 468.4325256347656,
+                "xmax": 439.68267822265625,
+                "ymax": 777.635498046875,
+                "confidence": 0.4676221013069153,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000190.jpg"
+    },
+    {
+        "timestamp": "11:32:11.756",
+        "detections": [
+            {
+                "xmin": 144.4738311767578,
+                "ymin": 457.1319274902344,
+                "xmax": 441.2842102050781,
+                "ymax": 748.1190185546875,
+                "confidence": 0.6067273616790771,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000191.jpg"
+    },
+    {
+        "timestamp": "11:32:11.803",
+        "detections": [
+            {
+                "xmin": 145.77378845214844,
+                "ymin": 465.9288024902344,
+                "xmax": 441.92022705078125,
+                "ymax": 752.9246826171875,
+                "confidence": 0.5941531658172607,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000192.jpg"
+    },
+    {
+        "timestamp": "11:32:11.850",
+        "detections": [
+            {
+                "xmin": 134.97628784179688,
+                "ymin": 463.95947265625,
+                "xmax": 445.50750732421875,
+                "ymax": 745.5537109375,
+                "confidence": 0.43731701374053955,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000193.jpg"
+    },
+    {
+        "timestamp": "11:32:11.900",
+        "detections": [
+            {
+                "xmin": 135.98385620117188,
+                "ymin": 462.53643798828125,
+                "xmax": 446.6111145019531,
+                "ymax": 732.7920532226562,
+                "confidence": 0.394466757774353,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000194.jpg"
+    },
+    {
+        "timestamp": "11:32:11.956",
+        "detections": [
+            {
+                "xmin": 148.0408172607422,
+                "ymin": 461.2268371582031,
+                "xmax": 441.93133544921875,
+                "ymax": 729.3923950195312,
+                "confidence": 0.2671155333518982,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000195.jpg"
+    },
+    {
+        "timestamp": "11:32:12.005",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000196.jpg"
+    },
+    {
+        "timestamp": "11:32:12.053",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000197.jpg"
+    },
+    {
+        "timestamp": "11:32:12.116",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000198.jpg"
+    },
+    {
+        "timestamp": "11:32:12.177",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000199.jpg"
+    },
+    {
+        "timestamp": "11:32:12.228",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000200.jpg"
+    },
+    {
+        "timestamp": "11:32:12.276",
+        "detections": [
+            {
+                "xmin": 141.54527282714844,
+                "ymin": 370.8651123046875,
+                "xmax": 435.8204040527344,
+                "ymax": 762.454833984375,
+                "confidence": 0.25242525339126587,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000201.jpg"
+    },
+    {
+        "timestamp": "11:32:12.324",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000202.jpg"
+    },
+    {
+        "timestamp": "11:32:12.389",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000203.jpg"
+    },
+    {
+        "timestamp": "11:32:12.445",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000204.jpg"
+    },
+    {
+        "timestamp": "11:32:12.497",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000205.jpg"
+    },
+    {
+        "timestamp": "11:32:12.555",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000206.jpg"
+    },
+    {
+        "timestamp": "11:32:12.601",
+        "detections": [
+            {
+                "xmin": 109.96698760986328,
+                "ymin": 483.59576416015625,
+                "xmax": 425.3233642578125,
+                "ymax": 758.9237060546875,
+                "confidence": 0.3742653429508209,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000207.jpg"
+    },
+    {
+        "timestamp": "11:32:12.647",
+        "detections": [
+            {
+                "xmin": 104.31721496582031,
+                "ymin": 481.14764404296875,
+                "xmax": 427.3532409667969,
+                "ymax": 767.666259765625,
+                "confidence": 0.37850338220596313,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000208.jpg"
+    },
+    {
+        "timestamp": "11:32:12.698",
+        "detections": [
+            {
+                "xmin": 108.77937316894531,
+                "ymin": 508.8681640625,
+                "xmax": 422.3528137207031,
+                "ymax": 760.5980224609375,
+                "confidence": 0.46904584765434265,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000209.jpg"
+    },
+    {
+        "timestamp": "11:32:12.753",
+        "detections": [
+            {
+                "xmin": 86.15608215332031,
+                "ymin": 498.4576416015625,
+                "xmax": 418.115478515625,
+                "ymax": 779.7850341796875,
+                "confidence": 0.2809995412826538,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000210.jpg"
+    },
+    {
+        "timestamp": "11:32:12.801",
+        "detections": [
+            {
+                "xmin": 100.92232513427734,
+                "ymin": 500.6307678222656,
+                "xmax": 415.60498046875,
+                "ymax": 776.3189086914062,
+                "confidence": 0.46759551763534546,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000211.jpg"
+    },
+    {
+        "timestamp": "11:32:12.847",
+        "detections": [
+            {
+                "xmin": 103.84115600585938,
+                "ymin": 499.0599060058594,
+                "xmax": 414.78033447265625,
+                "ymax": 779.2217407226562,
+                "confidence": 0.4483460783958435,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000212.jpg"
+    },
+    {
+        "timestamp": "11:32:12.901",
+        "detections": [
+            {
+                "xmin": 101.65164947509766,
+                "ymin": 495.6579895019531,
+                "xmax": 416.7203674316406,
+                "ymax": 780.0067138671875,
+                "confidence": 0.39292600750923157,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000213.jpg"
+    },
+    {
+        "timestamp": "11:32:12.949",
+        "detections": [
+            {
+                "xmin": 106.82141876220703,
+                "ymin": 494.2452087402344,
+                "xmax": 419.47698974609375,
+                "ymax": 780.72998046875,
+                "confidence": 0.30610761046409607,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000214.jpg"
+    },
+    {
+        "timestamp": "11:32:13.001",
+        "detections": [
+            {
+                "xmin": 99.2577896118164,
+                "ymin": 483.5859069824219,
+                "xmax": 418.99102783203125,
+                "ymax": 788.6253662109375,
+                "confidence": 0.2627890110015869,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000215.jpg"
+    },
+    {
+        "timestamp": "11:32:13.049",
+        "detections": [
+            {
+                "xmin": 104.4913330078125,
+                "ymin": 489.0570983886719,
+                "xmax": 418.65533447265625,
+                "ymax": 798.1519775390625,
+                "confidence": 0.30509302020072937,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000216.jpg"
+    },
+    {
+        "timestamp": "11:32:13.097",
+        "detections": [
+            {
+                "xmin": 109.5964584350586,
+                "ymin": 496.4402160644531,
+                "xmax": 418.5724792480469,
+                "ymax": 799.388916015625,
+                "confidence": 0.42345380783081055,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000217.jpg"
+    },
+    {
+        "timestamp": "11:32:13.143",
+        "detections": [
+            {
+                "xmin": 100.45423126220703,
+                "ymin": 488.43914794921875,
+                "xmax": 424.2837829589844,
+                "ymax": 808.1669311523438,
+                "confidence": 0.3801515996456146,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000218.jpg"
+    },
+    {
+        "timestamp": "11:32:13.191",
+        "detections": [
+            {
+                "xmin": 99.60514831542969,
+                "ymin": 493.5624084472656,
+                "xmax": 423.13409423828125,
+                "ymax": 809.4710083007812,
+                "confidence": 0.47344762086868286,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000219.jpg"
+    },
+    {
+        "timestamp": "11:32:13.241",
+        "detections": [
+            {
+                "xmin": 95.5836181640625,
+                "ymin": 468.0119934082031,
+                "xmax": 427.9695739746094,
+                "ymax": 812.7940063476562,
+                "confidence": 0.33815187215805054,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000220.jpg"
+    },
+    {
+        "timestamp": "11:32:13.292",
+        "detections": [
+            {
+                "xmin": 84.84149932861328,
+                "ymin": 477.1673583984375,
+                "xmax": 428.3167419433594,
+                "ymax": 815.9247436523438,
+                "confidence": 0.44622135162353516,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000221.jpg"
+    },
+    {
+        "timestamp": "11:32:13.340",
+        "detections": [
+            {
+                "xmin": 87.70599365234375,
+                "ymin": 495.6690673828125,
+                "xmax": 424.0283508300781,
+                "ymax": 818.8948974609375,
+                "confidence": 0.519916296005249,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000222.jpg"
+    },
+    {
+        "timestamp": "11:32:13.388",
+        "detections": [
+            {
+                "xmin": 87.41654968261719,
+                "ymin": 520.8662719726562,
+                "xmax": 424.4299011230469,
+                "ymax": 813.952392578125,
+                "confidence": 0.5899850726127625,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000223.jpg"
+    },
+    {
+        "timestamp": "11:32:13.437",
+        "detections": [
+            {
+                "xmin": 85.98235321044922,
+                "ymin": 528.005126953125,
+                "xmax": 422.2176818847656,
+                "ymax": 816.0519409179688,
+                "confidence": 0.6696598529815674,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000224.jpg"
+    },
+    {
+        "timestamp": "11:32:13.487",
+        "detections": [
+            {
+                "xmin": 83.87390899658203,
+                "ymin": 528.00634765625,
+                "xmax": 421.53094482421875,
+                "ymax": 817.790771484375,
+                "confidence": 0.6833609938621521,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000225.jpg"
+    },
+    {
+        "timestamp": "11:32:13.553",
+        "detections": [
+            {
+                "xmin": 81.73735046386719,
+                "ymin": 533.94873046875,
+                "xmax": 423.6500244140625,
+                "ymax": 820.0,
+                "confidence": 0.6588683128356934,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000226.jpg"
+    },
+    {
+        "timestamp": "11:32:13.601",
+        "detections": [
+            {
+                "xmin": 82.69635772705078,
+                "ymin": 534.1669921875,
+                "xmax": 421.8660888671875,
+                "ymax": 820.0,
+                "confidence": 0.7078660130500793,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000227.jpg"
+    },
+    {
+        "timestamp": "11:32:13.654",
+        "detections": [
+            {
+                "xmin": 79.47332763671875,
+                "ymin": 531.7431640625,
+                "xmax": 423.1163635253906,
+                "ymax": 820.0,
+                "confidence": 0.6911333203315735,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000228.jpg"
+    },
+    {
+        "timestamp": "11:32:13.702",
+        "detections": [
+            {
+                "xmin": 82.93690490722656,
+                "ymin": 525.193115234375,
+                "xmax": 423.0462951660156,
+                "ymax": 820.0,
+                "confidence": 0.7053395509719849,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000229.jpg"
+    },
+    {
+        "timestamp": "11:32:13.751",
+        "detections": [
+            {
+                "xmin": 79.23887634277344,
+                "ymin": 531.4592895507812,
+                "xmax": 428.49786376953125,
+                "ymax": 820.0,
+                "confidence": 0.6788730621337891,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000230.jpg"
+    },
+    {
+        "timestamp": "11:32:13.798",
+        "detections": [
+            {
+                "xmin": 79.6979751586914,
+                "ymin": 530.116943359375,
+                "xmax": 434.91888427734375,
+                "ymax": 820.0,
+                "confidence": 0.6320995688438416,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000231.jpg"
+    },
+    {
+        "timestamp": "11:32:13.848",
+        "detections": [
+            {
+                "xmin": 76.42543029785156,
+                "ymin": 527.733154296875,
+                "xmax": 429.040771484375,
+                "ymax": 820.0,
+                "confidence": 0.6405843496322632,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000232.jpg"
+    },
+    {
+        "timestamp": "11:32:13.897",
+        "detections": [
+            {
+                "xmin": 71.47908020019531,
+                "ymin": 526.2168579101562,
+                "xmax": 429.7782287597656,
+                "ymax": 820.0,
+                "confidence": 0.6997520327568054,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000233.jpg"
+    },
+    {
+        "timestamp": "11:32:13.945",
+        "detections": [
+            {
+                "xmin": 78.28912353515625,
+                "ymin": 526.4043579101562,
+                "xmax": 424.7246398925781,
+                "ymax": 820.0,
+                "confidence": 0.7073853015899658,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000234.jpg"
+    },
+    {
+        "timestamp": "11:32:13.994",
+        "detections": [
+            {
+                "xmin": 77.78176879882812,
+                "ymin": 528.8801879882812,
+                "xmax": 426.08074951171875,
+                "ymax": 819.7445678710938,
+                "confidence": 0.6899840235710144,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000235.jpg"
+    },
+    {
+        "timestamp": "11:32:14.045",
+        "detections": [
+            {
+                "xmin": 74.34774017333984,
+                "ymin": 530.0855102539062,
+                "xmax": 424.6451110839844,
+                "ymax": 820.0,
+                "confidence": 0.7522569298744202,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000236.jpg"
+    },
+    {
+        "timestamp": "11:32:14.101",
+        "detections": [
+            {
+                "xmin": 70.97876739501953,
+                "ymin": 531.5968627929688,
+                "xmax": 422.7660217285156,
+                "ymax": 820.0,
+                "confidence": 0.766700029373169,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000237.jpg"
+    },
+    {
+        "timestamp": "11:32:14.149",
+        "detections": [
+            {
+                "xmin": 72.82582092285156,
+                "ymin": 532.3836669921875,
+                "xmax": 423.41552734375,
+                "ymax": 820.0,
+                "confidence": 0.7410078644752502,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000238.jpg"
+    },
+    {
+        "timestamp": "11:32:14.202",
+        "detections": [
+            {
+                "xmin": 72.89372253417969,
+                "ymin": 531.6309204101562,
+                "xmax": 421.1967468261719,
+                "ymax": 820.0,
+                "confidence": 0.7647966742515564,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000239.jpg"
+    },
+    {
+        "timestamp": "11:32:14.251",
+        "detections": [
+            {
+                "xmin": 73.41722106933594,
+                "ymin": 530.7093505859375,
+                "xmax": 421.95452880859375,
+                "ymax": 820.0,
+                "confidence": 0.790221095085144,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000240.jpg"
+    },
+    {
+        "timestamp": "11:32:14.299",
+        "detections": [
+            {
+                "xmin": 72.89122009277344,
+                "ymin": 531.1676635742188,
+                "xmax": 421.3985900878906,
+                "ymax": 820.0,
+                "confidence": 0.7730903625488281,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000241.jpg"
+    },
+    {
+        "timestamp": "11:32:14.347",
+        "detections": [
+            {
+                "xmin": 71.78048706054688,
+                "ymin": 533.2651977539062,
+                "xmax": 421.6141052246094,
+                "ymax": 820.0,
+                "confidence": 0.7957642078399658,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000242.jpg"
+    },
+    {
+        "timestamp": "11:32:14.395",
+        "detections": [
+            {
+                "xmin": 71.56764221191406,
+                "ymin": 533.1195068359375,
+                "xmax": 421.0188903808594,
+                "ymax": 820.0,
+                "confidence": 0.7909247279167175,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000243.jpg"
+    },
+    {
+        "timestamp": "11:32:14.441",
+        "detections": [
+            {
+                "xmin": 72.0716323852539,
+                "ymin": 530.5691528320312,
+                "xmax": 420.9481506347656,
+                "ymax": 820.0,
+                "confidence": 0.7839356064796448,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000244.jpg"
+    },
+    {
+        "timestamp": "11:32:14.493",
+        "detections": [
+            {
+                "xmin": 71.8497314453125,
+                "ymin": 530.1179809570312,
+                "xmax": 419.88861083984375,
+                "ymax": 820.0,
+                "confidence": 0.7782531380653381,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000245.jpg"
+    },
+    {
+        "timestamp": "11:32:14.540",
+        "detections": [
+            {
+                "xmin": 71.56889343261719,
+                "ymin": 533.7179565429688,
+                "xmax": 420.174072265625,
+                "ymax": 819.1489868164062,
+                "confidence": 0.7816800475120544,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000246.jpg"
+    },
+    {
+        "timestamp": "11:32:14.589",
+        "detections": [
+            {
+                "xmin": 72.6360092163086,
+                "ymin": 533.0616455078125,
+                "xmax": 418.9172058105469,
+                "ymax": 818.3518676757812,
+                "confidence": 0.7862096428871155,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000247.jpg"
+    },
+    {
+        "timestamp": "11:32:14.638",
+        "detections": [
+            {
+                "xmin": 70.43282318115234,
+                "ymin": 532.207763671875,
+                "xmax": 420.52008056640625,
+                "ymax": 818.655517578125,
+                "confidence": 0.7774208188056946,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000248.jpg"
+    },
+    {
+        "timestamp": "11:32:14.686",
+        "detections": [
+            {
+                "xmin": 72.67405700683594,
+                "ymin": 530.9708862304688,
+                "xmax": 419.6577453613281,
+                "ymax": 818.13134765625,
+                "confidence": 0.7590409517288208,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000249.jpg"
+    },
+    {
+        "timestamp": "11:32:14.735",
+        "detections": [
+            {
+                "xmin": 72.49334716796875,
+                "ymin": 530.2157592773438,
+                "xmax": 419.56524658203125,
+                "ymax": 818.220947265625,
+                "confidence": 0.7692169547080994,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000250.jpg"
+    },
+    {
+        "timestamp": "11:32:14.785",
+        "detections": [
+            {
+                "xmin": 74.43096160888672,
+                "ymin": 529.508056640625,
+                "xmax": 418.91766357421875,
+                "ymax": 818.8087158203125,
+                "confidence": 0.7889480590820312,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000251.jpg"
+    },
+    {
+        "timestamp": "11:32:14.834",
+        "detections": [
+            {
+                "xmin": 70.18496704101562,
+                "ymin": 529.5087280273438,
+                "xmax": 418.04962158203125,
+                "ymax": 818.8253784179688,
+                "confidence": 0.7571234703063965,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000252.jpg"
+    },
+    {
+        "timestamp": "11:32:14.882",
+        "detections": [
+            {
+                "xmin": 69.37943267822266,
+                "ymin": 526.5198364257812,
+                "xmax": 419.0943298339844,
+                "ymax": 818.9232788085938,
+                "confidence": 0.7132416367530823,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000253.jpg"
+    },
+    {
+        "timestamp": "11:32:14.930",
+        "detections": [
+            {
+                "xmin": 75.7271728515625,
+                "ymin": 531.4489135742188,
+                "xmax": 420.2829284667969,
+                "ymax": 820.0,
+                "confidence": 0.757752537727356,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000254.jpg"
+    },
+    {
+        "timestamp": "11:32:14.978",
+        "detections": [
+            {
+                "xmin": 71.051513671875,
+                "ymin": 535.0302124023438,
+                "xmax": 420.2257385253906,
+                "ymax": 820.0,
+                "confidence": 0.7981067299842834,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000255.jpg"
+    },
+    {
+        "timestamp": "11:32:15.032",
+        "detections": [
+            {
+                "xmin": 65.11503601074219,
+                "ymin": 533.3084106445312,
+                "xmax": 419.3059387207031,
+                "ymax": 820.0,
+                "confidence": 0.7937313318252563,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 293.9522705078125,
+                "ymin": 364.6656799316406,
+                "xmax": 443.0849609375,
+                "ymax": 473.93109130859375,
+                "confidence": 0.26447466015815735,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000256.jpg"
+    },
+    {
+        "timestamp": "11:32:15.081",
+        "detections": [
+            {
+                "xmin": 64.85730743408203,
+                "ymin": 535.7780151367188,
+                "xmax": 421.43414306640625,
+                "ymax": 820.0,
+                "confidence": 0.7908734083175659,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 293.2035217285156,
+                "ymin": 366.8713684082031,
+                "xmax": 440.63995361328125,
+                "ymax": 472.8102111816406,
+                "confidence": 0.2552424669265747,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000257.jpg"
+    },
+    {
+        "timestamp": "11:32:15.127",
+        "detections": [
+            {
+                "xmin": 68.39900207519531,
+                "ymin": 533.3622436523438,
+                "xmax": 421.8249816894531,
+                "ymax": 820.0,
+                "confidence": 0.7846015095710754,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 291.8408203125,
+                "ymin": 367.1488342285156,
+                "xmax": 440.0844421386719,
+                "ymax": 472.1037292480469,
+                "confidence": 0.3238825500011444,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000258.jpg"
+    },
+    {
+        "timestamp": "11:32:15.197",
+        "detections": [
+            {
+                "xmin": 70.03984069824219,
+                "ymin": 530.5906372070312,
+                "xmax": 424.44195556640625,
+                "ymax": 820.0,
+                "confidence": 0.7630487680435181,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 291.9851379394531,
+                "ymin": 370.2154541015625,
+                "xmax": 436.3464660644531,
+                "ymax": 470.0946960449219,
+                "confidence": 0.48837777972221375,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000259.jpg"
+    },
+    {
+        "timestamp": "11:32:15.260",
+        "detections": [
+            {
+                "xmin": 70.89305877685547,
+                "ymin": 531.54931640625,
+                "xmax": 424.037109375,
+                "ymax": 820.0,
+                "confidence": 0.766822099685669,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 293.4516296386719,
+                "ymin": 371.7861022949219,
+                "xmax": 435.1293029785156,
+                "ymax": 466.599853515625,
+                "confidence": 0.4152836501598358,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000260.jpg"
+    },
+    {
+        "timestamp": "11:32:15.313",
+        "detections": [
+            {
+                "xmin": 73.99494934082031,
+                "ymin": 527.2630004882812,
+                "xmax": 425.9327087402344,
+                "ymax": 820.0,
+                "confidence": 0.762368381023407,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 294.40338134765625,
+                "ymin": 370.10260009765625,
+                "xmax": 435.32452392578125,
+                "ymax": 465.01239013671875,
+                "confidence": 0.374429315328598,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000261.jpg"
+    },
+    {
+        "timestamp": "11:32:15.376",
+        "detections": [
+            {
+                "xmin": 70.51292419433594,
+                "ymin": 526.5607299804688,
+                "xmax": 427.8860168457031,
+                "ymax": 820.0,
+                "confidence": 0.7556285858154297,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 295.43487548828125,
+                "ymin": 370.5772705078125,
+                "xmax": 435.38580322265625,
+                "ymax": 464.0461730957031,
+                "confidence": 0.3904154300689697,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000262.jpg"
+    },
+    {
+        "timestamp": "11:32:15.427",
+        "detections": [
+            {
+                "xmin": 71.51970672607422,
+                "ymin": 521.228515625,
+                "xmax": 431.14959716796875,
+                "ymax": 820.0,
+                "confidence": 0.7110835909843445,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 300.70745849609375,
+                "ymin": 366.4237976074219,
+                "xmax": 440.5694885253906,
+                "ymax": 462.69317626953125,
+                "confidence": 0.3354281783103943,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000263.jpg"
+    },
+    {
+        "timestamp": "11:32:15.476",
+        "detections": [
+            {
+                "xmin": 78.35932922363281,
+                "ymin": 516.8360595703125,
+                "xmax": 429.32977294921875,
+                "ymax": 820.0,
+                "confidence": 0.7148958444595337,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000264.jpg"
+    },
+    {
+        "timestamp": "11:32:15.526",
+        "detections": [
+            {
+                "xmin": 68.55655670166016,
+                "ymin": 517.9569702148438,
+                "xmax": 435.0162658691406,
+                "ymax": 820.0,
+                "confidence": 0.7652605772018433,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000265.jpg"
+    },
+    {
+        "timestamp": "11:32:15.575",
+        "detections": [
+            {
+                "xmin": 69.14848327636719,
+                "ymin": 514.4560546875,
+                "xmax": 434.9558410644531,
+                "ymax": 820.0,
+                "confidence": 0.7310060262680054,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000266.jpg"
+    },
+    {
+        "timestamp": "11:32:15.624",
+        "detections": [
+            {
+                "xmin": 67.98828887939453,
+                "ymin": 515.5091552734375,
+                "xmax": 433.4705810546875,
+                "ymax": 820.0,
+                "confidence": 0.7481253147125244,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000267.jpg"
+    },
+    {
+        "timestamp": "11:32:15.674",
+        "detections": [
+            {
+                "xmin": 69.66082000732422,
+                "ymin": 515.3675537109375,
+                "xmax": 432.7650451660156,
+                "ymax": 820.0,
+                "confidence": 0.7636023163795471,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000268.jpg"
+    },
+    {
+        "timestamp": "11:32:15.729",
+        "detections": [
+            {
+                "xmin": 76.0443344116211,
+                "ymin": 519.2354736328125,
+                "xmax": 436.5453186035156,
+                "ymax": 820.0,
+                "confidence": 0.512894332408905,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 307.05023193359375,
+                "ymin": 371.91693115234375,
+                "xmax": 439.77789306640625,
+                "ymax": 457.9551696777344,
+                "confidence": 0.3582969903945923,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000269.jpg"
+    },
+    {
+        "timestamp": "11:32:15.788",
+        "detections": [
+            {
+                "xmin": 81.22212219238281,
+                "ymin": 520.6234130859375,
+                "xmax": 437.93505859375,
+                "ymax": 820.0,
+                "confidence": 0.7312129735946655,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 301.8525390625,
+                "ymin": 365.3905944824219,
+                "xmax": 437.3490295410156,
+                "ymax": 457.99407958984375,
+                "confidence": 0.27738702297210693,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000270.jpg"
+    },
+    {
+        "timestamp": "11:32:15.837",
+        "detections": [
+            {
+                "xmin": 82.21790313720703,
+                "ymin": 520.765380859375,
+                "xmax": 436.8964538574219,
+                "ymax": 820.0,
+                "confidence": 0.7176269888877869,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 299.2481384277344,
+                "ymin": 363.41204833984375,
+                "xmax": 436.3299255371094,
+                "ymax": 458.335693359375,
+                "confidence": 0.276612251996994,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000271.jpg"
+    },
+    {
+        "timestamp": "11:32:15.885",
+        "detections": [
+            {
+                "xmin": 83.55023956298828,
+                "ymin": 520.3052368164062,
+                "xmax": 437.8333740234375,
+                "ymax": 820.0,
+                "confidence": 0.7154474854469299,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 300.03448486328125,
+                "ymin": 365.7279052734375,
+                "xmax": 435.7597961425781,
+                "ymax": 458.1798400878906,
+                "confidence": 0.3026963770389557,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000272.jpg"
+    },
+    {
+        "timestamp": "11:32:15.932",
+        "detections": [
+            {
+                "xmin": 82.65713500976562,
+                "ymin": 519.5946044921875,
+                "xmax": 437.7080993652344,
+                "ymax": 820.0,
+                "confidence": 0.6774736642837524,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 299.1473388671875,
+                "ymin": 365.4273376464844,
+                "xmax": 434.9132385253906,
+                "ymax": 457.47027587890625,
+                "confidence": 0.3166327476501465,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000273.jpg"
+    },
+    {
+        "timestamp": "11:32:15.985",
+        "detections": [
+            {
+                "xmin": 84.10669708251953,
+                "ymin": 517.4664916992188,
+                "xmax": 436.85577392578125,
+                "ymax": 820.0,
+                "confidence": 0.662742555141449,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 299.1130065917969,
+                "ymin": 368.29736328125,
+                "xmax": 434.9518127441406,
+                "ymax": 457.939208984375,
+                "confidence": 0.2865302860736847,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000274.jpg"
+    },
+    {
+        "timestamp": "11:32:16.033",
+        "detections": [
+            {
+                "xmin": 83.08087158203125,
+                "ymin": 517.9325561523438,
+                "xmax": 437.0538330078125,
+                "ymax": 820.0,
+                "confidence": 0.617107629776001,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 299.1600646972656,
+                "ymin": 368.4668273925781,
+                "xmax": 434.48382568359375,
+                "ymax": 458.3175354003906,
+                "confidence": 0.3095787763595581,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000275.jpg"
+    },
+    {
+        "timestamp": "11:32:16.083",
+        "detections": [
+            {
+                "xmin": 81.94855499267578,
+                "ymin": 520.0861206054688,
+                "xmax": 437.2784118652344,
+                "ymax": 819.7062377929688,
+                "confidence": 0.6518798470497131,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 298.9158935546875,
+                "ymin": 369.0538024902344,
+                "xmax": 434.887939453125,
+                "ymax": 458.32684326171875,
+                "confidence": 0.2806170880794525,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000276.jpg"
+    },
+    {
+        "timestamp": "11:32:16.131",
+        "detections": [
+            {
+                "xmin": 81.76569366455078,
+                "ymin": 520.7066040039062,
+                "xmax": 436.641357421875,
+                "ymax": 819.5896606445312,
+                "confidence": 0.6556957364082336,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 298.0016784667969,
+                "ymin": 367.6593322753906,
+                "xmax": 434.5476379394531,
+                "ymax": 457.9944152832031,
+                "confidence": 0.2603192627429962,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000277.jpg"
+    },
+    {
+        "timestamp": "11:32:16.177",
+        "detections": [
+            {
+                "xmin": 79.21749114990234,
+                "ymin": 523.1741943359375,
+                "xmax": 438.4688415527344,
+                "ymax": 819.7962646484375,
+                "confidence": 0.6188929080963135,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 297.96795654296875,
+                "ymin": 367.7294921875,
+                "xmax": 433.6839294433594,
+                "ymax": 457.65423583984375,
+                "confidence": 0.2957985997200012,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000278.jpg"
+    },
+    {
+        "timestamp": "11:32:16.234",
+        "detections": [
+            {
+                "xmin": 77.34564208984375,
+                "ymin": 523.8615112304688,
+                "xmax": 439.0557556152344,
+                "ymax": 819.6092529296875,
+                "confidence": 0.5985621809959412,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 297.9643249511719,
+                "ymin": 368.53167724609375,
+                "xmax": 433.44952392578125,
+                "ymax": 457.932861328125,
+                "confidence": 0.28409579396247864,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000279.jpg"
+    },
+    {
+        "timestamp": "11:32:16.281",
+        "detections": [
+            {
+                "xmin": 76.06085205078125,
+                "ymin": 523.9616088867188,
+                "xmax": 439.540283203125,
+                "ymax": 819.4368896484375,
+                "confidence": 0.5741637945175171,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 297.1070556640625,
+                "ymin": 367.7819519042969,
+                "xmax": 433.5428161621094,
+                "ymax": 458.1258850097656,
+                "confidence": 0.2802771329879761,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000280.jpg"
+    },
+    {
+        "timestamp": "11:32:16.329",
+        "detections": [
+            {
+                "xmin": 84.32771301269531,
+                "ymin": 523.103271484375,
+                "xmax": 440.99346923828125,
+                "ymax": 819.32470703125,
+                "confidence": 0.5501601696014404,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 296.736083984375,
+                "ymin": 366.8829040527344,
+                "xmax": 434.14483642578125,
+                "ymax": 458.2122497558594,
+                "confidence": 0.30064505338668823,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000281.jpg"
+    },
+    {
+        "timestamp": "11:32:16.589",
+        "detections": [
+            {
+                "xmin": 83.27410888671875,
+                "ymin": 522.059814453125,
+                "xmax": 440.12548828125,
+                "ymax": 819.7926635742188,
+                "confidence": 0.5917440056800842,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 297.19207763671875,
+                "ymin": 367.3252258300781,
+                "xmax": 434.26495361328125,
+                "ymax": 457.96435546875,
+                "confidence": 0.32489344477653503,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000282.jpg"
+    },
+    {
+        "timestamp": "11:32:16.667",
+        "detections": [
+            {
+                "xmin": 130.92242431640625,
+                "ymin": 495.4507141113281,
+                "xmax": 439.9757995605469,
+                "ymax": 817.1029663085938,
+                "confidence": 0.4361858665943146,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000283.jpg"
+    },
+    {
+        "timestamp": "11:32:16.742",
+        "detections": [
+            {
+                "xmin": 131.92076110839844,
+                "ymin": 491.77142333984375,
+                "xmax": 443.9477844238281,
+                "ymax": 816.428955078125,
+                "confidence": 0.5191481113433838,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000284.jpg"
+    },
+    {
+        "timestamp": "11:32:16.805",
+        "detections": [
+            {
+                "xmin": 129.83392333984375,
+                "ymin": 490.99591064453125,
+                "xmax": 448.7061767578125,
+                "ymax": 814.2893676757812,
+                "confidence": 0.5917794704437256,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000285.jpg"
+    },
+    {
+        "timestamp": "11:32:16.863",
+        "detections": [
+            {
+                "xmin": 127.9842300415039,
+                "ymin": 480.67852783203125,
+                "xmax": 449.8248596191406,
+                "ymax": 809.1416015625,
+                "confidence": 0.5048121213912964,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000286.jpg"
+    },
+    {
+        "timestamp": "11:32:16.921",
+        "detections": [
+            {
+                "xmin": 129.06338500976562,
+                "ymin": 472.4602966308594,
+                "xmax": 457.1504211425781,
+                "ymax": 804.3389892578125,
+                "confidence": 0.4078993797302246,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000287.jpg"
+    },
+    {
+        "timestamp": "11:32:16.988",
+        "detections": [
+            {
+                "xmin": 118.91439056396484,
+                "ymin": 464.92877197265625,
+                "xmax": 465.0,
+                "ymax": 807.0455932617188,
+                "confidence": 0.36119604110717773,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000288.jpg"
+    },
+    {
+        "timestamp": "11:32:17.048",
+        "detections": [
+            {
+                "xmin": 115.55859375,
+                "ymin": 464.2216796875,
+                "xmax": 465.0,
+                "ymax": 805.7700805664062,
+                "confidence": 0.40488702058792114,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000289.jpg"
+    },
+    {
+        "timestamp": "11:32:17.120",
+        "detections": [
+            {
+                "xmin": 130.79412841796875,
+                "ymin": 459.9197998046875,
+                "xmax": 460.3656921386719,
+                "ymax": 806.851318359375,
+                "confidence": 0.34641948342323303,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000290.jpg"
+    },
+    {
+        "timestamp": "11:32:17.180",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000291.jpg"
+    },
+    {
+        "timestamp": "11:32:17.250",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000292.jpg"
+    },
+    {
+        "timestamp": "11:32:17.314",
+        "detections": [
+            {
+                "xmin": 128.5718994140625,
+                "ymin": 457.2328186035156,
+                "xmax": 465.0,
+                "ymax": 796.8845825195312,
+                "confidence": 0.31342175602912903,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000293.jpg"
+    },
+    {
+        "timestamp": "11:32:17.373",
+        "detections": [
+            {
+                "xmin": 143.63865661621094,
+                "ymin": 458.84954833984375,
+                "xmax": 465.0,
+                "ymax": 790.1181640625,
+                "confidence": 0.31540122628211975,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000294.jpg"
+    },
+    {
+        "timestamp": "11:32:17.435",
+        "detections": [
+            {
+                "xmin": 148.0078582763672,
+                "ymin": 459.8001708984375,
+                "xmax": 465.0,
+                "ymax": 788.2653198242188,
+                "confidence": 0.4304586946964264,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000295.jpg"
+    },
+    {
+        "timestamp": "11:32:17.497",
+        "detections": [
+            {
+                "xmin": 152.6083526611328,
+                "ymin": 456.52337646484375,
+                "xmax": 465.0,
+                "ymax": 785.4940795898438,
+                "confidence": 0.41864776611328125,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 330.46697998046875,
+                "ymin": 315.0335998535156,
+                "xmax": 461.9797668457031,
+                "ymax": 408.9579162597656,
+                "confidence": 0.32256650924682617,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000296.jpg"
+    },
+    {
+        "timestamp": "11:32:17.557",
+        "detections": [
+            {
+                "xmin": 152.5209503173828,
+                "ymin": 460.8838806152344,
+                "xmax": 465.0,
+                "ymax": 789.0234985351562,
+                "confidence": 0.28069621324539185,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000297.jpg"
+    },
+    {
+        "timestamp": "11:32:17.608",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000298.jpg"
+    },
+    {
+        "timestamp": "11:32:17.659",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000299.jpg"
+    },
+    {
+        "timestamp": "11:32:17.708",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000300.jpg"
+    },
+    {
+        "timestamp": "11:32:17.766",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000301.jpg"
+    },
+    {
+        "timestamp": "11:32:17.814",
+        "detections": [
+            {
+                "xmin": 156.37481689453125,
+                "ymin": 437.1068420410156,
+                "xmax": 462.89532470703125,
+                "ymax": 764.490478515625,
+                "confidence": 0.27407392859458923,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000302.jpg"
+    },
+    {
+        "timestamp": "11:32:17.863",
+        "detections": [
+            {
+                "xmin": 160.40631103515625,
+                "ymin": 441.44464111328125,
+                "xmax": 463.4114685058594,
+                "ymax": 762.4089965820312,
+                "confidence": 0.3499322831630707,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000303.jpg"
+    },
+    {
+        "timestamp": "11:32:17.910",
+        "detections": [
+            {
+                "xmin": 166.9059295654297,
+                "ymin": 438.8949279785156,
+                "xmax": 463.1515197753906,
+                "ymax": 760.06982421875,
+                "confidence": 0.2654092311859131,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000304.jpg"
+    },
+    {
+        "timestamp": "11:32:17.961",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000305.jpg"
+    },
+    {
+        "timestamp": "11:32:18.015",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000306.jpg"
+    },
+    {
+        "timestamp": "11:32:18.065",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000307.jpg"
+    },
+    {
+        "timestamp": "11:32:18.130",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000308.jpg"
+    },
+    {
+        "timestamp": "11:32:18.179",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000309.jpg"
+    },
+    {
+        "timestamp": "11:32:18.227",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000310.jpg"
+    },
+    {
+        "timestamp": "11:32:18.285",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000311.jpg"
+    },
+    {
+        "timestamp": "11:32:18.333",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000312.jpg"
+    },
+    {
+        "timestamp": "11:32:18.406",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000313.jpg"
+    },
+    {
+        "timestamp": "11:32:18.455",
+        "detections": [
+            {
+                "xmin": 401.2184143066406,
+                "ymin": 333.7494812011719,
+                "xmax": 460.3062744140625,
+                "ymax": 378.55999755859375,
+                "confidence": 0.3231462836265564,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000314.jpg"
+    },
+    {
+        "timestamp": "11:32:18.506",
+        "detections": [
+            {
+                "xmin": 405.0804138183594,
+                "ymin": 333.38531494140625,
+                "xmax": 462.0404357910156,
+                "ymax": 375.79815673828125,
+                "confidence": 0.33407777547836304,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000315.jpg"
+    },
+    {
+        "timestamp": "11:32:18.554",
+        "detections": [
+            {
+                "xmin": 406.4421691894531,
+                "ymin": 331.0131530761719,
+                "xmax": 462.82977294921875,
+                "ymax": 375.7820739746094,
+                "confidence": 0.27239206433296204,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000316.jpg"
+    },
+    {
+        "timestamp": "11:32:18.606",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000317.jpg"
+    },
+    {
+        "timestamp": "11:32:18.666",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000318.jpg"
+    },
+    {
+        "timestamp": "11:32:18.725",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000319.jpg"
+    },
+    {
+        "timestamp": "11:32:18.776",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000320.jpg"
+    },
+    {
+        "timestamp": "11:32:18.824",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000321.jpg"
+    },
+    {
+        "timestamp": "11:32:18.872",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 4.36447811126709,
+                "xmax": 465.0,
+                "ymax": 132.33094787597656,
+                "confidence": 0.2649416923522949,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000322.jpg"
+    },
+    {
+        "timestamp": "11:32:18.926",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 3.706110954284668,
+                "xmax": 465.0,
+                "ymax": 132.2667236328125,
+                "confidence": 0.29423192143440247,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000323.jpg"
+    },
+    {
+        "timestamp": "11:32:18.980",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 6.0990071296691895,
+                "xmax": 465.0,
+                "ymax": 129.99717712402344,
+                "confidence": 0.30848848819732666,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000324.jpg"
+    },
+    {
+        "timestamp": "11:32:19.037",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 6.168254375457764,
+                "xmax": 465.0,
+                "ymax": 128.88397216796875,
+                "confidence": 0.2678878903388977,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000325.jpg"
+    },
+    {
+        "timestamp": "11:32:19.099",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 6.601611614227295,
+                "xmax": 465.0,
+                "ymax": 126.98389434814453,
+                "confidence": 0.2544417679309845,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000326.jpg"
+    },
+    {
+        "timestamp": "11:32:19.157",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000327.jpg"
+    },
+    {
+        "timestamp": "11:32:19.213",
+        "detections": [
+            {
+                "xmin": 6.631065368652344,
+                "ymin": 3.385984182357788,
+                "xmax": 460.5185546875,
+                "ymax": 121.3499755859375,
+                "confidence": 0.2618921399116516,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000328.jpg"
+    },
+    {
+        "timestamp": "11:32:19.267",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000329.jpg"
+    },
+    {
+        "timestamp": "11:32:19.317",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000330.jpg"
+    },
+    {
+        "timestamp": "11:32:19.368",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000331.jpg"
+    },
+    {
+        "timestamp": "11:32:19.417",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000332.jpg"
+    },
+    {
+        "timestamp": "11:32:19.466",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000333.jpg"
+    },
+    {
+        "timestamp": "11:32:19.516",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000334.jpg"
+    },
+    {
+        "timestamp": "11:32:19.565",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000335.jpg"
+    },
+    {
+        "timestamp": "11:32:19.613",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000336.jpg"
+    },
+    {
+        "timestamp": "11:32:19.661",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000337.jpg"
+    },
+    {
+        "timestamp": "11:32:19.711",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000338.jpg"
+    },
+    {
+        "timestamp": "11:32:19.759",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000339.jpg"
+    },
+    {
+        "timestamp": "11:32:19.807",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000340.jpg"
+    },
+    {
+        "timestamp": "11:32:19.857",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000341.jpg"
+    },
+    {
+        "timestamp": "11:32:19.906",
+        "detections": [
+            {
+                "xmin": 407.2657165527344,
+                "ymin": 324.3038330078125,
+                "xmax": 463.20623779296875,
+                "ymax": 369.8331604003906,
+                "confidence": 0.2767839729785919,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000342.jpg"
+    },
+    {
+        "timestamp": "11:32:19.956",
+        "detections": [
+            {
+                "xmin": 406.35540771484375,
+                "ymin": 323.7071838378906,
+                "xmax": 462.89471435546875,
+                "ymax": 370.6788635253906,
+                "confidence": 0.2799743413925171,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000343.jpg"
+    },
+    {
+        "timestamp": "11:32:20.004",
+        "detections": [
+            {
+                "xmin": 405.0282897949219,
+                "ymin": 324.403076171875,
+                "xmax": 461.8258972167969,
+                "ymax": 370.59912109375,
+                "confidence": 0.26670876145362854,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000344.jpg"
+    },
+    {
+        "timestamp": "11:32:20.051",
+        "detections": [
+            {
+                "xmin": 401.548095703125,
+                "ymin": 324.3690490722656,
+                "xmax": 460.8623046875,
+                "ymax": 371.8253479003906,
+                "confidence": 0.2844722270965576,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000345.jpg"
+    },
+    {
+        "timestamp": "11:32:20.101",
+        "detections": [
+            {
+                "xmin": 400.1015625,
+                "ymin": 330.5394287109375,
+                "xmax": 461.3422546386719,
+                "ymax": 371.9713439941406,
+                "confidence": 0.2902519404888153,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000346.jpg"
+    },
+    {
+        "timestamp": "11:32:20.149",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000347.jpg"
+    },
+    {
+        "timestamp": "11:32:20.197",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000348.jpg"
+    },
+    {
+        "timestamp": "11:32:20.245",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000349.jpg"
+    },
+    {
+        "timestamp": "11:32:20.294",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000350.jpg"
+    },
+    {
+        "timestamp": "11:32:20.342",
+        "detections": [
+            {
+                "xmin": 232.02328491210938,
+                "ymin": 10.631270408630371,
+                "xmax": 441.6829833984375,
+                "ymax": 150.10577392578125,
+                "confidence": 0.32545047998428345,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000351.jpg"
+    },
+    {
+        "timestamp": "11:32:20.396",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000352.jpg"
+    },
+    {
+        "timestamp": "11:32:20.458",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000353.jpg"
+    },
+    {
+        "timestamp": "11:32:20.509",
+        "detections": [
+            {
+                "xmin": 151.15586853027344,
+                "ymin": 456.92706298828125,
+                "xmax": 459.7998046875,
+                "ymax": 755.4442138671875,
+                "confidence": 0.27314481139183044,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000354.jpg"
+    },
+    {
+        "timestamp": "11:32:20.567",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000355.jpg"
+    },
+    {
+        "timestamp": "11:32:20.617",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000356.jpg"
+    },
+    {
+        "timestamp": "11:32:20.665",
+        "detections": [
+            {
+                "xmin": 136.91650390625,
+                "ymin": 453.4441223144531,
+                "xmax": 453.4599609375,
+                "ymax": 774.1824340820312,
+                "confidence": 0.4065668284893036,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 123.6198959350586,
+                "ymin": 18.038257598876953,
+                "xmax": 465.0,
+                "ymax": 164.15525817871094,
+                "confidence": 0.30384334921836853,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000357.jpg"
+    },
+    {
+        "timestamp": "11:32:20.719",
+        "detections": [
+            {
+                "xmin": 272.2768859863281,
+                "ymin": 313.0099792480469,
+                "xmax": 413.65460205078125,
+                "ymax": 409.54034423828125,
+                "confidence": 0.3462182581424713,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 108.73892974853516,
+                "ymin": 10.62741470336914,
+                "xmax": 462.8680419921875,
+                "ymax": 163.3621368408203,
+                "confidence": 0.28303062915802,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000358.jpg"
+    },
+    {
+        "timestamp": "11:32:20.766",
+        "detections": [
+            {
+                "xmin": 265.66943359375,
+                "ymin": 305.3124694824219,
+                "xmax": 397.6162109375,
+                "ymax": 408.4200439453125,
+                "confidence": 0.509689211845398,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 99.6551284790039,
+                "ymin": 11.913816452026367,
+                "xmax": 463.64691162109375,
+                "ymax": 167.8774871826172,
+                "confidence": 0.34601926803588867,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000359.jpg"
+    },
+    {
+        "timestamp": "11:32:20.814",
+        "detections": [
+            {
+                "xmin": 87.1788558959961,
+                "ymin": 468.1831970214844,
+                "xmax": 446.84490966796875,
+                "ymax": 802.571044921875,
+                "confidence": 0.49515500664711,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 255.74424743652344,
+                "ymin": 303.155029296875,
+                "xmax": 389.69085693359375,
+                "ymax": 411.456787109375,
+                "confidence": 0.3556911051273346,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 63.52980041503906,
+                "ymin": 9.1329927444458,
+                "xmax": 465.0,
+                "ymax": 169.93978881835938,
+                "confidence": 0.30263522267341614,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000360.jpg"
+    },
+    {
+        "timestamp": "11:32:20.863",
+        "detections": [
+            {
+                "xmin": 90.33071899414062,
+                "ymin": 472.6968078613281,
+                "xmax": 446.3916931152344,
+                "ymax": 798.165771484375,
+                "confidence": 0.5890321135520935,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 251.24411010742188,
+                "ymin": 304.28778076171875,
+                "xmax": 382.42633056640625,
+                "ymax": 414.45306396484375,
+                "confidence": 0.4669182002544403,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 59.719051361083984,
+                "ymin": 9.660152435302734,
+                "xmax": 465.0,
+                "ymax": 172.69874572753906,
+                "confidence": 0.25575536489486694,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000361.jpg"
+    },
+    {
+        "timestamp": "11:32:20.912",
+        "detections": [
+            {
+                "xmin": 95.79417419433594,
+                "ymin": 473.595703125,
+                "xmax": 445.8188171386719,
+                "ymax": 796.9713745117188,
+                "confidence": 0.6407221555709839,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 234.96682739257812,
+                "ymin": 316.5567321777344,
+                "xmax": 375.3023681640625,
+                "ymax": 419.7706298828125,
+                "confidence": 0.5911224484443665,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000362.jpg"
+    },
+    {
+        "timestamp": "11:32:20.961",
+        "detections": [
+            {
+                "xmin": 97.72134399414062,
+                "ymin": 475.7382507324219,
+                "xmax": 441.3536071777344,
+                "ymax": 795.2749633789062,
+                "confidence": 0.6443551778793335,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 233.02462768554688,
+                "ymin": 305.50146484375,
+                "xmax": 369.2730407714844,
+                "ymax": 421.757080078125,
+                "confidence": 0.6157999634742737,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000363.jpg"
+    },
+    {
+        "timestamp": "11:32:21.011",
+        "detections": [
+            {
+                "xmin": 92.73612976074219,
+                "ymin": 475.11376953125,
+                "xmax": 441.07568359375,
+                "ymax": 790.3530883789062,
+                "confidence": 0.7097964286804199,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 223.56553649902344,
+                "ymin": 312.763671875,
+                "xmax": 354.8949279785156,
+                "ymax": 421.3797912597656,
+                "confidence": 0.6327598094940186,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000364.jpg"
+    },
+    {
+        "timestamp": "11:32:21.068",
+        "detections": [
+            {
+                "xmin": 216.45921325683594,
+                "ymin": 317.1086730957031,
+                "xmax": 353.05059814453125,
+                "ymax": 424.4876403808594,
+                "confidence": 0.6329023838043213,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 78.70362854003906,
+                "ymin": 474.175048828125,
+                "xmax": 444.261962890625,
+                "ymax": 792.4874267578125,
+                "confidence": 0.6154515743255615,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000365.jpg"
+    },
+    {
+        "timestamp": "11:32:21.117",
+        "detections": [
+            {
+                "xmin": 64.4826431274414,
+                "ymin": 475.90399169921875,
+                "xmax": 439.7837219238281,
+                "ymax": 796.6026611328125,
+                "confidence": 0.6118465662002563,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 209.5436248779297,
+                "ymin": 321.4815368652344,
+                "xmax": 345.2718505859375,
+                "ymax": 425.1225891113281,
+                "confidence": 0.5580952763557434,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000366.jpg"
+    },
+    {
+        "timestamp": "11:32:21.165",
+        "detections": [
+            {
+                "xmin": 207.60491943359375,
+                "ymin": 326.0711669921875,
+                "xmax": 342.0116882324219,
+                "ymax": 424.955078125,
+                "confidence": 0.5576409697532654,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 64.51033020019531,
+                "ymin": 475.4022521972656,
+                "xmax": 442.281005859375,
+                "ymax": 797.3338623046875,
+                "confidence": 0.5328385233879089,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000367.jpg"
+    },
+    {
+        "timestamp": "11:32:21.215",
+        "detections": [
+            {
+                "xmin": 203.10289001464844,
+                "ymin": 327.9051818847656,
+                "xmax": 335.1197814941406,
+                "ymax": 426.2543029785156,
+                "confidence": 0.5419331789016724,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 64.6333999633789,
+                "ymin": 476.9457092285156,
+                "xmax": 432.77923583984375,
+                "ymax": 796.5401000976562,
+                "confidence": 0.486826092004776,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000368.jpg"
+    },
+    {
+        "timestamp": "11:32:21.263",
+        "detections": [
+            {
+                "xmin": 65.48723602294922,
+                "ymin": 476.8133544921875,
+                "xmax": 434.3161926269531,
+                "ymax": 795.3495483398438,
+                "confidence": 0.5680469870567322,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 205.21200561523438,
+                "ymin": 333.4223327636719,
+                "xmax": 332.1169128417969,
+                "ymax": 427.76806640625,
+                "confidence": 0.4675303101539612,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000369.jpg"
+    },
+    {
+        "timestamp": "11:32:21.313",
+        "detections": [
+            {
+                "xmin": 57.926910400390625,
+                "ymin": 480.567138671875,
+                "xmax": 433.5168762207031,
+                "ymax": 792.259521484375,
+                "confidence": 0.6419159770011902,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 195.55165100097656,
+                "ymin": 332.6902160644531,
+                "xmax": 329.8816833496094,
+                "ymax": 431.85260009765625,
+                "confidence": 0.49111491441726685,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000370.jpg"
+    },
+    {
+        "timestamp": "11:32:21.366",
+        "detections": [
+            {
+                "xmin": 61.23122787475586,
+                "ymin": 482.7801208496094,
+                "xmax": 428.59307861328125,
+                "ymax": 791.2322998046875,
+                "confidence": 0.6718913316726685,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 190.00689697265625,
+                "ymin": 329.22283935546875,
+                "xmax": 329.34173583984375,
+                "ymax": 432.5526428222656,
+                "confidence": 0.49946871399879456,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000371.jpg"
+    },
+    {
+        "timestamp": "11:32:21.419",
+        "detections": [
+            {
+                "xmin": 67.23824310302734,
+                "ymin": 478.709228515625,
+                "xmax": 410.0324401855469,
+                "ymax": 789.2966918945312,
+                "confidence": 0.5731221437454224,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 181.17230224609375,
+                "ymin": 319.69537353515625,
+                "xmax": 326.8304748535156,
+                "ymax": 436.3268737792969,
+                "confidence": 0.5036883354187012,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 181.29794311523438,
+                "ymin": 331.2997131347656,
+                "xmax": 328.2151794433594,
+                "ymax": 427.44110107421875,
+                "confidence": 0.2756843566894531,
+                "class": 0,
+                "name": "crack"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000372.jpg"
+    },
+    {
+        "timestamp": "11:32:21.466",
+        "detections": [
+            {
+                "xmin": 179.6874237060547,
+                "ymin": 317.1021423339844,
+                "xmax": 320.68505859375,
+                "ymax": 437.5486755371094,
+                "confidence": 0.5855807662010193,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 59.37873840332031,
+                "ymin": 475.0655212402344,
+                "xmax": 415.64837646484375,
+                "ymax": 795.2979125976562,
+                "confidence": 0.5378552079200745,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000373.jpg"
+    },
+    {
+        "timestamp": "11:32:21.526",
+        "detections": [
+            {
+                "xmin": 56.505096435546875,
+                "ymin": 473.998779296875,
+                "xmax": 410.048828125,
+                "ymax": 794.57421875,
+                "confidence": 0.5669517517089844,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 173.2201385498047,
+                "ymin": 321.37359619140625,
+                "xmax": 317.076416015625,
+                "ymax": 440.4811096191406,
+                "confidence": 0.5443248748779297,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000374.jpg"
+    },
+    {
+        "timestamp": "11:32:21.575",
+        "detections": [
+            {
+                "xmin": 51.534423828125,
+                "ymin": 476.8697814941406,
+                "xmax": 399.734619140625,
+                "ymax": 794.6641235351562,
+                "confidence": 0.6127620339393616,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 175.01995849609375,
+                "ymin": 335.1430358886719,
+                "xmax": 313.3001708984375,
+                "ymax": 440.2255554199219,
+                "confidence": 0.48396286368370056,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000375.jpg"
+    },
+    {
+        "timestamp": "11:32:21.626",
+        "detections": [
+            {
+                "xmin": 49.626529693603516,
+                "ymin": 479.5369873046875,
+                "xmax": 403.1293640136719,
+                "ymax": 794.918212890625,
+                "confidence": 0.6072480082511902,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 173.27413940429688,
+                "ymin": 334.34832763671875,
+                "xmax": 311.7603454589844,
+                "ymax": 440.89398193359375,
+                "confidence": 0.4286935329437256,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000376.jpg"
+    },
+    {
+        "timestamp": "11:32:21.673",
+        "detections": [
+            {
+                "xmin": 39.99003601074219,
+                "ymin": 484.3271789550781,
+                "xmax": 401.5093078613281,
+                "ymax": 796.9570922851562,
+                "confidence": 0.6535428762435913,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 172.12744140625,
+                "ymin": 338.5458984375,
+                "xmax": 305.08673095703125,
+                "ymax": 441.2985534667969,
+                "confidence": 0.45903247594833374,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000377.jpg"
+    },
+    {
+        "timestamp": "11:32:21.721",
+        "detections": [
+            {
+                "xmin": 52.8670539855957,
+                "ymin": 486.4838562011719,
+                "xmax": 395.3672180175781,
+                "ymax": 795.5156860351562,
+                "confidence": 0.7415475845336914,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 176.7738037109375,
+                "ymin": 355.1365661621094,
+                "xmax": 299.043701171875,
+                "ymax": 438.6346740722656,
+                "confidence": 0.5185005068778992,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000378.jpg"
+    },
+    {
+        "timestamp": "11:32:21.768",
+        "detections": [
+            {
+                "xmin": 57.68363571166992,
+                "ymin": 488.273193359375,
+                "xmax": 384.540771484375,
+                "ymax": 797.5947875976562,
+                "confidence": 0.6738781332969666,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 171.8258056640625,
+                "ymin": 353.9222412109375,
+                "xmax": 293.48272705078125,
+                "ymax": 439.2105407714844,
+                "confidence": 0.5536544322967529,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000379.jpg"
+    },
+    {
+        "timestamp": "11:32:21.816",
+        "detections": [
+            {
+                "xmin": 50.24654769897461,
+                "ymin": 492.4277648925781,
+                "xmax": 393.7027587890625,
+                "ymax": 800.5211791992188,
+                "confidence": 0.7380543351173401,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 171.55421447753906,
+                "ymin": 356.4039611816406,
+                "xmax": 296.7194519042969,
+                "ymax": 437.8121643066406,
+                "confidence": 0.5864450335502625,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000380.jpg"
+    },
+    {
+        "timestamp": "11:32:21.863",
+        "detections": [
+            {
+                "xmin": 47.890262603759766,
+                "ymin": 491.8443298339844,
+                "xmax": 391.8374938964844,
+                "ymax": 802.6480102539062,
+                "confidence": 0.7265974879264832,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 169.79185485839844,
+                "ymin": 356.0902404785156,
+                "xmax": 293.6662902832031,
+                "ymax": 440.4861755371094,
+                "confidence": 0.5714107751846313,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000381.jpg"
+    },
+    {
+        "timestamp": "11:32:21.913",
+        "detections": [
+            {
+                "xmin": 49.06590270996094,
+                "ymin": 493.5319519042969,
+                "xmax": 384.48663330078125,
+                "ymax": 803.4328002929688,
+                "confidence": 0.6503803730010986,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 167.71685791015625,
+                "ymin": 356.2850036621094,
+                "xmax": 289.0363464355469,
+                "ymax": 440.65692138671875,
+                "confidence": 0.5835759043693542,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000382.jpg"
+    },
+    {
+        "timestamp": "11:32:21.972",
+        "detections": [
+            {
+                "xmin": 48.72438049316406,
+                "ymin": 494.79937744140625,
+                "xmax": 384.7440185546875,
+                "ymax": 804.8158569335938,
+                "confidence": 0.6447316408157349,
+                "class": 2,
+                "name": "water-stain"
+            },
+            {
+                "xmin": 163.4698486328125,
+                "ymin": 356.532958984375,
+                "xmax": 289.2124938964844,
+                "ymax": 439.68408203125,
+                "confidence": 0.6126588582992554,
+                "class": 2,
+                "name": "water-stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_11-32-01/frame_000383.jpg"
+    }
+]

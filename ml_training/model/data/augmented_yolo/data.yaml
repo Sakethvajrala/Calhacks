@@ -1,0 +1,11 @@
+names:
+- algae
+- major_crack
+- minor_crack
+- peeling
+- plain
+- spalling
+- stain
+nc: 7
+train: /Users/rohankosalge/Downloads/augmented_yolo/images/train
+val: /Users/rohankosalge/Downloads/augmented_yolo/images/val

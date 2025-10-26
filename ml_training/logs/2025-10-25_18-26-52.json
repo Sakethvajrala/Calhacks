@@ -1,0 +1,4012 @@
+[
+    {
+        "timestamp": "18:26:53.566",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000001.jpg"
+    },
+    {
+        "timestamp": "18:26:53.762",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000002.jpg"
+    },
+    {
+        "timestamp": "18:26:53.961",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000003.jpg"
+    },
+    {
+        "timestamp": "18:26:54.179",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000004.jpg"
+    },
+    {
+        "timestamp": "18:26:54.375",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000005.jpg"
+    },
+    {
+        "timestamp": "18:26:54.569",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000006.jpg"
+    },
+    {
+        "timestamp": "18:26:54.756",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000007.jpg"
+    },
+    {
+        "timestamp": "18:26:54.948",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000008.jpg"
+    },
+    {
+        "timestamp": "18:26:55.135",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000009.jpg"
+    },
+    {
+        "timestamp": "18:26:55.335",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000010.jpg"
+    },
+    {
+        "timestamp": "18:26:55.534",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000011.jpg"
+    },
+    {
+        "timestamp": "18:26:55.717",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000012.jpg"
+    },
+    {
+        "timestamp": "18:26:55.910",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000013.jpg"
+    },
+    {
+        "timestamp": "18:26:56.109",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000014.jpg"
+    },
+    {
+        "timestamp": "18:26:56.333",
+        "detections": [
+            {
+                "xmin": 101,
+                "ymin": 0,
+                "xmax": 375,
+                "ymax": 611,
+                "confidence": 0.6173548698425293,
+                "name": "doors"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000015.jpg"
+    },
+    {
+        "timestamp": "18:26:56.520",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000016.jpg"
+    },
+    {
+        "timestamp": "18:26:56.709",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000017.jpg"
+    },
+    {
+        "timestamp": "18:26:56.903",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000018.jpg"
+    },
+    {
+        "timestamp": "18:26:57.094",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000019.jpg"
+    },
+    {
+        "timestamp": "18:26:57.295",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000020.jpg"
+    },
+    {
+        "timestamp": "18:26:57.492",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000021.jpg"
+    },
+    {
+        "timestamp": "18:26:57.684",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000022.jpg"
+    },
+    {
+        "timestamp": "18:26:57.876",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000023.jpg"
+    },
+    {
+        "timestamp": "18:26:58.067",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000024.jpg"
+    },
+    {
+        "timestamp": "18:26:58.250",
+        "detections": [
+            {
+                "xmin": 197,
+                "ymin": 202,
+                "xmax": 366,
+                "ymax": 457,
+                "confidence": 0.33926641941070557,
+                "name": "windows"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000025.jpg"
+    },
+    {
+        "timestamp": "18:26:58.442",
+        "detections": [
+            {
+                "xmin": 142,
+                "ymin": 182,
+                "xmax": 364,
+                "ymax": 468,
+                "confidence": 0.29618990421295166,
+                "name": "window"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000026.jpg"
+    },
+    {
+        "timestamp": "18:26:58.633",
+        "detections": [
+            {
+                "xmin": 139,
+                "ymin": 191,
+                "xmax": 361,
+                "ymax": 477,
+                "confidence": 0.5762875080108643,
+                "name": "window"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000027.jpg"
+    },
+    {
+        "timestamp": "18:26:58.823",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000028.jpg"
+    },
+    {
+        "timestamp": "18:26:59.015",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 18,
+                "xmax": 403,
+                "ymax": 814,
+                "confidence": 0.3551994562149048,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000029.jpg"
+    },
+    {
+        "timestamp": "18:26:59.212",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 56,
+                "xmax": 390,
+                "ymax": 813,
+                "confidence": 0.31524813175201416,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000030.jpg"
+    },
+    {
+        "timestamp": "18:26:59.418",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 40,
+                "xmax": 400,
+                "ymax": 812,
+                "confidence": 0.45836111903190613,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000031.jpg"
+    },
+    {
+        "timestamp": "18:26:59.608",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 73,
+                "xmax": 398,
+                "ymax": 812,
+                "confidence": 0.7073133587837219,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000032.jpg"
+    },
+    {
+        "timestamp": "18:26:59.795",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 17,
+                "xmax": 398,
+                "ymax": 814,
+                "confidence": 0.4535319209098816,
+                "name": "electrical-panel"
+            },
+            {
+                "xmin": 38,
+                "ymin": 0,
+                "xmax": 366,
+                "ymax": 112,
+                "confidence": 0.31651735305786133,
+                "name": "stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000033.jpg"
+    },
+    {
+        "timestamp": "18:26:59.991",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 5,
+                "xmax": 405,
+                "ymax": 814,
+                "confidence": 0.46175068616867065,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000034.jpg"
+    },
+    {
+        "timestamp": "18:27:00.183",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 7,
+                "xmax": 403,
+                "ymax": 814,
+                "confidence": 0.39420053362846375,
+                "name": "electrical-panel"
+            },
+            {
+                "xmin": 1,
+                "ymin": 0,
+                "xmax": 440,
+                "ymax": 116,
+                "confidence": 0.2963535785675049,
+                "name": "stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000035.jpg"
+    },
+    {
+        "timestamp": "18:27:00.379",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 21,
+                "xmax": 404,
+                "ymax": 813,
+                "confidence": 0.37768086791038513,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000036.jpg"
+    },
+    {
+        "timestamp": "18:27:00.573",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000037.jpg"
+    },
+    {
+        "timestamp": "18:27:00.784",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 185,
+                "xmax": 400,
+                "ymax": 812,
+                "confidence": 0.5128675699234009,
+                "name": "electrical-panel"
+            },
+            {
+                "xmin": 133,
+                "ymin": 229,
+                "xmax": 344,
+                "ymax": 512,
+                "confidence": 0.2876981496810913,
+                "name": "window"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000038.jpg"
+    },
+    {
+        "timestamp": "18:27:00.998",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 217,
+                "xmax": 399,
+                "ymax": 812,
+                "confidence": 0.6160759925842285,
+                "name": "electrical-panel"
+            },
+            {
+                "xmin": 129,
+                "ymin": 230,
+                "xmax": 342,
+                "ymax": 512,
+                "confidence": 0.3210362493991852,
+                "name": "window"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000039.jpg"
+    },
+    {
+        "timestamp": "18:27:01.189",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 228,
+                "xmax": 397,
+                "ymax": 815,
+                "confidence": 0.776032567024231,
+                "name": "electrical-panel"
+            },
+            {
+                "xmin": 126,
+                "ymin": 232,
+                "xmax": 339,
+                "ymax": 513,
+                "confidence": 0.2845591604709625,
+                "name": "window"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000040.jpg"
+    },
+    {
+        "timestamp": "18:27:01.376",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 215,
+                "xmax": 398,
+                "ymax": 814,
+                "confidence": 0.824767529964447,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000041.jpg"
+    },
+    {
+        "timestamp": "18:27:01.585",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 225,
+                "xmax": 393,
+                "ymax": 815,
+                "confidence": 0.8261612057685852,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000042.jpg"
+    },
+    {
+        "timestamp": "18:27:01.772",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 209,
+                "xmax": 391,
+                "ymax": 813,
+                "confidence": 0.7923622727394104,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000043.jpg"
+    },
+    {
+        "timestamp": "18:27:01.964",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 223,
+                "xmax": 387,
+                "ymax": 814,
+                "confidence": 0.8502382040023804,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000044.jpg"
+    },
+    {
+        "timestamp": "18:27:02.155",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 204,
+                "xmax": 384,
+                "ymax": 811,
+                "confidence": 0.5844275951385498,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000045.jpg"
+    },
+    {
+        "timestamp": "18:27:02.350",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 69,
+                "xmax": 379,
+                "ymax": 810,
+                "confidence": 0.6293156147003174,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000046.jpg"
+    },
+    {
+        "timestamp": "18:27:02.544",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 189,
+                "xmax": 377,
+                "ymax": 811,
+                "confidence": 0.7957378625869751,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000047.jpg"
+    },
+    {
+        "timestamp": "18:27:02.734",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 240,
+                "xmax": 379,
+                "ymax": 812,
+                "confidence": 0.8722431063652039,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000048.jpg"
+    },
+    {
+        "timestamp": "18:27:02.929",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 237,
+                "xmax": 382,
+                "ymax": 812,
+                "confidence": 0.7424877285957336,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000049.jpg"
+    },
+    {
+        "timestamp": "18:27:03.142",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 231,
+                "xmax": 383,
+                "ymax": 810,
+                "confidence": 0.5719168186187744,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000050.jpg"
+    },
+    {
+        "timestamp": "18:27:03.336",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 228,
+                "xmax": 382,
+                "ymax": 809,
+                "confidence": 0.6721104979515076,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000051.jpg"
+    },
+    {
+        "timestamp": "18:27:03.524",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 224,
+                "xmax": 379,
+                "ymax": 810,
+                "confidence": 0.7305851578712463,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000052.jpg"
+    },
+    {
+        "timestamp": "18:27:03.714",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 220,
+                "xmax": 371,
+                "ymax": 809,
+                "confidence": 0.6575466394424438,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000053.jpg"
+    },
+    {
+        "timestamp": "18:27:03.912",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 219,
+                "xmax": 369,
+                "ymax": 813,
+                "confidence": 0.7843225598335266,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000054.jpg"
+    },
+    {
+        "timestamp": "18:27:04.099",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 220,
+                "xmax": 367,
+                "ymax": 813,
+                "confidence": 0.7365418672561646,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000055.jpg"
+    },
+    {
+        "timestamp": "18:27:04.285",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 214,
+                "xmax": 367,
+                "ymax": 813,
+                "confidence": 0.7207091450691223,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000056.jpg"
+    },
+    {
+        "timestamp": "18:27:04.473",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 208,
+                "xmax": 367,
+                "ymax": 809,
+                "confidence": 0.5319957733154297,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000057.jpg"
+    },
+    {
+        "timestamp": "18:27:04.666",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000058.jpg"
+    },
+    {
+        "timestamp": "18:27:04.851",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 205,
+                "xmax": 366,
+                "ymax": 810,
+                "confidence": 0.45565423369407654,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000059.jpg"
+    },
+    {
+        "timestamp": "18:27:05.037",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 211,
+                "xmax": 362,
+                "ymax": 814,
+                "confidence": 0.45535385608673096,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000060.jpg"
+    },
+    {
+        "timestamp": "18:27:05.223",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 195,
+                "xmax": 335,
+                "ymax": 812,
+                "confidence": 0.28029194474220276,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000061.jpg"
+    },
+    {
+        "timestamp": "18:27:05.434",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 212,
+                "xmax": 369,
+                "ymax": 813,
+                "confidence": 0.26984524726867676,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000062.jpg"
+    },
+    {
+        "timestamp": "18:27:05.621",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000063.jpg"
+    },
+    {
+        "timestamp": "18:27:05.810",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000064.jpg"
+    },
+    {
+        "timestamp": "18:27:05.998",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000065.jpg"
+    },
+    {
+        "timestamp": "18:27:06.187",
+        "detections": [
+            {
+                "xmin": 107,
+                "ymin": 253,
+                "xmax": 278,
+                "ymax": 516,
+                "confidence": 0.2654135227203369,
+                "name": "window"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000066.jpg"
+    },
+    {
+        "timestamp": "18:27:06.379",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000067.jpg"
+    },
+    {
+        "timestamp": "18:27:06.566",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000068.jpg"
+    },
+    {
+        "timestamp": "18:27:06.753",
+        "detections": [
+            {
+                "xmin": 10,
+                "ymin": 0,
+                "xmax": 347,
+                "ymax": 99,
+                "confidence": 0.2588716745376587,
+                "name": "stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000069.jpg"
+    },
+    {
+        "timestamp": "18:27:06.944",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000070.jpg"
+    },
+    {
+        "timestamp": "18:27:07.138",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000071.jpg"
+    },
+    {
+        "timestamp": "18:27:07.326",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000072.jpg"
+    },
+    {
+        "timestamp": "18:27:07.512",
+        "detections": [
+            {
+                "xmin": 10,
+                "ymin": 0,
+                "xmax": 334,
+                "ymax": 98,
+                "confidence": 0.3975679874420166,
+                "name": "stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000073.jpg"
+    },
+    {
+        "timestamp": "18:27:07.724",
+        "detections": [
+            {
+                "xmin": 15,
+                "ymin": 0,
+                "xmax": 338,
+                "ymax": 94,
+                "confidence": 0.28168922662734985,
+                "name": "stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000074.jpg"
+    },
+    {
+        "timestamp": "18:27:07.910",
+        "detections": [
+            {
+                "xmin": 10,
+                "ymin": 0,
+                "xmax": 338,
+                "ymax": 85,
+                "confidence": 0.2988899052143097,
+                "name": "stain"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000075.jpg"
+    },
+    {
+        "timestamp": "18:27:08.106",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 208,
+                "xmax": 314,
+                "ymax": 810,
+                "confidence": 0.2999030649662018,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000076.jpg"
+    },
+    {
+        "timestamp": "18:27:08.294",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 219,
+                "xmax": 363,
+                "ymax": 814,
+                "confidence": 0.7434619665145874,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000077.jpg"
+    },
+    {
+        "timestamp": "18:27:08.483",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 210,
+                "xmax": 361,
+                "ymax": 815,
+                "confidence": 0.5549498796463013,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000078.jpg"
+    },
+    {
+        "timestamp": "18:27:08.679",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 218,
+                "xmax": 391,
+                "ymax": 815,
+                "confidence": 0.5967596769332886,
+                "name": "electrical-panel"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000079.jpg"
+    },
+    {
+        "timestamp": "18:27:08.872",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000080.jpg"
+    },
+    {
+        "timestamp": "18:27:09.078",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000081.jpg"
+    },
+    {
+        "timestamp": "18:27:09.277",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000082.jpg"
+    },
+    {
+        "timestamp": "18:27:09.468",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000083.jpg"
+    },
+    {
+        "timestamp": "18:27:09.656",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000084.jpg"
+    },
+    {
+        "timestamp": "18:27:09.847",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000085.jpg"
+    },
+    {
+        "timestamp": "18:27:10.039",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000086.jpg"
+    },
+    {
+        "timestamp": "18:27:10.235",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000087.jpg"
+    },
+    {
+        "timestamp": "18:27:10.432",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000088.jpg"
+    },
+    {
+        "timestamp": "18:27:10.627",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000089.jpg"
+    },
+    {
+        "timestamp": "18:27:10.810",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000090.jpg"
+    },
+    {
+        "timestamp": "18:27:11.004",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000091.jpg"
+    },
+    {
+        "timestamp": "18:27:11.196",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000092.jpg"
+    },
+    {
+        "timestamp": "18:27:11.381",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000093.jpg"
+    },
+    {
+        "timestamp": "18:27:11.589",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000094.jpg"
+    },
+    {
+        "timestamp": "18:27:11.784",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000095.jpg"
+    },
+    {
+        "timestamp": "18:27:11.977",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000096.jpg"
+    },
+    {
+        "timestamp": "18:27:12.171",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000097.jpg"
+    },
+    {
+        "timestamp": "18:27:12.359",
+        "detections": [
+            {
+                "xmin": 68,
+                "ymin": 0,
+                "xmax": 135,
+                "ymax": 814,
+                "confidence": 0.295362263917923,
+                "name": "crack"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000098.jpg"
+    },
+    {
+        "timestamp": "18:27:12.567",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000099.jpg"
+    },
+    {
+        "timestamp": "18:27:12.776",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000100.jpg"
+    },
+    {
+        "timestamp": "18:27:12.965",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000101.jpg"
+    },
+    {
+        "timestamp": "18:27:13.161",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000102.jpg"
+    },
+    {
+        "timestamp": "18:27:13.351",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000103.jpg"
+    },
+    {
+        "timestamp": "18:27:13.544",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000104.jpg"
+    },
+    {
+        "timestamp": "18:27:13.732",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000105.jpg"
+    },
+    {
+        "timestamp": "18:27:13.929",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000106.jpg"
+    },
+    {
+        "timestamp": "18:27:14.124",
+        "detections": [
+            {
+                "xmin": 232,
+                "ymin": 208,
+                "xmax": 374,
+                "ymax": 394,
+                "confidence": 0.8326998949050903,
+                "name": "windows"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000107.jpg"
+    },
+    {
+        "timestamp": "18:27:14.318",
+        "detections": [
+            {
+                "xmin": 216,
+                "ymin": 212,
+                "xmax": 358,
+                "ymax": 401,
+                "confidence": 0.9274511337280273,
+                "name": "windows"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000108.jpg"
+    },
+    {
+        "timestamp": "18:27:14.516",
+        "detections": [
+            {
+                "xmin": 202,
+                "ymin": 215,
+                "xmax": 344,
+                "ymax": 412,
+                "confidence": 0.8990480899810791,
+                "name": "windows"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000109.jpg"
+    },
+    {
+        "timestamp": "18:27:14.704",
+        "detections": [
+            {
+                "xmin": 183,
+                "ymin": 219,
+                "xmax": 327,
+                "ymax": 418,
+                "confidence": 0.9444394111633301,
+                "name": "windows"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000110.jpg"
+    },
+    {
+        "timestamp": "18:27:14.892",
+        "detections": [
+            {
+                "xmin": 154,
+                "ymin": 208,
+                "xmax": 313,
+                "ymax": 425,
+                "confidence": 0.3590598404407501,
+                "name": "windows"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000111.jpg"
+    },
+    {
+        "timestamp": "18:27:15.085",
+        "detections": [
+            {
+                "xmin": 129,
+                "ymin": 218,
+                "xmax": 292,
+                "ymax": 432,
+                "confidence": 0.26274922490119934,
+                "name": "windows"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000112.jpg"
+    },
+    {
+        "timestamp": "18:27:15.278",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000113.jpg"
+    },
+    {
+        "timestamp": "18:27:15.465",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000114.jpg"
+    },
+    {
+        "timestamp": "18:27:15.651",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000115.jpg"
+    },
+    {
+        "timestamp": "18:27:15.845",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000116.jpg"
+    },
+    {
+        "timestamp": "18:27:16.032",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000117.jpg"
+    },
+    {
+        "timestamp": "18:27:16.217",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000118.jpg"
+    },
+    {
+        "timestamp": "18:27:16.406",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000119.jpg"
+    },
+    {
+        "timestamp": "18:27:16.607",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000120.jpg"
+    },
+    {
+        "timestamp": "18:27:16.795",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000121.jpg"
+    },
+    {
+        "timestamp": "18:27:16.987",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000122.jpg"
+    },
+    {
+        "timestamp": "18:27:17.185",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000123.jpg"
+    },
+    {
+        "timestamp": "18:27:17.378",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000124.jpg"
+    },
+    {
+        "timestamp": "18:27:17.565",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000125.jpg"
+    },
+    {
+        "timestamp": "18:27:17.757",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000126.jpg"
+    },
+    {
+        "timestamp": "18:27:17.964",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000127.jpg"
+    },
+    {
+        "timestamp": "18:27:18.159",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000128.jpg"
+    },
+    {
+        "timestamp": "18:27:18.353",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000129.jpg"
+    },
+    {
+        "timestamp": "18:27:18.547",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000130.jpg"
+    },
+    {
+        "timestamp": "18:27:18.740",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000131.jpg"
+    },
+    {
+        "timestamp": "18:27:18.929",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000132.jpg"
+    },
+    {
+        "timestamp": "18:27:19.114",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000133.jpg"
+    },
+    {
+        "timestamp": "18:27:19.300",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000134.jpg"
+    },
+    {
+        "timestamp": "18:27:19.500",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000135.jpg"
+    },
+    {
+        "timestamp": "18:27:19.698",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000136.jpg"
+    },
+    {
+        "timestamp": "18:27:19.885",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000137.jpg"
+    },
+    {
+        "timestamp": "18:27:20.088",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000138.jpg"
+    },
+    {
+        "timestamp": "18:27:20.280",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000139.jpg"
+    },
+    {
+        "timestamp": "18:27:20.471",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000140.jpg"
+    },
+    {
+        "timestamp": "18:27:20.657",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000141.jpg"
+    },
+    {
+        "timestamp": "18:27:20.862",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000142.jpg"
+    },
+    {
+        "timestamp": "18:27:21.051",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000143.jpg"
+    },
+    {
+        "timestamp": "18:27:21.236",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000144.jpg"
+    },
+    {
+        "timestamp": "18:27:21.445",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000145.jpg"
+    },
+    {
+        "timestamp": "18:27:21.636",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000146.jpg"
+    },
+    {
+        "timestamp": "18:27:21.823",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000147.jpg"
+    },
+    {
+        "timestamp": "18:27:22.018",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000148.jpg"
+    },
+    {
+        "timestamp": "18:27:22.228",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000149.jpg"
+    },
+    {
+        "timestamp": "18:27:22.416",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000150.jpg"
+    },
+    {
+        "timestamp": "18:27:22.600",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000151.jpg"
+    },
+    {
+        "timestamp": "18:27:22.797",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000152.jpg"
+    },
+    {
+        "timestamp": "18:27:22.991",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000153.jpg"
+    },
+    {
+        "timestamp": "18:27:23.184",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000154.jpg"
+    },
+    {
+        "timestamp": "18:27:23.369",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000155.jpg"
+    },
+    {
+        "timestamp": "18:27:23.562",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000156.jpg"
+    },
+    {
+        "timestamp": "18:27:23.754",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000157.jpg"
+    },
+    {
+        "timestamp": "18:27:23.940",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000158.jpg"
+    },
+    {
+        "timestamp": "18:27:24.135",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000159.jpg"
+    },
+    {
+        "timestamp": "18:27:24.332",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000160.jpg"
+    },
+    {
+        "timestamp": "18:27:24.525",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000161.jpg"
+    },
+    {
+        "timestamp": "18:27:24.717",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000162.jpg"
+    },
+    {
+        "timestamp": "18:27:24.910",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000163.jpg"
+    },
+    {
+        "timestamp": "18:27:25.106",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000164.jpg"
+    },
+    {
+        "timestamp": "18:27:25.299",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000165.jpg"
+    },
+    {
+        "timestamp": "18:27:25.491",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000166.jpg"
+    },
+    {
+        "timestamp": "18:27:25.677",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000167.jpg"
+    },
+    {
+        "timestamp": "18:27:25.865",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000168.jpg"
+    },
+    {
+        "timestamp": "18:27:26.060",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000169.jpg"
+    },
+    {
+        "timestamp": "18:27:26.253",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000170.jpg"
+    },
+    {
+        "timestamp": "18:27:26.451",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000171.jpg"
+    },
+    {
+        "timestamp": "18:27:26.646",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000172.jpg"
+    },
+    {
+        "timestamp": "18:27:26.832",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000173.jpg"
+    },
+    {
+        "timestamp": "18:27:27.019",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000174.jpg"
+    },
+    {
+        "timestamp": "18:27:27.207",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000175.jpg"
+    },
+    {
+        "timestamp": "18:27:27.393",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000176.jpg"
+    },
+    {
+        "timestamp": "18:27:27.577",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000177.jpg"
+    },
+    {
+        "timestamp": "18:27:27.770",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000178.jpg"
+    },
+    {
+        "timestamp": "18:27:27.963",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000179.jpg"
+    },
+    {
+        "timestamp": "18:27:28.155",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000180.jpg"
+    },
+    {
+        "timestamp": "18:27:28.345",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000181.jpg"
+    },
+    {
+        "timestamp": "18:27:28.531",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000182.jpg"
+    },
+    {
+        "timestamp": "18:27:28.720",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000183.jpg"
+    },
+    {
+        "timestamp": "18:27:28.905",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000184.jpg"
+    },
+    {
+        "timestamp": "18:27:29.098",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000185.jpg"
+    },
+    {
+        "timestamp": "18:27:29.294",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000186.jpg"
+    },
+    {
+        "timestamp": "18:27:29.481",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000187.jpg"
+    },
+    {
+        "timestamp": "18:27:29.674",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000188.jpg"
+    },
+    {
+        "timestamp": "18:27:29.862",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000189.jpg"
+    },
+    {
+        "timestamp": "18:27:30.054",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000190.jpg"
+    },
+    {
+        "timestamp": "18:27:30.251",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000191.jpg"
+    },
+    {
+        "timestamp": "18:27:30.464",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000192.jpg"
+    },
+    {
+        "timestamp": "18:27:30.662",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000193.jpg"
+    },
+    {
+        "timestamp": "18:27:30.862",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000194.jpg"
+    },
+    {
+        "timestamp": "18:27:31.049",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000195.jpg"
+    },
+    {
+        "timestamp": "18:27:31.244",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000196.jpg"
+    },
+    {
+        "timestamp": "18:27:31.440",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000197.jpg"
+    },
+    {
+        "timestamp": "18:27:31.633",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000198.jpg"
+    },
+    {
+        "timestamp": "18:27:31.832",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000199.jpg"
+    },
+    {
+        "timestamp": "18:27:32.030",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000200.jpg"
+    },
+    {
+        "timestamp": "18:27:32.225",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000201.jpg"
+    },
+    {
+        "timestamp": "18:27:32.421",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000202.jpg"
+    },
+    {
+        "timestamp": "18:27:32.616",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000203.jpg"
+    },
+    {
+        "timestamp": "18:27:32.800",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000204.jpg"
+    },
+    {
+        "timestamp": "18:27:32.991",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000205.jpg"
+    },
+    {
+        "timestamp": "18:27:33.197",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000206.jpg"
+    },
+    {
+        "timestamp": "18:27:33.393",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000207.jpg"
+    },
+    {
+        "timestamp": "18:27:33.583",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000208.jpg"
+    },
+    {
+        "timestamp": "18:27:33.785",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000209.jpg"
+    },
+    {
+        "timestamp": "18:27:33.979",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000210.jpg"
+    },
+    {
+        "timestamp": "18:27:34.163",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000211.jpg"
+    },
+    {
+        "timestamp": "18:27:34.377",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000212.jpg"
+    },
+    {
+        "timestamp": "18:27:34.577",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000213.jpg"
+    },
+    {
+        "timestamp": "18:27:34.773",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000214.jpg"
+    },
+    {
+        "timestamp": "18:27:34.967",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000215.jpg"
+    },
+    {
+        "timestamp": "18:27:35.168",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000216.jpg"
+    },
+    {
+        "timestamp": "18:27:35.364",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000217.jpg"
+    },
+    {
+        "timestamp": "18:27:35.564",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000218.jpg"
+    },
+    {
+        "timestamp": "18:27:35.769",
+        "detections": [
+            {
+                "xmin": 216,
+                "ymin": 369,
+                "xmax": 271,
+                "ymax": 437,
+                "confidence": 0.8312922120094299,
+                "name": "windows"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000219.jpg"
+    },
+    {
+        "timestamp": "18:27:35.965",
+        "detections": [
+            {
+                "xmin": 214,
+                "ymin": 385,
+                "xmax": 270,
+                "ymax": 455,
+                "confidence": 0.8004506230354309,
+                "name": "windows"
+            },
+            {
+                "xmin": 218,
+                "ymin": 513,
+                "xmax": 274,
+                "ymax": 567,
+                "confidence": 0.527073860168457,
+                "name": "windows"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000220.jpg"
+    },
+    {
+        "timestamp": "18:27:36.163",
+        "detections": [
+            {
+                "xmin": 212,
+                "ymin": 402,
+                "xmax": 268,
+                "ymax": 473,
+                "confidence": 0.6970052123069763,
+                "name": "windows"
+            },
+            {
+                "xmin": 217,
+                "ymin": 531,
+                "xmax": 272,
+                "ymax": 577,
+                "confidence": 0.5836361646652222,
+                "name": "windows"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000221.jpg"
+    },
+    {
+        "timestamp": "18:27:36.363",
+        "detections": [
+            {
+                "xmin": 212,
+                "ymin": 416,
+                "xmax": 269,
+                "ymax": 486,
+                "confidence": 0.6270765066146851,
+                "name": "windows"
+            },
+            {
+                "xmin": 216,
+                "ymin": 544,
+                "xmax": 271,
+                "ymax": 583,
+                "confidence": 0.3420312702655792,
+                "name": "windows"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000222.jpg"
+    },
+    {
+        "timestamp": "18:27:36.551",
+        "detections": [
+            {
+                "xmin": 215,
+                "ymin": 429,
+                "xmax": 273,
+                "ymax": 498,
+                "confidence": 0.6329887509346008,
+                "name": "windows"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000223.jpg"
+    },
+    {
+        "timestamp": "18:27:36.741",
+        "detections": [
+            {
+                "xmin": 219,
+                "ymin": 440,
+                "xmax": 274,
+                "ymax": 511,
+                "confidence": 0.3339899480342865,
+                "name": "windows"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000224.jpg"
+    },
+    {
+        "timestamp": "18:27:36.949",
+        "detections": [
+            {
+                "xmin": 229,
+                "ymin": 464,
+                "xmax": 282,
+                "ymax": 531,
+                "confidence": 0.6656004786491394,
+                "name": "windows"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000225.jpg"
+    },
+    {
+        "timestamp": "18:27:37.152",
+        "detections": [
+            {
+                "xmin": 232,
+                "ymin": 466,
+                "xmax": 284,
+                "ymax": 535,
+                "confidence": 0.5342267751693726,
+                "name": "windows"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000226.jpg"
+    },
+    {
+        "timestamp": "18:27:37.342",
+        "detections": [
+            {
+                "xmin": 238,
+                "ymin": 471,
+                "xmax": 293,
+                "ymax": 538,
+                "confidence": 0.7899352312088013,
+                "name": "windows"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000227.jpg"
+    },
+    {
+        "timestamp": "18:27:37.544",
+        "detections": [
+            {
+                "xmin": 242,
+                "ymin": 476,
+                "xmax": 298,
+                "ymax": 545,
+                "confidence": 0.41263142228126526,
+                "name": "windows"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000228.jpg"
+    },
+    {
+        "timestamp": "18:27:37.729",
+        "detections": [
+            {
+                "xmin": 249,
+                "ymin": 481,
+                "xmax": 303,
+                "ymax": 547,
+                "confidence": 0.32584208250045776,
+                "name": "windows"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000229.jpg"
+    },
+    {
+        "timestamp": "18:27:37.924",
+        "detections": [
+            {
+                "xmin": 251,
+                "ymin": 481,
+                "xmax": 306,
+                "ymax": 549,
+                "confidence": 0.612135112285614,
+                "name": "windows"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000230.jpg"
+    },
+    {
+        "timestamp": "18:27:38.119",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000231.jpg"
+    },
+    {
+        "timestamp": "18:27:38.312",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000232.jpg"
+    },
+    {
+        "timestamp": "18:27:38.512",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000233.jpg"
+    },
+    {
+        "timestamp": "18:27:38.703",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000234.jpg"
+    },
+    {
+        "timestamp": "18:27:38.890",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000235.jpg"
+    },
+    {
+        "timestamp": "18:27:39.089",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000236.jpg"
+    },
+    {
+        "timestamp": "18:27:39.282",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000237.jpg"
+    },
+    {
+        "timestamp": "18:27:39.470",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000238.jpg"
+    },
+    {
+        "timestamp": "18:27:39.668",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000239.jpg"
+    },
+    {
+        "timestamp": "18:27:39.872",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000240.jpg"
+    },
+    {
+        "timestamp": "18:27:40.061",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000241.jpg"
+    },
+    {
+        "timestamp": "18:27:40.250",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000242.jpg"
+    },
+    {
+        "timestamp": "18:27:40.444",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000243.jpg"
+    },
+    {
+        "timestamp": "18:27:40.634",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000244.jpg"
+    },
+    {
+        "timestamp": "18:27:40.827",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000245.jpg"
+    },
+    {
+        "timestamp": "18:27:41.019",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000246.jpg"
+    },
+    {
+        "timestamp": "18:27:41.224",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000247.jpg"
+    },
+    {
+        "timestamp": "18:27:41.416",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000248.jpg"
+    },
+    {
+        "timestamp": "18:27:41.611",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000249.jpg"
+    },
+    {
+        "timestamp": "18:27:41.807",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000250.jpg"
+    },
+    {
+        "timestamp": "18:27:42.002",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000251.jpg"
+    },
+    {
+        "timestamp": "18:27:42.193",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000252.jpg"
+    },
+    {
+        "timestamp": "18:27:42.388",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000253.jpg"
+    },
+    {
+        "timestamp": "18:27:42.587",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000254.jpg"
+    },
+    {
+        "timestamp": "18:27:42.800",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000255.jpg"
+    },
+    {
+        "timestamp": "18:27:43.005",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000256.jpg"
+    },
+    {
+        "timestamp": "18:27:43.206",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000257.jpg"
+    },
+    {
+        "timestamp": "18:27:43.396",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000258.jpg"
+    },
+    {
+        "timestamp": "18:27:43.600",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000259.jpg"
+    },
+    {
+        "timestamp": "18:27:43.816",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000260.jpg"
+    },
+    {
+        "timestamp": "18:27:44.010",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000261.jpg"
+    },
+    {
+        "timestamp": "18:27:44.198",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000262.jpg"
+    },
+    {
+        "timestamp": "18:27:44.389",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000263.jpg"
+    },
+    {
+        "timestamp": "18:27:44.585",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000264.jpg"
+    },
+    {
+        "timestamp": "18:27:44.780",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000265.jpg"
+    },
+    {
+        "timestamp": "18:27:44.970",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000266.jpg"
+    },
+    {
+        "timestamp": "18:27:45.189",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000267.jpg"
+    },
+    {
+        "timestamp": "18:27:45.387",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000268.jpg"
+    },
+    {
+        "timestamp": "18:27:45.574",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000269.jpg"
+    },
+    {
+        "timestamp": "18:27:45.766",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000270.jpg"
+    },
+    {
+        "timestamp": "18:27:45.962",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000271.jpg"
+    },
+    {
+        "timestamp": "18:27:46.157",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000272.jpg"
+    },
+    {
+        "timestamp": "18:27:46.352",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000273.jpg"
+    },
+    {
+        "timestamp": "18:27:46.555",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000274.jpg"
+    },
+    {
+        "timestamp": "18:27:46.744",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000275.jpg"
+    },
+    {
+        "timestamp": "18:27:46.940",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000276.jpg"
+    },
+    {
+        "timestamp": "18:27:47.135",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000277.jpg"
+    },
+    {
+        "timestamp": "18:27:47.334",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000278.jpg"
+    },
+    {
+        "timestamp": "18:27:47.526",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000279.jpg"
+    },
+    {
+        "timestamp": "18:27:47.742",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000280.jpg"
+    },
+    {
+        "timestamp": "18:27:47.952",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000281.jpg"
+    },
+    {
+        "timestamp": "18:27:48.141",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000282.jpg"
+    },
+    {
+        "timestamp": "18:27:48.330",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000283.jpg"
+    },
+    {
+        "timestamp": "18:27:48.530",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000284.jpg"
+    },
+    {
+        "timestamp": "18:27:48.727",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000285.jpg"
+    },
+    {
+        "timestamp": "18:27:48.915",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000286.jpg"
+    },
+    {
+        "timestamp": "18:27:49.108",
+        "detections": [
+            {
+                "xmin": 187,
+                "ymin": 309,
+                "xmax": 450,
+                "ymax": 585,
+                "confidence": 0.2575340270996094,
+                "name": "toilet"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000287.jpg"
+    },
+    {
+        "timestamp": "18:27:49.304",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000288.jpg"
+    },
+    {
+        "timestamp": "18:27:49.494",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000289.jpg"
+    },
+    {
+        "timestamp": "18:27:49.690",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000290.jpg"
+    },
+    {
+        "timestamp": "18:27:49.878",
+        "detections": [
+            {
+                "xmin": 119,
+                "ymin": 273,
+                "xmax": 465,
+                "ymax": 814,
+                "confidence": 0.37115776538848877,
+                "name": "toilet"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000291.jpg"
+    },
+    {
+        "timestamp": "18:27:50.068",
+        "detections": [
+            {
+                "xmin": 127,
+                "ymin": 275,
+                "xmax": 465,
+                "ymax": 815,
+                "confidence": 0.5249257683753967,
+                "name": "toilet"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000292.jpg"
+    },
+    {
+        "timestamp": "18:27:50.263",
+        "detections": [
+            {
+                "xmin": 143,
+                "ymin": 264,
+                "xmax": 465,
+                "ymax": 814,
+                "confidence": 0.27302518486976624,
+                "name": "toilet"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000293.jpg"
+    },
+    {
+        "timestamp": "18:27:50.456",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000294.jpg"
+    },
+    {
+        "timestamp": "18:27:50.653",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000295.jpg"
+    },
+    {
+        "timestamp": "18:27:50.848",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000296.jpg"
+    },
+    {
+        "timestamp": "18:27:51.039",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000297.jpg"
+    },
+    {
+        "timestamp": "18:27:51.232",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000298.jpg"
+    },
+    {
+        "timestamp": "18:27:51.419",
+        "detections": [
+            {
+                "xmin": 107,
+                "ymin": 249,
+                "xmax": 369,
+                "ymax": 811,
+                "confidence": 0.3596576154232025,
+                "name": "toilet"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000299.jpg"
+    },
+    {
+        "timestamp": "18:27:51.630",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000300.jpg"
+    },
+    {
+        "timestamp": "18:27:51.824",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000301.jpg"
+    },
+    {
+        "timestamp": "18:27:52.025",
+        "detections": [
+            {
+                "xmin": 145,
+                "ymin": 95,
+                "xmax": 369,
+                "ymax": 444,
+                "confidence": 0.262052983045578,
+                "name": "toilet"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000302.jpg"
+    },
+    {
+        "timestamp": "18:27:52.215",
+        "detections": [
+            {
+                "xmin": 141,
+                "ymin": 43,
+                "xmax": 378,
+                "ymax": 430,
+                "confidence": 0.3979649245738983,
+                "name": "toilet"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000303.jpg"
+    },
+    {
+        "timestamp": "18:27:52.411",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000304.jpg"
+    },
+    {
+        "timestamp": "18:27:52.608",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000305.jpg"
+    },
+    {
+        "timestamp": "18:27:52.796",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000306.jpg"
+    },
+    {
+        "timestamp": "18:27:52.999",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000307.jpg"
+    },
+    {
+        "timestamp": "18:27:53.190",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000308.jpg"
+    },
+    {
+        "timestamp": "18:27:53.385",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000309.jpg"
+    },
+    {
+        "timestamp": "18:27:53.580",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000310.jpg"
+    },
+    {
+        "timestamp": "18:27:53.776",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000311.jpg"
+    },
+    {
+        "timestamp": "18:27:53.964",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000312.jpg"
+    },
+    {
+        "timestamp": "18:27:54.169",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000313.jpg"
+    },
+    {
+        "timestamp": "18:27:54.362",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000314.jpg"
+    },
+    {
+        "timestamp": "18:27:54.551",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000315.jpg"
+    },
+    {
+        "timestamp": "18:27:54.745",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000316.jpg"
+    },
+    {
+        "timestamp": "18:27:54.933",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000317.jpg"
+    },
+    {
+        "timestamp": "18:27:55.133",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000318.jpg"
+    },
+    {
+        "timestamp": "18:27:55.326",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000319.jpg"
+    },
+    {
+        "timestamp": "18:27:55.520",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000320.jpg"
+    },
+    {
+        "timestamp": "18:27:55.711",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000321.jpg"
+    },
+    {
+        "timestamp": "18:27:55.904",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000322.jpg"
+    },
+    {
+        "timestamp": "18:27:56.098",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000323.jpg"
+    },
+    {
+        "timestamp": "18:27:56.296",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000324.jpg"
+    },
+    {
+        "timestamp": "18:27:56.494",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000325.jpg"
+    },
+    {
+        "timestamp": "18:27:56.708",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000326.jpg"
+    },
+    {
+        "timestamp": "18:27:56.907",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000327.jpg"
+    },
+    {
+        "timestamp": "18:27:57.102",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000328.jpg"
+    },
+    {
+        "timestamp": "18:27:57.300",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000329.jpg"
+    },
+    {
+        "timestamp": "18:27:57.494",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000330.jpg"
+    },
+    {
+        "timestamp": "18:27:57.687",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000331.jpg"
+    },
+    {
+        "timestamp": "18:27:57.882",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000332.jpg"
+    },
+    {
+        "timestamp": "18:27:58.074",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000333.jpg"
+    },
+    {
+        "timestamp": "18:27:58.274",
+        "detections": [
+            {
+                "xmin": 106,
+                "ymin": 79,
+                "xmax": 357,
+                "ymax": 677,
+                "confidence": 0.2875972092151642,
+                "name": "toilet"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000334.jpg"
+    },
+    {
+        "timestamp": "18:27:58.465",
+        "detections": [
+            {
+                "xmin": 99,
+                "ymin": 108,
+                "xmax": 359,
+                "ymax": 781,
+                "confidence": 0.26260092854499817,
+                "name": "toilet"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000335.jpg"
+    },
+    {
+        "timestamp": "18:27:58.660",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000336.jpg"
+    },
+    {
+        "timestamp": "18:27:58.852",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000337.jpg"
+    },
+    {
+        "timestamp": "18:27:59.038",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000338.jpg"
+    },
+    {
+        "timestamp": "18:27:59.247",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000339.jpg"
+    },
+    {
+        "timestamp": "18:27:59.444",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000340.jpg"
+    },
+    {
+        "timestamp": "18:27:59.642",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000341.jpg"
+    },
+    {
+        "timestamp": "18:27:59.837",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000342.jpg"
+    },
+    {
+        "timestamp": "18:28:00.031",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000343.jpg"
+    },
+    {
+        "timestamp": "18:28:00.227",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000344.jpg"
+    },
+    {
+        "timestamp": "18:28:00.435",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000345.jpg"
+    },
+    {
+        "timestamp": "18:28:00.643",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000346.jpg"
+    },
+    {
+        "timestamp": "18:28:00.832",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000347.jpg"
+    },
+    {
+        "timestamp": "18:28:01.018",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000348.jpg"
+    },
+    {
+        "timestamp": "18:28:01.202",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000349.jpg"
+    },
+    {
+        "timestamp": "18:28:01.395",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000350.jpg"
+    },
+    {
+        "timestamp": "18:28:01.609",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000351.jpg"
+    },
+    {
+        "timestamp": "18:28:01.796",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000352.jpg"
+    },
+    {
+        "timestamp": "18:28:01.982",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000353.jpg"
+    },
+    {
+        "timestamp": "18:28:02.170",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000354.jpg"
+    },
+    {
+        "timestamp": "18:28:02.367",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000355.jpg"
+    },
+    {
+        "timestamp": "18:28:02.561",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000356.jpg"
+    },
+    {
+        "timestamp": "18:28:02.825",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000357.jpg"
+    },
+    {
+        "timestamp": "18:28:03.058",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000358.jpg"
+    },
+    {
+        "timestamp": "18:28:03.280",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000359.jpg"
+    },
+    {
+        "timestamp": "18:28:03.493",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000360.jpg"
+    },
+    {
+        "timestamp": "18:28:03.710",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000361.jpg"
+    },
+    {
+        "timestamp": "18:28:03.907",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000362.jpg"
+    },
+    {
+        "timestamp": "18:28:04.119",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000363.jpg"
+    },
+    {
+        "timestamp": "18:28:04.310",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000364.jpg"
+    },
+    {
+        "timestamp": "18:28:04.506",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000365.jpg"
+    },
+    {
+        "timestamp": "18:28:04.697",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000366.jpg"
+    },
+    {
+        "timestamp": "18:28:04.920",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000367.jpg"
+    },
+    {
+        "timestamp": "18:28:05.137",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000368.jpg"
+    },
+    {
+        "timestamp": "18:28:05.352",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000369.jpg"
+    },
+    {
+        "timestamp": "18:28:05.546",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000370.jpg"
+    },
+    {
+        "timestamp": "18:28:05.739",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000371.jpg"
+    },
+    {
+        "timestamp": "18:28:05.932",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000372.jpg"
+    },
+    {
+        "timestamp": "18:28:06.127",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000373.jpg"
+    },
+    {
+        "timestamp": "18:28:06.322",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000374.jpg"
+    },
+    {
+        "timestamp": "18:28:06.536",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000375.jpg"
+    },
+    {
+        "timestamp": "18:28:06.732",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000376.jpg"
+    },
+    {
+        "timestamp": "18:28:06.920",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000377.jpg"
+    },
+    {
+        "timestamp": "18:28:07.121",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000378.jpg"
+    },
+    {
+        "timestamp": "18:28:07.317",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000379.jpg"
+    },
+    {
+        "timestamp": "18:28:07.501",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000380.jpg"
+    },
+    {
+        "timestamp": "18:28:07.710",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000381.jpg"
+    },
+    {
+        "timestamp": "18:28:07.898",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000382.jpg"
+    },
+    {
+        "timestamp": "18:28:08.094",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000383.jpg"
+    },
+    {
+        "timestamp": "18:28:08.286",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000384.jpg"
+    },
+    {
+        "timestamp": "18:28:08.479",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000385.jpg"
+    },
+    {
+        "timestamp": "18:28:08.667",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000386.jpg"
+    },
+    {
+        "timestamp": "18:28:08.852",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000387.jpg"
+    },
+    {
+        "timestamp": "18:28:09.053",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000388.jpg"
+    },
+    {
+        "timestamp": "18:28:09.242",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000389.jpg"
+    },
+    {
+        "timestamp": "18:28:09.434",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000390.jpg"
+    },
+    {
+        "timestamp": "18:28:09.631",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000391.jpg"
+    },
+    {
+        "timestamp": "18:28:09.819",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000392.jpg"
+    },
+    {
+        "timestamp": "18:28:10.010",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000393.jpg"
+    },
+    {
+        "timestamp": "18:28:10.204",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000394.jpg"
+    },
+    {
+        "timestamp": "18:28:10.393",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000395.jpg"
+    },
+    {
+        "timestamp": "18:28:10.586",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000396.jpg"
+    },
+    {
+        "timestamp": "18:28:10.769",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000397.jpg"
+    },
+    {
+        "timestamp": "18:28:10.957",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000398.jpg"
+    },
+    {
+        "timestamp": "18:28:11.161",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000399.jpg"
+    },
+    {
+        "timestamp": "18:28:11.366",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000400.jpg"
+    },
+    {
+        "timestamp": "18:28:11.555",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000401.jpg"
+    },
+    {
+        "timestamp": "18:28:11.747",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000402.jpg"
+    },
+    {
+        "timestamp": "18:28:11.935",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000403.jpg"
+    },
+    {
+        "timestamp": "18:28:12.126",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000404.jpg"
+    },
+    {
+        "timestamp": "18:28:12.323",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000405.jpg"
+    },
+    {
+        "timestamp": "18:28:12.536",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000406.jpg"
+    },
+    {
+        "timestamp": "18:28:12.728",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000407.jpg"
+    },
+    {
+        "timestamp": "18:28:12.913",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000408.jpg"
+    },
+    {
+        "timestamp": "18:28:13.103",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000409.jpg"
+    },
+    {
+        "timestamp": "18:28:13.301",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000410.jpg"
+    },
+    {
+        "timestamp": "18:28:13.491",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000411.jpg"
+    },
+    {
+        "timestamp": "18:28:13.688",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000412.jpg"
+    },
+    {
+        "timestamp": "18:28:13.880",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000413.jpg"
+    },
+    {
+        "timestamp": "18:28:14.080",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000414.jpg"
+    },
+    {
+        "timestamp": "18:28:14.275",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000415.jpg"
+    },
+    {
+        "timestamp": "18:28:14.470",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000416.jpg"
+    },
+    {
+        "timestamp": "18:28:14.656",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000417.jpg"
+    },
+    {
+        "timestamp": "18:28:14.853",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000418.jpg"
+    },
+    {
+        "timestamp": "18:28:15.048",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000419.jpg"
+    },
+    {
+        "timestamp": "18:28:15.236",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000420.jpg"
+    },
+    {
+        "timestamp": "18:28:15.423",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000421.jpg"
+    },
+    {
+        "timestamp": "18:28:15.621",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000422.jpg"
+    },
+    {
+        "timestamp": "18:28:15.811",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000423.jpg"
+    },
+    {
+        "timestamp": "18:28:16.001",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000424.jpg"
+    },
+    {
+        "timestamp": "18:28:16.187",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000425.jpg"
+    },
+    {
+        "timestamp": "18:28:16.383",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000426.jpg"
+    },
+    {
+        "timestamp": "18:28:16.572",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000427.jpg"
+    },
+    {
+        "timestamp": "18:28:16.763",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000428.jpg"
+    },
+    {
+        "timestamp": "18:28:16.955",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000429.jpg"
+    },
+    {
+        "timestamp": "18:28:17.159",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000430.jpg"
+    },
+    {
+        "timestamp": "18:28:17.352",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000431.jpg"
+    },
+    {
+        "timestamp": "18:28:17.548",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000432.jpg"
+    },
+    {
+        "timestamp": "18:28:17.741",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000433.jpg"
+    },
+    {
+        "timestamp": "18:28:17.928",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000434.jpg"
+    },
+    {
+        "timestamp": "18:28:18.117",
+        "detections": [
+            {
+                "xmin": 244,
+                "ymin": 291,
+                "xmax": 265,
+                "ymax": 360,
+                "confidence": 0.5246469974517822,
+                "name": "windows"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000435.jpg"
+    },
+    {
+        "timestamp": "18:28:18.311",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000436.jpg"
+    },
+    {
+        "timestamp": "18:28:18.507",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000437.jpg"
+    },
+    {
+        "timestamp": "18:28:18.703",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000438.jpg"
+    },
+    {
+        "timestamp": "18:28:18.899",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000439.jpg"
+    },
+    {
+        "timestamp": "18:28:19.092",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000440.jpg"
+    },
+    {
+        "timestamp": "18:28:19.285",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000441.jpg"
+    },
+    {
+        "timestamp": "18:28:19.485",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000442.jpg"
+    },
+    {
+        "timestamp": "18:28:19.682",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000443.jpg"
+    },
+    {
+        "timestamp": "18:28:19.870",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000444.jpg"
+    },
+    {
+        "timestamp": "18:28:20.057",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000445.jpg"
+    },
+    {
+        "timestamp": "18:28:20.244",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000446.jpg"
+    },
+    {
+        "timestamp": "18:28:20.432",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000447.jpg"
+    },
+    {
+        "timestamp": "18:28:20.637",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000448.jpg"
+    },
+    {
+        "timestamp": "18:28:20.831",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000449.jpg"
+    },
+    {
+        "timestamp": "18:28:21.021",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000450.jpg"
+    },
+    {
+        "timestamp": "18:28:21.215",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000451.jpg"
+    },
+    {
+        "timestamp": "18:28:21.403",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000452.jpg"
+    },
+    {
+        "timestamp": "18:28:21.598",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000453.jpg"
+    },
+    {
+        "timestamp": "18:28:21.801",
+        "detections": [
+            {
+                "xmin": 174,
+                "ymin": 459,
+                "xmax": 234,
+                "ymax": 500,
+                "confidence": 0.31803128123283386,
+                "name": "windows"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000454.jpg"
+    },
+    {
+        "timestamp": "18:28:21.992",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000455.jpg"
+    },
+    {
+        "timestamp": "18:28:22.186",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000456.jpg"
+    },
+    {
+        "timestamp": "18:28:22.375",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000457.jpg"
+    },
+    {
+        "timestamp": "18:28:22.561",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000458.jpg"
+    },
+    {
+        "timestamp": "18:28:22.757",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000459.jpg"
+    },
+    {
+        "timestamp": "18:28:22.959",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000460.jpg"
+    },
+    {
+        "timestamp": "18:28:23.147",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000461.jpg"
+    },
+    {
+        "timestamp": "18:28:23.332",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000462.jpg"
+    },
+    {
+        "timestamp": "18:28:23.521",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000463.jpg"
+    },
+    {
+        "timestamp": "18:28:23.729",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000464.jpg"
+    },
+    {
+        "timestamp": "18:28:23.924",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000465.jpg"
+    },
+    {
+        "timestamp": "18:28:24.124",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000466.jpg"
+    },
+    {
+        "timestamp": "18:28:24.320",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000467.jpg"
+    },
+    {
+        "timestamp": "18:28:24.509",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000468.jpg"
+    },
+    {
+        "timestamp": "18:28:24.696",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000469.jpg"
+    },
+    {
+        "timestamp": "18:28:24.891",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000470.jpg"
+    },
+    {
+        "timestamp": "18:28:25.081",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000471.jpg"
+    },
+    {
+        "timestamp": "18:28:25.276",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000472.jpg"
+    },
+    {
+        "timestamp": "18:28:25.470",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000473.jpg"
+    },
+    {
+        "timestamp": "18:28:25.659",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000474.jpg"
+    },
+    {
+        "timestamp": "18:28:25.855",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000475.jpg"
+    },
+    {
+        "timestamp": "18:28:26.047",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000476.jpg"
+    },
+    {
+        "timestamp": "18:28:26.237",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000477.jpg"
+    },
+    {
+        "timestamp": "18:28:26.437",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000478.jpg"
+    },
+    {
+        "timestamp": "18:28:26.639",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000479.jpg"
+    },
+    {
+        "timestamp": "18:28:26.833",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000480.jpg"
+    },
+    {
+        "timestamp": "18:28:27.027",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000481.jpg"
+    },
+    {
+        "timestamp": "18:28:27.223",
+        "detections": [
+            {
+                "xmin": 31,
+                "ymin": 551,
+                "xmax": 144,
+                "ymax": 624,
+                "confidence": 0.26514458656311035,
+                "name": "fence"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000482.jpg"
+    },
+    {
+        "timestamp": "18:28:27.446",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000483.jpg"
+    },
+    {
+        "timestamp": "18:28:27.636",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000484.jpg"
+    },
+    {
+        "timestamp": "18:28:27.822",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000485.jpg"
+    },
+    {
+        "timestamp": "18:28:28.018",
+        "detections": [
+            {
+                "xmin": 0,
+                "ymin": 0,
+                "xmax": 463,
+                "ymax": 817,
+                "confidence": 0.37362873554229736,
+                "name": "roof-damage"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000486.jpg"
+    },
+    {
+        "timestamp": "18:28:28.206",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000487.jpg"
+    },
+    {
+        "timestamp": "18:28:28.401",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000488.jpg"
+    },
+    {
+        "timestamp": "18:28:28.616",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000489.jpg"
+    },
+    {
+        "timestamp": "18:28:28.804",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000490.jpg"
+    },
+    {
+        "timestamp": "18:28:29.000",
+        "detections": [
+            {
+                "xmin": 40,
+                "ymin": 4,
+                "xmax": 425,
+                "ymax": 808,
+                "confidence": 0.4096396863460541,
+                "name": "crack"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000491.jpg"
+    },
+    {
+        "timestamp": "18:28:29.195",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000492.jpg"
+    },
+    {
+        "timestamp": "18:28:29.382",
+        "detections": [
+            {
+                "xmin": 168,
+                "ymin": 155,
+                "xmax": 465,
+                "ymax": 499,
+                "confidence": 0.2691584825515747,
+                "name": "crack"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000493.jpg"
+    },
+    {
+        "timestamp": "18:28:29.598",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000494.jpg"
+    },
+    {
+        "timestamp": "18:28:29.793",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000495.jpg"
+    },
+    {
+        "timestamp": "18:28:29.980",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000496.jpg"
+    },
+    {
+        "timestamp": "18:28:30.175",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000497.jpg"
+    },
+    {
+        "timestamp": "18:28:30.368",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000498.jpg"
+    },
+    {
+        "timestamp": "18:28:30.561",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000499.jpg"
+    },
+    {
+        "timestamp": "18:28:30.768",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000500.jpg"
+    },
+    {
+        "timestamp": "18:28:30.955",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000501.jpg"
+    },
+    {
+        "timestamp": "18:28:31.144",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000502.jpg"
+    },
+    {
+        "timestamp": "18:28:31.337",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000503.jpg"
+    },
+    {
+        "timestamp": "18:28:31.532",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000504.jpg"
+    },
+    {
+        "timestamp": "18:28:31.727",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000505.jpg"
+    },
+    {
+        "timestamp": "18:28:31.939",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000506.jpg"
+    },
+    {
+        "timestamp": "18:28:32.132",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000507.jpg"
+    },
+    {
+        "timestamp": "18:28:32.323",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000508.jpg"
+    },
+    {
+        "timestamp": "18:28:32.515",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000509.jpg"
+    },
+    {
+        "timestamp": "18:28:32.709",
+        "detections": [
+            {
+                "xmin": 9,
+                "ymin": 0,
+                "xmax": 366,
+                "ymax": 758,
+                "confidence": 0.39112210273742676,
+                "name": "crack"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000510.jpg"
+    },
+    {
+        "timestamp": "18:28:32.902",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000511.jpg"
+    },
+    {
+        "timestamp": "18:28:33.111",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000512.jpg"
+    },
+    {
+        "timestamp": "18:28:33.297",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000513.jpg"
+    },
+    {
+        "timestamp": "18:28:33.491",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000514.jpg"
+    },
+    {
+        "timestamp": "18:28:33.677",
+        "detections": [
+            {
+                "xmin": 23,
+                "ymin": 698,
+                "xmax": 307,
+                "ymax": 817,
+                "confidence": 0.6571803689002991,
+                "name": "fence"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000515.jpg"
+    },
+    {
+        "timestamp": "18:28:33.870",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000516.jpg"
+    },
+    {
+        "timestamp": "18:28:34.067",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000517.jpg"
+    },
+    {
+        "timestamp": "18:28:34.258",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000518.jpg"
+    },
+    {
+        "timestamp": "18:28:34.451",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000519.jpg"
+    },
+    {
+        "timestamp": "18:28:34.647",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000520.jpg"
+    },
+    {
+        "timestamp": "18:28:34.843",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000521.jpg"
+    },
+    {
+        "timestamp": "18:28:35.038",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000522.jpg"
+    },
+    {
+        "timestamp": "18:28:35.246",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000523.jpg"
+    },
+    {
+        "timestamp": "18:28:35.433",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000524.jpg"
+    },
+    {
+        "timestamp": "18:28:35.629",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000525.jpg"
+    },
+    {
+        "timestamp": "18:28:35.824",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000526.jpg"
+    },
+    {
+        "timestamp": "18:28:36.019",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000527.jpg"
+    },
+    {
+        "timestamp": "18:28:36.242",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000528.jpg"
+    },
+    {
+        "timestamp": "18:28:36.437",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000529.jpg"
+    },
+    {
+        "timestamp": "18:28:36.631",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000530.jpg"
+    },
+    {
+        "timestamp": "18:28:36.830",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000531.jpg"
+    },
+    {
+        "timestamp": "18:28:37.020",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000532.jpg"
+    },
+    {
+        "timestamp": "18:28:37.213",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000533.jpg"
+    },
+    {
+        "timestamp": "18:28:37.414",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000534.jpg"
+    },
+    {
+        "timestamp": "18:28:37.607",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000535.jpg"
+    },
+    {
+        "timestamp": "18:28:37.800",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000536.jpg"
+    },
+    {
+        "timestamp": "18:28:37.988",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000537.jpg"
+    },
+    {
+        "timestamp": "18:28:38.172",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000538.jpg"
+    },
+    {
+        "timestamp": "18:28:38.387",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000539.jpg"
+    },
+    {
+        "timestamp": "18:28:38.585",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000540.jpg"
+    },
+    {
+        "timestamp": "18:28:38.778",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000541.jpg"
+    },
+    {
+        "timestamp": "18:28:38.967",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000542.jpg"
+    },
+    {
+        "timestamp": "18:28:39.155",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000543.jpg"
+    },
+    {
+        "timestamp": "18:28:39.348",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000544.jpg"
+    },
+    {
+        "timestamp": "18:28:39.545",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000545.jpg"
+    },
+    {
+        "timestamp": "18:28:39.744",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000546.jpg"
+    },
+    {
+        "timestamp": "18:28:39.931",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000547.jpg"
+    },
+    {
+        "timestamp": "18:28:40.128",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000548.jpg"
+    },
+    {
+        "timestamp": "18:28:40.323",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000549.jpg"
+    },
+    {
+        "timestamp": "18:28:40.528",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000550.jpg"
+    },
+    {
+        "timestamp": "18:28:40.719",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000551.jpg"
+    },
+    {
+        "timestamp": "18:28:40.916",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000552.jpg"
+    },
+    {
+        "timestamp": "18:28:41.108",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000553.jpg"
+    },
+    {
+        "timestamp": "18:28:41.301",
+        "detections": [
+            {
+                "xmin": 317,
+                "ymin": 656,
+                "xmax": 462,
+                "ymax": 792,
+                "confidence": 0.3748241662979126,
+                "name": "fence"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000554.jpg"
+    },
+    {
+        "timestamp": "18:28:41.512",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000555.jpg"
+    },
+    {
+        "timestamp": "18:28:41.712",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000556.jpg"
+    },
+    {
+        "timestamp": "18:28:41.905",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000557.jpg"
+    },
+    {
+        "timestamp": "18:28:42.099",
+        "detections": [
+            {
+                "xmin": 318,
+                "ymin": 655,
+                "xmax": 463,
+                "ymax": 795,
+                "confidence": 0.3045070469379425,
+                "name": "fence"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000558.jpg"
+    },
+    {
+        "timestamp": "18:28:42.295",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000559.jpg"
+    },
+    {
+        "timestamp": "18:28:42.484",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000560.jpg"
+    },
+    {
+        "timestamp": "18:28:42.685",
+        "detections": [
+            {
+                "xmin": 319,
+                "ymin": 657,
+                "xmax": 462,
+                "ymax": 793,
+                "confidence": 0.2903255820274353,
+                "name": "fence"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000561.jpg"
+    },
+    {
+        "timestamp": "18:28:42.874",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000562.jpg"
+    },
+    {
+        "timestamp": "18:28:43.067",
+        "detections": [
+            {
+                "xmin": 318,
+                "ymin": 655,
+                "xmax": 462,
+                "ymax": 795,
+                "confidence": 0.4041789472103119,
+                "name": "fence"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000563.jpg"
+    },
+    {
+        "timestamp": "18:28:43.255",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000564.jpg"
+    },
+    {
+        "timestamp": "18:28:43.443",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000565.jpg"
+    },
+    {
+        "timestamp": "18:28:43.655",
+        "detections": [
+            {
+                "xmin": 319,
+                "ymin": 654,
+                "xmax": 463,
+                "ymax": 794,
+                "confidence": 0.36996331810951233,
+                "name": "fence"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000566.jpg"
+    },
+    {
+        "timestamp": "18:28:43.849",
+        "detections": [
+            {
+                "xmin": 319,
+                "ymin": 652,
+                "xmax": 463,
+                "ymax": 792,
+                "confidence": 0.25674566626548767,
+                "name": "fence"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000567.jpg"
+    },
+    {
+        "timestamp": "18:28:44.043",
+        "detections": [
+            {
+                "xmin": 315,
+                "ymin": 655,
+                "xmax": 463,
+                "ymax": 791,
+                "confidence": 0.48358410596847534,
+                "name": "fence"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000568.jpg"
+    },
+    {
+        "timestamp": "18:28:44.232",
+        "detections": [
+            {
+                "xmin": 316,
+                "ymin": 651,
+                "xmax": 463,
+                "ymax": 789,
+                "confidence": 0.26799771189689636,
+                "name": "fence"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000569.jpg"
+    },
+    {
+        "timestamp": "18:28:44.424",
+        "detections": [
+            {
+                "xmin": 314,
+                "ymin": 654,
+                "xmax": 462,
+                "ymax": 789,
+                "confidence": 0.270189493894577,
+                "name": "fence"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000570.jpg"
+    },
+    {
+        "timestamp": "18:28:44.643",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000571.jpg"
+    },
+    {
+        "timestamp": "18:28:44.839",
+        "detections": [
+            {
+                "xmin": 317,
+                "ymin": 656,
+                "xmax": 462,
+                "ymax": 794,
+                "confidence": 0.353503555059433,
+                "name": "fence"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000572.jpg"
+    },
+    {
+        "timestamp": "18:28:45.037",
+        "detections": [
+            {
+                "xmin": 319,
+                "ymin": 656,
+                "xmax": 462,
+                "ymax": 795,
+                "confidence": 0.26506197452545166,
+                "name": "fence"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000573.jpg"
+    },
+    {
+        "timestamp": "18:28:45.233",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000574.jpg"
+    },
+    {
+        "timestamp": "18:28:45.423",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000575.jpg"
+    },
+    {
+        "timestamp": "18:28:45.620",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000576.jpg"
+    },
+    {
+        "timestamp": "18:28:45.818",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000577.jpg"
+    },
+    {
+        "timestamp": "18:28:46.011",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000578.jpg"
+    },
+    {
+        "timestamp": "18:28:46.208",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000579.jpg"
+    },
+    {
+        "timestamp": "18:28:46.399",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000580.jpg"
+    },
+    {
+        "timestamp": "18:28:46.595",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000581.jpg"
+    },
+    {
+        "timestamp": "18:28:46.808",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000582.jpg"
+    },
+    {
+        "timestamp": "18:28:47.003",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000583.jpg"
+    },
+    {
+        "timestamp": "18:28:47.193",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000584.jpg"
+    },
+    {
+        "timestamp": "18:28:47.388",
+        "detections": [
+            {
+                "xmin": 319,
+                "ymin": 656,
+                "xmax": 462,
+                "ymax": 796,
+                "confidence": 0.5732477307319641,
+                "name": "fence"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000585.jpg"
+    },
+    {
+        "timestamp": "18:28:47.584",
+        "detections": [
+            {
+                "xmin": 316,
+                "ymin": 654,
+                "xmax": 462,
+                "ymax": 796,
+                "confidence": 0.2786562144756317,
+                "name": "fence"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000586.jpg"
+    },
+    {
+        "timestamp": "18:28:47.789",
+        "detections": [
+            {
+                "xmin": 318,
+                "ymin": 656,
+                "xmax": 462,
+                "ymax": 791,
+                "confidence": 0.488920122385025,
+                "name": "fence"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000587.jpg"
+    },
+    {
+        "timestamp": "18:28:47.985",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000588.jpg"
+    },
+    {
+        "timestamp": "18:28:48.179",
+        "detections": [
+            {
+                "xmin": 329,
+                "ymin": 655,
+                "xmax": 462,
+                "ymax": 794,
+                "confidence": 0.3408207595348358,
+                "name": "fence"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000589.jpg"
+    },
+    {
+        "timestamp": "18:28:48.373",
+        "detections": [
+            {
+                "xmin": 333,
+                "ymin": 656,
+                "xmax": 462,
+                "ymax": 794,
+                "confidence": 0.27302584052085876,
+                "name": "fence"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000590.jpg"
+    },
+    {
+        "timestamp": "18:28:48.578",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000591.jpg"
+    },
+    {
+        "timestamp": "18:28:48.769",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000592.jpg"
+    },
+    {
+        "timestamp": "18:28:48.971",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000593.jpg"
+    },
+    {
+        "timestamp": "18:28:49.168",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000594.jpg"
+    },
+    {
+        "timestamp": "18:28:49.366",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000595.jpg"
+    },
+    {
+        "timestamp": "18:28:49.556",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000596.jpg"
+    },
+    {
+        "timestamp": "18:28:49.749",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000597.jpg"
+    },
+    {
+        "timestamp": "18:28:49.962",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000598.jpg"
+    },
+    {
+        "timestamp": "18:28:50.154",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000599.jpg"
+    },
+    {
+        "timestamp": "18:28:50.348",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000600.jpg"
+    },
+    {
+        "timestamp": "18:28:50.543",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000601.jpg"
+    },
+    {
+        "timestamp": "18:28:50.740",
+        "detections": [
+            {
+                "xmin": 316,
+                "ymin": 656,
+                "xmax": 463,
+                "ymax": 789,
+                "confidence": 0.34946659207344055,
+                "name": "fence"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000602.jpg"
+    },
+    {
+        "timestamp": "18:28:50.928",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000603.jpg"
+    },
+    {
+        "timestamp": "18:28:51.128",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000604.jpg"
+    },
+    {
+        "timestamp": "18:28:51.325",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000605.jpg"
+    },
+    {
+        "timestamp": "18:28:51.513",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000606.jpg"
+    },
+    {
+        "timestamp": "18:28:51.698",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000607.jpg"
+    },
+    {
+        "timestamp": "18:28:51.895",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000608.jpg"
+    },
+    {
+        "timestamp": "18:28:52.108",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000609.jpg"
+    },
+    {
+        "timestamp": "18:28:52.295",
+        "detections": [
+            {
+                "xmin": 318,
+                "ymin": 656,
+                "xmax": 461,
+                "ymax": 790,
+                "confidence": 0.3611483573913574,
+                "name": "fence"
+            }
+        ],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000610.jpg"
+    },
+    {
+        "timestamp": "18:28:52.489",
+        "detections": [],
+        "image_path": "/Users/rohankosalge/Desktop/Coding/calhacks-2025/frames/2025-10-25_18-26-52/frame_000611.jpg"
+    }
+]

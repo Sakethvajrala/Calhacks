@@ -1,0 +1,2197 @@
+[
+    {
+        "timestamp": "10:17:48.407",
+        "detections": [
+            {
+                "xmin": 289.07537841796875,
+                "ymin": 44.399967193603516,
+                "xmax": 357.66461181640625,
+                "ymax": 254.7929229736328,
+                "confidence": 0.7319638729095459,
+                "class": 20,
+                "name": "windows"
+            },
+            {
+                "xmin": 395.99444580078125,
+                "ymin": 111.28616333007812,
+                "xmax": 465.0,
+                "ymax": 283.90582275390625,
+                "confidence": 0.5038872957229614,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:48.563",
+        "detections": [
+            {
+                "xmin": 284.7349548339844,
+                "ymin": 55.98582458496094,
+                "xmax": 353.61669921875,
+                "ymax": 260.30438232421875,
+                "confidence": 0.7415060997009277,
+                "class": 20,
+                "name": "windows"
+            },
+            {
+                "xmin": 388.9035339355469,
+                "ymin": 115.21288299560547,
+                "xmax": 465.0,
+                "ymax": 291.92376708984375,
+                "confidence": 0.4459788501262665,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:48.620",
+        "detections": [
+            {
+                "xmin": 284.8494873046875,
+                "ymin": 59.322410583496094,
+                "xmax": 351.98553466796875,
+                "ymax": 262.7045593261719,
+                "confidence": 0.7126120924949646,
+                "class": 20,
+                "name": "windows"
+            },
+            {
+                "xmin": 390.3276062011719,
+                "ymin": 118.56775665283203,
+                "xmax": 465.0,
+                "ymax": 290.8883361816406,
+                "confidence": 0.6121459603309631,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:48.686",
+        "detections": [
+            {
+                "xmin": 281.7798767089844,
+                "ymin": 61.03152847290039,
+                "xmax": 354.4010314941406,
+                "ymax": 276.7840270996094,
+                "confidence": 0.7146879434585571,
+                "class": 20,
+                "name": "windows"
+            },
+            {
+                "xmin": 387.4504089355469,
+                "ymin": 122.22085571289062,
+                "xmax": 465.0,
+                "ymax": 293.38372802734375,
+                "confidence": 0.5709465146064758,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:48.743",
+        "detections": [
+            {
+                "xmin": 386.94970703125,
+                "ymin": 129.03407287597656,
+                "xmax": 465.0,
+                "ymax": 294.6638488769531,
+                "confidence": 0.8016811609268188,
+                "class": 20,
+                "name": "windows"
+            },
+            {
+                "xmin": 280.7636413574219,
+                "ymin": 65.62103271484375,
+                "xmax": 352.0064392089844,
+                "ymax": 277.44500732421875,
+                "confidence": 0.7269157767295837,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:48.845",
+        "detections": [
+            {
+                "xmin": 280.55865478515625,
+                "ymin": 68.38246154785156,
+                "xmax": 351.0428771972656,
+                "ymax": 276.94256591796875,
+                "confidence": 0.6949489116668701,
+                "class": 20,
+                "name": "windows"
+            },
+            {
+                "xmin": 383.6696472167969,
+                "ymin": 139.63304138183594,
+                "xmax": 465.0,
+                "ymax": 299.4014587402344,
+                "confidence": 0.6941564679145813,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:49.015",
+        "detections": [
+            {
+                "xmin": 282.8136901855469,
+                "ymin": 91.97691345214844,
+                "xmax": 355.06591796875,
+                "ymax": 283.55914306640625,
+                "confidence": 0.7081215381622314,
+                "class": 20,
+                "name": "windows"
+            },
+            {
+                "xmin": 388.89654541015625,
+                "ymin": 159.3329315185547,
+                "xmax": 465.0,
+                "ymax": 316.2492370605469,
+                "confidence": 0.7053980231285095,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:49.099",
+        "detections": [
+            {
+                "xmin": 284.38287353515625,
+                "ymin": 99.12898254394531,
+                "xmax": 354.6640319824219,
+                "ymax": 295.0140686035156,
+                "confidence": 0.800266444683075,
+                "class": 20,
+                "name": "windows"
+            },
+            {
+                "xmin": 387.5751647949219,
+                "ymin": 162.77035522460938,
+                "xmax": 465.0,
+                "ymax": 323.4002685546875,
+                "confidence": 0.6523263454437256,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:49.177",
+        "detections": [
+            {
+                "xmin": 293.5673828125,
+                "ymin": 102.83283233642578,
+                "xmax": 362.5072021484375,
+                "ymax": 299.57843017578125,
+                "confidence": 0.7719228267669678,
+                "class": 20,
+                "name": "windows"
+            },
+            {
+                "xmin": 398.6044006347656,
+                "ymin": 165.5736083984375,
+                "xmax": 465.0,
+                "ymax": 321.4121398925781,
+                "confidence": 0.5892322063446045,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:49.245",
+        "detections": [
+            {
+                "xmin": 305.12481689453125,
+                "ymin": 109.30845642089844,
+                "xmax": 368.6136169433594,
+                "ymax": 309.7458801269531,
+                "confidence": 0.7868938446044922,
+                "class": 20,
+                "name": "windows"
+            },
+            {
+                "xmin": 401.60491943359375,
+                "ymin": 177.7494354248047,
+                "xmax": 465.0,
+                "ymax": 328.7401123046875,
+                "confidence": 0.754248857498169,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:49.327",
+        "detections": [
+            {
+                "xmin": 309.99334716796875,
+                "ymin": 110.0275650024414,
+                "xmax": 376.8883056640625,
+                "ymax": 314.7012634277344,
+                "confidence": 0.6933720111846924,
+                "class": 20,
+                "name": "windows"
+            },
+            {
+                "xmin": 410.98419189453125,
+                "ymin": 177.1419219970703,
+                "xmax": 465.0,
+                "ymax": 333.66302490234375,
+                "confidence": 0.6424888372421265,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:49.381",
+        "detections": [
+            {
+                "xmin": 320.6015930175781,
+                "ymin": 108.98429870605469,
+                "xmax": 387.1441650390625,
+                "ymax": 316.82305908203125,
+                "confidence": 0.4934094548225403,
+                "class": 20,
+                "name": "windows"
+            },
+            {
+                "xmin": 416.9992370605469,
+                "ymin": 175.3290252685547,
+                "xmax": 465.0,
+                "ymax": 338.1501159667969,
+                "confidence": 0.36154434084892273,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:49.431",
+        "detections": [
+            {
+                "xmin": 323.61846923828125,
+                "ymin": 107.40877532958984,
+                "xmax": 388.4954528808594,
+                "ymax": 313.866455078125,
+                "confidence": 0.6212401390075684,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:49.481",
+        "detections": [
+            {
+                "xmin": 326.1065979003906,
+                "ymin": 114.86861419677734,
+                "xmax": 391.7641906738281,
+                "ymax": 317.61090087890625,
+                "confidence": 0.5988446474075317,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:49.532",
+        "detections": [
+            {
+                "xmin": 327.8721008300781,
+                "ymin": 124.57012939453125,
+                "xmax": 390.84808349609375,
+                "ymax": 316.54833984375,
+                "confidence": 0.6876803040504456,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:49.583",
+        "detections": [
+            {
+                "xmin": 331.8821105957031,
+                "ymin": 126.49707794189453,
+                "xmax": 396.8525390625,
+                "ymax": 320.1763000488281,
+                "confidence": 0.6602767705917358,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:49.631",
+        "detections": [
+            {
+                "xmin": 335.6899719238281,
+                "ymin": 126.3154525756836,
+                "xmax": 395.82818603515625,
+                "ymax": 329.8443908691406,
+                "confidence": 0.653491735458374,
+                "class": 20,
+                "name": "windows"
+            },
+            {
+                "xmin": 4.818826198577881,
+                "ymin": 290.6557922363281,
+                "xmax": 82.51827239990234,
+                "ymax": 365.7763671875,
+                "confidence": 0.3031010925769806,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:49.680",
+        "detections": [
+            {
+                "xmin": 343.3037414550781,
+                "ymin": 127.16372680664062,
+                "xmax": 401.9754333496094,
+                "ymax": 323.0954895019531,
+                "confidence": 0.6614277362823486,
+                "class": 20,
+                "name": "windows"
+            },
+            {
+                "xmin": 2.747286081314087,
+                "ymin": 295.175537109375,
+                "xmax": 86.26908874511719,
+                "ymax": 367.11322021484375,
+                "confidence": 0.4224570393562317,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:49.728",
+        "detections": [
+            {
+                "xmin": 346.0595703125,
+                "ymin": 135.24978637695312,
+                "xmax": 406.9515075683594,
+                "ymax": 323.2331237792969,
+                "confidence": 0.6489123702049255,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:49.780",
+        "detections": [
+            {
+                "xmin": 345.1123352050781,
+                "ymin": 121.39845275878906,
+                "xmax": 413.51470947265625,
+                "ymax": 334.33477783203125,
+                "confidence": 0.5840519666671753,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:49.830",
+        "detections": [
+            {
+                "xmin": 346.41748046875,
+                "ymin": 129.51112365722656,
+                "xmax": 415.5564270019531,
+                "ymax": 333.8339538574219,
+                "confidence": 0.6505566835403442,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:49.886",
+        "detections": [
+            {
+                "xmin": 352.7248840332031,
+                "ymin": 133.6498565673828,
+                "xmax": 415.1304626464844,
+                "ymax": 341.5946044921875,
+                "confidence": 0.35129162669181824,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:49.938",
+        "detections": [
+            {
+                "xmin": 354.2540283203125,
+                "ymin": 118.69591522216797,
+                "xmax": 419.3190002441406,
+                "ymax": 355.56085205078125,
+                "confidence": 0.2624410390853882,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:49.994",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:50.048",
+        "detections": [
+            {
+                "xmin": 365.4439697265625,
+                "ymin": 130.0613555908203,
+                "xmax": 430.4674987792969,
+                "ymax": 346.3492431640625,
+                "confidence": 0.2815649211406708,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:50.099",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:50.147",
+        "detections": [
+            {
+                "xmin": 372.6851806640625,
+                "ymin": 141.37042236328125,
+                "xmax": 433.5274353027344,
+                "ymax": 338.415771484375,
+                "confidence": 0.5867729783058167,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:50.197",
+        "detections": [
+            {
+                "xmin": 379.481201171875,
+                "ymin": 142.5933074951172,
+                "xmax": 439.4088134765625,
+                "ymax": 340.5804748535156,
+                "confidence": 0.5226827263832092,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:50.245",
+        "detections": [
+            {
+                "xmin": 384.03924560546875,
+                "ymin": 145.26348876953125,
+                "xmax": 440.8891906738281,
+                "ymax": 344.8319091796875,
+                "confidence": 0.40366506576538086,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:50.293",
+        "detections": [
+            {
+                "xmin": 387.18426513671875,
+                "ymin": 142.68643188476562,
+                "xmax": 443.8215637207031,
+                "ymax": 347.1550598144531,
+                "confidence": 0.39798226952552795,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:50.344",
+        "detections": [
+            {
+                "xmin": 389.65020751953125,
+                "ymin": 153.95262145996094,
+                "xmax": 445.4423828125,
+                "ymax": 336.4884948730469,
+                "confidence": 0.664872407913208,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:50.391",
+        "detections": [
+            {
+                "xmin": 391.04315185546875,
+                "ymin": 152.09579467773438,
+                "xmax": 445.13055419921875,
+                "ymax": 339.45166015625,
+                "confidence": 0.6973584890365601,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:50.440",
+        "detections": [
+            {
+                "xmin": 392.3984680175781,
+                "ymin": 153.50531005859375,
+                "xmax": 448.46136474609375,
+                "ymax": 337.2984619140625,
+                "confidence": 0.4789191484451294,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:50.491",
+        "detections": [
+            {
+                "xmin": 392.73370361328125,
+                "ymin": 151.98526000976562,
+                "xmax": 449.7827453613281,
+                "ymax": 339.5850524902344,
+                "confidence": 0.46597757935523987,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:50.537",
+        "detections": [
+            {
+                "xmin": 392.24578857421875,
+                "ymin": 150.531005859375,
+                "xmax": 450.4847106933594,
+                "ymax": 334.2755126953125,
+                "confidence": 0.3916519284248352,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:50.586",
+        "detections": [
+            {
+                "xmin": 392.8390197753906,
+                "ymin": 145.75563049316406,
+                "xmax": 452.3131408691406,
+                "ymax": 335.6620178222656,
+                "confidence": 0.4271477460861206,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:50.633",
+        "detections": [
+            {
+                "xmin": 392.6252136230469,
+                "ymin": 139.4781494140625,
+                "xmax": 456.8539733886719,
+                "ymax": 336.1390380859375,
+                "confidence": 0.4712105691432953,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:50.681",
+        "detections": [
+            {
+                "xmin": 392.3353271484375,
+                "ymin": 139.09039306640625,
+                "xmax": 457.0221862792969,
+                "ymax": 333.1191101074219,
+                "confidence": 0.5844140648841858,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:50.730",
+        "detections": [
+            {
+                "xmin": 392.79510498046875,
+                "ymin": 133.0123748779297,
+                "xmax": 456.6131591796875,
+                "ymax": 328.94390869140625,
+                "confidence": 0.42061764001846313,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:50.779",
+        "detections": [
+            {
+                "xmin": 390.7342224121094,
+                "ymin": 108.05408477783203,
+                "xmax": 455.9793701171875,
+                "ymax": 316.6496276855469,
+                "confidence": 0.531696617603302,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:50.828",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:50.885",
+        "detections": [
+            {
+                "xmin": 3.4475200176239014,
+                "ymin": 0.19105064868927002,
+                "xmax": 86.71356964111328,
+                "ymax": 86.24981689453125,
+                "confidence": 0.28870296478271484,
+                "class": 20,
+                "name": "windows"
+            },
+            {
+                "xmin": 391.61962890625,
+                "ymin": 61.644832611083984,
+                "xmax": 456.19482421875,
+                "ymax": 284.8960876464844,
+                "confidence": 0.2518618404865265,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:50.933",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:50.988",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:51.037",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:51.088",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:51.153",
+        "detections": [
+            {
+                "xmin": 4.54052734375,
+                "ymin": 78.63233947753906,
+                "xmax": 77.28141784667969,
+                "ymax": 134.2874755859375,
+                "confidence": 0.27953994274139404,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:51.203",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:51.254",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 3.682626247406006,
+                "xmax": 75.15982055664062,
+                "ymax": 88.38003540039062,
+                "confidence": 0.6433389782905579,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:51.305",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 0.8986257910728455,
+                "xmax": 71.35716247558594,
+                "ymax": 85.18302917480469,
+                "confidence": 0.7337170243263245,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:51.358",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 0.0,
+                "xmax": 69.96898651123047,
+                "ymax": 82.38911437988281,
+                "confidence": 0.8311668038368225,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:51.417",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 0.0,
+                "xmax": 66.6764907836914,
+                "ymax": 76.3448486328125,
+                "confidence": 0.49585407972335815,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:51.466",
+        "detections": [
+            {
+                "xmin": 0.09592977166175842,
+                "ymin": 0.28120940923690796,
+                "xmax": 69.52055358886719,
+                "ymax": 76.36625671386719,
+                "confidence": 0.6016932129859924,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:51.520",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 0.0,
+                "xmax": 71.11251068115234,
+                "ymax": 71.79666137695312,
+                "confidence": 0.46363794803619385,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:51.572",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 0.42482367157936096,
+                "xmax": 66.12702178955078,
+                "ymax": 71.00178527832031,
+                "confidence": 0.6695884466171265,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:51.627",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 0.0,
+                "xmax": 64.26905822753906,
+                "ymax": 67.07689666748047,
+                "confidence": 0.572021484375,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:51.678",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 0.271023690700531,
+                "xmax": 64.23102569580078,
+                "ymax": 63.45124053955078,
+                "confidence": 0.3688609004020691,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:51.727",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 0.0,
+                "xmax": 64.99980163574219,
+                "ymax": 61.037391662597656,
+                "confidence": 0.2573213279247284,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:51.777",
+        "detections": [
+            {
+                "xmin": 1.2200636863708496,
+                "ymin": 0.0,
+                "xmax": 57.69453811645508,
+                "ymax": 56.79704284667969,
+                "confidence": 0.25478503108024597,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:51.846",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:51.899",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:51.953",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:52.022",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:52.080",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:52.130",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:52.183",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:52.230",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:52.279",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:52.327",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:52.376",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:52.424",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:52.478",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:52.532",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:52.581",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:52.629",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:52.676",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:52.724",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:52.773",
+        "detections": [
+            {
+                "xmin": 0.0,
+                "ymin": 0.0,
+                "xmax": 70.73108673095703,
+                "ymax": 49.5066032409668,
+                "confidence": 0.2569480836391449,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:52.824",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:52.881",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:52.929",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:52.996",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:53.052",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:53.104",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:53.153",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:53.202",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:53.252",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:53.300",
+        "detections": [
+            {
+                "xmin": 1.3161486387252808,
+                "ymin": 0.5802927017211914,
+                "xmax": 91.30123901367188,
+                "ymax": 79.71283721923828,
+                "confidence": 0.2859038710594177,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:53.348",
+        "detections": [
+            {
+                "xmin": 3.3697781562805176,
+                "ymin": 4.216159343719482,
+                "xmax": 96.26170349121094,
+                "ymax": 87.02959442138672,
+                "confidence": 0.29359161853790283,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:53.396",
+        "detections": [
+            {
+                "xmin": 4.153320789337158,
+                "ymin": 4.983973979949951,
+                "xmax": 101.812744140625,
+                "ymax": 86.38652801513672,
+                "confidence": 0.299555242061615,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:53.445",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:53.492",
+        "detections": [
+            {
+                "xmin": 5.474282741546631,
+                "ymin": 7.550276756286621,
+                "xmax": 106.1587905883789,
+                "ymax": 95.40939331054688,
+                "confidence": 0.37899336218833923,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:53.540",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:53.590",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:53.638",
+        "detections": [
+            {
+                "xmin": 2.815101385116577,
+                "ymin": 7.770574569702148,
+                "xmax": 119.28439331054688,
+                "ymax": 108.22695922851562,
+                "confidence": 0.2621704638004303,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:53.687",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:53.735",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:53.784",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:53.835",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:53.889",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:53.938",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:53.989",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:54.042",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:54.093",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:54.156",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:54.206",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:54.269",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:54.320",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:54.368",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:54.424",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:54.474",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:54.523",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:54.585",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:54.636",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:54.728",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:54.785",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:54.840",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:54.891",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:54.938",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:55.012",
+        "detections": [
+            {
+                "xmin": 158.42953491210938,
+                "ymin": 0.0,
+                "xmax": 243.41534423828125,
+                "ymax": 127.9287109375,
+                "confidence": 0.2626301944255829,
+                "class": 20,
+                "name": "windows"
+            }
+        ]
+    },
+    {
+        "timestamp": "10:17:55.070",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:55.126",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:55.184",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:55.233",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:55.297",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:55.347",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:55.404",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:55.454",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:55.504",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:55.555",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:55.604",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:55.653",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:55.702",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:55.750",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:55.813",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:55.874",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:55.926",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:55.975",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:56.026",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:56.075",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:56.124",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:56.170",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:56.220",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:56.267",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:56.316",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:56.365",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:56.413",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:56.463",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:56.529",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:56.582",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:56.630",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:56.680",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:56.728",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:56.776",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:56.825",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:56.873",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:56.923",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:56.970",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:57.020",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:57.069",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:57.121",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:57.174",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:57.231",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:57.285",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:57.337",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:57.400",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:57.450",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:57.518",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:57.568",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:57.616",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:57.664",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:57.714",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:57.764",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:57.820",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:57.872",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:57.921",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:57.978",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:58.035",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:58.088",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:58.136",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:58.185",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:58.234",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:58.284",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:58.335",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:58.383",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:58.439",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:58.491",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:58.540",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:58.589",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:58.637",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:58.689",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:58.746",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:58.796",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:58.847",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:58.899",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:58.948",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:58.998",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:59.049",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:59.101",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:59.152",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:59.199",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:59.247",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:59.298",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:59.347",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:59.400",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:59.452",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:59.526",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:59.581",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:59.640",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:59.691",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:59.741",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:59.794",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:59.846",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:59.903",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:59.952",
+        "detections": []
+    },
+    {
+        "timestamp": "10:17:59.999",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:00.050",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:00.099",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:00.147",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:00.197",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:00.246",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:00.294",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:00.344",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:00.393",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:00.445",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:00.498",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:00.558",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:00.623",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:00.678",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:00.727",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:00.776",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:00.825",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:00.873",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:00.922",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:00.972",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:01.026",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:01.074",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:01.125",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:01.192",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:01.247",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:01.311",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:01.379",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:01.440",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:01.524",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:01.586",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:01.647",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:01.702",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:01.763",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:01.828",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:01.887",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:01.949",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:01.998",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:02.053",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:02.101",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:02.154",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:02.208",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:02.264",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:02.312",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:02.364",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:02.412",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:02.463",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:02.514",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:02.573",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:02.625",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:02.693",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:02.750",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:02.804",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:02.857",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:02.907",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:02.957",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:03.022",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:03.077",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:03.131",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:03.185",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:03.243",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:03.296",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:03.351",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:03.401",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:03.449",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:03.498",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:03.560",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:03.610",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:03.666",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:03.716",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:03.781",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:03.830",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:03.889",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:03.951",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:04.016",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:04.065",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:04.114",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:04.161",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:04.213",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:04.261",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:04.311",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:04.360",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:04.413",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:04.466",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:04.527",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:04.584",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:04.634",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:04.693",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:04.744",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:04.810",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:04.861",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:04.914",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:04.967",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:05.020",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:05.069",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:05.119",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:05.168",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:05.217",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:05.268",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:05.330",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:05.380",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:05.428",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:05.477",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:05.530",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:05.582",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:05.630",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:05.683",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:05.732",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:05.780",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:05.838",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:05.888",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:05.945",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:05.996",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:06.067",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:06.122",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:06.171",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:06.223",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:06.272",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:06.323",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:06.374",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:06.424",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:06.473",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:06.522",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:06.571",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:06.624",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:06.675",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:06.734",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:06.788",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:06.849",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:06.900",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:06.949",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:07.026",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:07.089",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:07.146",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:07.195",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:07.245",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:07.294",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:07.344",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:07.392",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:07.440",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:07.489",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:07.538",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:07.589",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:07.638",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:07.686",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:07.738",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:07.787",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:07.835",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:07.898",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:07.951",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:08.016",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:08.066",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:08.116",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:08.164",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:08.211",
+        "detections": []
+    },
+    {
+        "timestamp": "10:18:08.259",
+        "detections": []
+    }
+]

@@ -1,0 +1,980 @@
+[
+    {
+        "timestamp": 1761410571.733748,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410571.788018,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410571.841019,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410571.896045,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410571.950021,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410572.045103,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410572.097932,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410572.152019,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410572.203501,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410572.2512488,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410572.305147,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410572.355316,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410572.403716,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410572.452179,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410572.5038981,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410572.556012,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410572.6063738,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410572.653364,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410572.6983979,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410572.745972,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410572.793108,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410572.839183,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410572.885152,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410572.932704,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410572.9842088,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410573.0329401,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410573.0840409,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410573.131705,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410573.1798651,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410573.2262442,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410573.273515,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410573.322183,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410573.370683,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410573.4168231,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410573.465253,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410573.511754,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410573.55865,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410573.610173,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410573.655935,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410573.701903,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410573.748909,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410573.797066,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410573.842315,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410573.887671,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410573.932182,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410573.979506,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410574.026552,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410574.072128,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410574.142869,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410574.1966689,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410574.243489,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410574.290168,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410574.335526,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410574.381401,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410574.4276779,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410574.4735749,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410574.521676,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410574.568226,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410574.614518,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410574.661758,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410574.711901,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410574.771766,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410574.835917,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410574.8828611,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410574.9324229,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410574.982026,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410575.032885,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410575.0837529,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410575.134072,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410575.1826172,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410575.227856,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410575.2790499,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410575.32532,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410575.376211,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410575.424742,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410575.471714,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410575.520119,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410575.567578,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410575.615774,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410575.662219,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410575.707724,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410575.7567658,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410575.803621,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410575.8482969,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410575.89494,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410575.9398541,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410575.986073,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410576.032183,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410576.078272,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410576.124021,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410576.171175,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410576.217014,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410576.263988,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410576.309375,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410576.355828,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410576.401044,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410576.448032,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410576.493244,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410576.539367,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410576.585929,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410576.632951,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410576.681018,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410576.72687,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410576.773372,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410576.819978,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410576.865261,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410576.910843,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410576.9585438,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410577.004383,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410577.0498261,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410577.09655,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410577.141731,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410577.18976,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410577.235687,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410577.282481,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410577.328287,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410577.3799748,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410577.428128,
+        "detections": [
+            {
+                "xmin": 141.46771240234375,
+                "ymin": 0.0,
+                "xmax": 278.07000732421875,
+                "ymax": 55.81550598144531,
+                "confidence": 0.25648006796836853,
+                "class": 18,
+                "name": "water-stain"
+            }
+        ]
+    },
+    {
+        "timestamp": 1761410577.473495,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410577.5184262,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410577.5649269,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410577.610704,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410577.656794,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410577.704134,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410577.750444,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410577.8011441,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410577.846417,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410577.899683,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410577.946548,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410577.993078,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410578.039517,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410578.0850549,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410578.130744,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410578.176631,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410578.2224588,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410578.269044,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410578.3141901,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410578.360229,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410578.4056551,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410578.45144,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410578.4984388,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410578.549943,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410578.597855,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410578.643507,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410578.689701,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410578.7382889,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410578.784819,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410578.831428,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410578.876469,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410578.923661,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410578.9698381,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410579.0151198,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410579.065544,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410579.115679,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410579.161689,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410579.206673,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410579.2529228,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410579.298005,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410579.3441238,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410579.389502,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410579.434773,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410579.482374,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410579.536789,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410579.581762,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410579.6272588,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410579.673755,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410579.720551,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410579.767859,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410579.813262,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410579.859651,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410579.905822,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410579.953818,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410580.000281,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410580.0494342,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410580.096755,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410580.1427479,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410580.1900191,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410580.236802,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410580.2836978,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410580.331109,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410580.376448,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410580.422466,
+        "detections": [
+            {
+                "xmin": 140.03790283203125,
+                "ymin": 0.0,
+                "xmax": 279.0024108886719,
+                "ymax": 56.47004699707031,
+                "confidence": 0.25672534108161926,
+                "class": 18,
+                "name": "water-stain"
+            }
+        ]
+    },
+    {
+        "timestamp": 1761410580.4676712,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410580.5134258,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410580.564498,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410580.630362,
+        "detections": [
+            {
+                "xmin": 140.93344116210938,
+                "ymin": 0.0,
+                "xmax": 278.23089599609375,
+                "ymax": 56.12794494628906,
+                "confidence": 0.2620663642883301,
+                "class": 18,
+                "name": "water-stain"
+            }
+        ]
+    },
+    {
+        "timestamp": 1761410580.6836429,
+        "detections": [
+            {
+                "xmin": 140.89816284179688,
+                "ymin": 0.0,
+                "xmax": 278.6785888671875,
+                "ymax": 56.01280975341797,
+                "confidence": 0.2580293118953705,
+                "class": 18,
+                "name": "water-stain"
+            }
+        ]
+    },
+    {
+        "timestamp": 1761410580.730725,
+        "detections": [
+            {
+                "xmin": 140.57611083984375,
+                "ymin": 0.0,
+                "xmax": 278.7837829589844,
+                "ymax": 56.37384033203125,
+                "confidence": 0.2623828947544098,
+                "class": 18,
+                "name": "water-stain"
+            }
+        ]
+    },
+    {
+        "timestamp": 1761410580.77691,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410580.824918,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410580.870985,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410580.916904,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410580.965506,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410581.012896,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410581.058204,
+        "detections": [
+            {
+                "xmin": 142.5560302734375,
+                "ymin": 0.0,
+                "xmax": 278.240234375,
+                "ymax": 55.337379455566406,
+                "confidence": 0.264167845249176,
+                "class": 18,
+                "name": "water-stain"
+            }
+        ]
+    },
+    {
+        "timestamp": 1761410581.1073658,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410581.153177,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410581.1980538,
+        "detections": [
+            {
+                "xmin": 141.37098693847656,
+                "ymin": 0.0,
+                "xmax": 279.3160400390625,
+                "ymax": 55.67234802246094,
+                "confidence": 0.2612112760543823,
+                "class": 18,
+                "name": "water-stain"
+            }
+        ]
+    },
+    {
+        "timestamp": 1761410581.244006,
+        "detections": []
+    },
+    {
+        "timestamp": 1761410581.290581,
+        "detections": [
+            {
+                "xmin": 141.1638946533203,
+                "ymin": 0.0,
+                "xmax": 278.484375,
+                "ymax": 56.05678939819336,
+                "confidence": 0.2858382761478424,
+                "class": 18,
+                "name": "water-stain"
+            }
+        ]
+    },
+    {
+        "timestamp": 1761410581.3360481,
+        "detections": [
+            {
+                "xmin": 141.8620147705078,
+                "ymin": 0.0,
+                "xmax": 278.49169921875,
+                "ymax": 55.64830780029297,
+                "confidence": 0.264656662940979,
+                "class": 18,
+                "name": "water-stain"
+            }
+        ]
+    },
+    {
+        "timestamp": 1761410581.380682,
+        "detections": [
+            {
+                "xmin": 141.81057739257812,
+                "ymin": 0.0,
+                "xmax": 278.6916198730469,
+                "ymax": 55.2969970703125,
+                "confidence": 0.2724459171295166,
+                "class": 18,
+                "name": "water-stain"
+            }
+        ]
+    },
+    {
+        "timestamp": 1761410581.426243,
+        "detections": [
+            {
+                "xmin": 141.56903076171875,
+                "ymin": 0.0,
+                "xmax": 278.399169921875,
+                "ymax": 55.3380241394043,
+                "confidence": 0.28502795100212097,
+                "class": 18,
+                "name": "water-stain"
+            }
+        ]
+    },
+    {
+        "timestamp": 1761410581.4725592,
+        "detections": [
+            {
+                "xmin": 141.2408447265625,
+                "ymin": 0.0,
+                "xmax": 278.90606689453125,
+                "ymax": 55.93016052246094,
+                "confidence": 0.29178881645202637,
+                "class": 18,
+                "name": "water-stain"
+            }
+        ]
+    },
+    {
+        "timestamp": 1761410581.5182662,
+        "detections": [
+            {
+                "xmin": 141.37722778320312,
+                "ymin": 0.0,
+                "xmax": 278.4109802246094,
+                "ymax": 55.85464096069336,
+                "confidence": 0.2820339798927307,
+                "class": 18,
+                "name": "water-stain"
+            }
+        ]
+    },
+    {
+        "timestamp": 1761410581.563616,
+        "detections": [
+            {
+                "xmin": 141.09007263183594,
+                "ymin": 0.0,
+                "xmax": 279.17987060546875,
+                "ymax": 55.591556549072266,
+                "confidence": 0.2918623983860016,
+                "class": 18,
+                "name": "water-stain"
+            }
+        ]
+    },
+    {
+        "timestamp": 1761410581.6101959,
+        "detections": [
+            {
+                "xmin": 141.52650451660156,
+                "ymin": 0.0,
+                "xmax": 278.7685241699219,
+                "ymax": 55.297306060791016,
+                "confidence": 0.27169036865234375,
+                "class": 18,
+                "name": "water-stain"
+            }
+        ]
+    }
+]
