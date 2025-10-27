@@ -1,5 +1,7 @@
 # Real(i)tor: a smarter way to inspect and valuate properties.
 
+Checkout our Demo: https://www.youtube.com/watch?v=817DrbgN4qQ&t=1s
+
 ## Inspiration
 One of our team members, Saketh, noticed that first-time homebuyers often struggle to really understand what they’re looking at when touring homes. Things like cracks in the floor, stains on the ceiling, or uneven surfaces can be easy to miss, but they add up. While inspection services exist, they’re still mostly manual and can be expensive or time consuming. On top of that, the buying process itself can feel overwhelming since most people don’t even know what to ask or where to start.
 That’s what inspired us to build something that actually empowers buyers and brings fresh innovation to an industry that hasn’t changed much in decades. Companies like Inspectify, a YC backed startup, have made strides by connecting inspectors and clients online, but we want to take it further by creating an automated, intelligent solution that helps buyers spot problems instantly and feel more confident about one of the biggest decisions of their lives.
